@@ -1,0 +1,18 @@
+/*
+ * Ganguli Lab website styles
+*/
+
+body {
+		background: url('../img/redox2.png') repeat 0 0;
+}
+
+.container-narrow {
+		width: 900px;
+		margin: 0 auto;
+		margin-top: 80px;
+}
+
+hr {
+		background:#000;
+		height:2px;
+}
