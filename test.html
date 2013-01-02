@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test 1</title>
+	<script src="js/handlebars.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script id="result-template" type="text/x-handlebars-template">
+		<h2>Your Bio</h2>
+		<p>
+		Your name is {{firstname}} {{lastname}}, and you are {{age}} years old.
+		</p>
+	</script>
+  <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+</head>
+
+<body onload="init();">
+
+	<h2>Render Simple Bio</h2>
+	<div id="resultDiv"></div>
+
+    <script type="text/javascript">
+        var xhr;
+        function init() {
+								var src = document.getElementById("result-template").innerHTML;
+                var tmpl = Handlebars.compile(src);
+								var json = { firstname: 'Test', lastname: 'Name', age: 23 };
+								document.getElementById("resultDiv").innerHTML = tmpl(json);
+        }
+    </script>
+
+</body>
+</html>
