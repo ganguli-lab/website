@@ -3,7 +3,7 @@
 		<head>
 				<title>Ganguli Lab</title>
 				<!-- Bootstrap -->
-				<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+				<link href="css/cosmo.css" rel="stylesheet" media="screen">
 				<link href="css/index.css" rel="stylesheet" media="screen">
 				<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 		</head>
@@ -26,49 +26,7 @@
       </div>
 
       <hr>
-
-      <div class="row-fluid marketing">
-					<div class="span3">
-						<img src="http://placehold.it/225x175">
-					</div>
-					<div class="span8">
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.</p>
-					</div>
-			</div>
-			<br/>
-
-     <div class="row-fluid marketing">
-					<div class="span3">
-						<img src="http://placehold.it/225x175">
-					</div>
-					<div class="span8">
-							<p>Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. </p>
-					</div>
-			</div>
-
-
-        <!--<div class="span6">-->
-          <!--<h4>Subheading</h4>-->
-          <!--<p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>-->
-
-          <!--<h4>Subheading</h4>-->
-          <!--<p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>-->
-
-          <!--<h4>Subheading</h4>-->
-          <!--<p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>-->
-        <!--</div>-->
-
-        <!--<div class="span6">-->
-          <!--<h4>Subheading</h4>-->
-          <!--<p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>-->
-
-          <!--<h4>Subheading</h4>-->
-          <!--<p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>-->
-
-          <!--<h4>Subheading</h4>-->
-          <!--<p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>-->
-        <!--</div>-->
-
+			<div id="pubs-placeholder"></div>
       <hr>
 
       <div class="footer">
@@ -81,6 +39,32 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/bootstrap.min.js"></script>
+		<script src="js/handlebars.js"></script>
 
+		<!-- Publications template -->
+		<script id="pubs-template" type="text/x-handlebars-template">
+				{{#publications}}
+				<div class="row-fluid marketing">
+					<div class="span2 offset1">
+							<img class="profile img-polaroid" src="{{imgsrc}}">
+					</div>
+					<div class="span8">
+							<p class="lead">{{title}}</p>
+							<p>{{authors}} - {{journal}} {{pubinfo}} {{date}}</p>
+					</div>
+				</div>
+				{{/publications}}
+		</script>
+
+		<!-- Template insertion code -->
+		<script type="text/javascript">
+        var src = document.getElementById("pubs-template").innerHTML;
+        var tmpl = Handlebars.compile(src);
+        var json = {"publications":[
+                {"title":"Title of the article.", "authors":"Joe Gradstudent and Sally Postdoc", "journal":"Journal Name", "pubinfo":"(vol) pages", "date":"publication date", "abstract":"Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat.", "imgsrc":"http://placehold.it/130x130"}
+            ]};
+        document.getElementById("pubs-placeholder").innerHTML = tmpl(json);
+    //]]>
+    </script>
 		</body>
 </html>

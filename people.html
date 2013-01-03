@@ -3,7 +3,7 @@
 		<head>
 				<title>Ganguli Lab</title>
 				<!-- Bootstrap -->
-				<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+				<link href="css/spruce.css" rel="stylesheet" media="screen">
 				<link href="css/index.css" rel="stylesheet" media="screen">
 				<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 		</head>
@@ -45,10 +45,10 @@
 		<script id="people-template" type="text/x-handlebars-template">
 				{{#people}}
 				<div class="row-fluid marketing">
-					<div class="span2 offset2">
-						<img src="http://placehold.it/130x130">
+					<div class="span2 offset1">
+							<img class="profile img-polaroid" src="{{imgsrc}}">
 					</div>
-					<div class="span6">
+					<div class="span8">
 							<p class="lead">{{firstname}} {{lastname}} <span class="muted">{{email}}</span></p>
 							<p>{{description}}</p>
 					</div>
@@ -61,9 +61,9 @@
         var src = document.getElementById("people-template").innerHTML;
         var tmpl = Handlebars.compile(src);
         var json = {"people":[
-                {"firstname":"Surya", "lastname":"Ganguli", "email":"sganguli@stanford.edu", "description":"asdf"},
-                {"firstname":"Joe", "lastname":"Postdoc", "email":"jpostdoc@stanford.edu", "description":"asdf asdf asdf"},
-                {"firstname":"Jane", "lastname":"Gradstudent", "email":"jgradstudent@stanford.edu", "description":"jkl;"}
+                {"firstname":"Surya", "lastname":"Ganguli", "email":"sganguli@stanford.edu", "description":" Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat.", "imgsrc":"http://placehold.it/130x130"},
+                {"firstname":"Joe", "lastname":"Postdoc", "email":"jpostdoc@stanford.edu", "description":" Integer in nisi ut elit consectetur elementum a ac augue. Sed ut mauris rutrum sem sagittis aliquet non vitae tortor. Nullam vel diam ut eros laoreet dapibus. Nulla hendrerit commodo mollis. Ut vestibulum lacus in risus pharetra gravida. Maecenas purus libero, aliquet non porttitor non, vehicula eget orci. Praesent eu neque enim, ut scelerisque mauris.", "imgsrc":"http://placehold.it/130x130"},
+                {"firstname":"Jane", "lastname":"Gradstudent", "email":"jgradstudent@stanford.edu", "description":" Vestibulum quis tortor nibh. Quisque commodo erat dolor. Vestibulum a odio augue. Donec at mi enim. In varius fringilla nulla at rhoncus. Phasellus nec lacus tellus, a volutpat lectus. Donec vestibulum felis dolor, eget suscipit lorem.", "imgsrc":"http://placehold.it/130x130"}
             ]};
         document.getElementById("people-placeholder").innerHTML = tmpl(json);
     //]]>
