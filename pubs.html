@@ -39,32 +39,33 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.min.js"></script>
 		<script src="js/handlebars.js"></script>
 
 		<!-- Publications template -->
 		<script id="pubs-template" type="text/x-handlebars-template">
-				{{#publications}}
 				<div class="row-fluid marketing">
 					<div class="span2 offset1">
-							<img class="profile img-polaroid" src="{{imgsrc}}">
+						{{#publications}}
+						{{#if imgsrc}}<img class="profile img-polaroid" src="{{imgsrc}}">{{/if}}
+						{{/publications}}
 					</div>
 					<div class="span8">
+						{{#publications}}
 							<p class="lead">{{title}}</p>
 							<p>{{authors}} - {{journal}} {{pubinfo}} {{date}}</p>
+						{{/publications}}
 					</div>
 				</div>
-				{{/publications}}
 		</script>
 
 		<!-- Template insertion code -->
 		<script type="text/javascript">
-        var src = document.getElementById("pubs-template").innerHTML;
-        var tmpl = Handlebars.compile(src);
-        var json = {"publications":[
-                {"title":"Title of the article.", "authors":"Joe Gradstudent and Sally Postdoc", "journal":"Journal Name", "pubinfo":"(vol) pages", "date":"publication date", "abstract":"Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat.", "imgsrc":"http://placehold.it/130x130"}
-            ]};
-        document.getElementById("pubs-placeholder").innerHTML = tmpl(json);
-    //]]>
+				$.getJSON('pubs.json', function(data) {
+								var src = document.getElementById("pubs-template").innerHTML;
+								var tmpl = Handlebars.compile(src);
+								document.getElementById("pubs-placeholder").innerHTML = tmpl(data);
+								});
     </script>
 		</body>
 </html>

@@ -1,0 +1,22 @@
+{
+		"publications":
+		[
+				{
+						"title":"Title of the article.",
+						"authors":"Joe Gradstudent and Sally Postdoc",
+						"journal":"Journal Name",
+						"pubinfo":"(vol) pages",
+						"date":"publication date",
+						"abstract":"Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat.",
+						"imgsrc":"http://placehold.it/100x100"
+				},
+        {
+						"title":"Another paper.",
+						"authors":"Joe Gradstudent and Sally Postdoc",
+						"journal":"My Journal",
+						"pubinfo":"(vol) pages",
+						"date":"publication date",
+						"abstract":"Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat."
+				}
+		]
+}
