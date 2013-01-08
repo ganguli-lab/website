@@ -20,7 +20,7 @@
           <li><a href="people.html">People</a></li>
           <li class="active"><a href="#">Publications</a></li>
 					<li><a href="teaching.html">Teaching</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="contact.html">Contact</a></li>
         </ul>
         <h3 class="muted">Ganguli Lab</h3>
       </div>
@@ -45,17 +45,25 @@
 		<!-- Publications template -->
 		<script id="pubs-template" type="text/x-handlebars-template">
 				<div class="row-fluid marketing">
-					<div class="span2 offset1">
+
+					<div class="span7 offset1 publist">
+						{{#publications}}
+						<div class="publication">
+						  <p class="pubauthors">{{authors}}</p>
+							<p class="pubtitle">{{title}}</p>
+							<p><span class="pubinfo">{{journal}} {{pubinfo}} {{date}}</span>
+								 <span class="publinks">{{#if pdflink}}<a href="{{pdflink}}">PDF</a>{{/if}}</span>
+							</p>
+						</div>
+						{{/publications}}
+					</div>
+
+					<div class="span3">
 						{{#publications}}
 						{{#if imgsrc}}<img class="profile img-polaroid" src="{{imgsrc}}">{{/if}}
 						{{/publications}}
 					</div>
-					<div class="span8">
-						{{#publications}}
-							<p class="lead">{{title}}</p>
-							<p>{{authors}} - {{journal}} {{pubinfo}} {{date}}</p>
-						{{/publications}}
-					</div>
+
 				</div>
 		</script>
 

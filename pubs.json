@@ -2,21 +2,29 @@
 		"publications":
 		[
 				{
-						"title":"Title of the article.",
+						"title": "Compressed sensing in the brain: the role of sparseness in short term and long term memory.",
+						"authors": "S. Ganguli, H. Sompolinsky",
+						"date": "June 2012",
+						"abstract": "Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat.",
+						"imgsrc": "http://placehold.it/300x300",
+						"pdflink": "http://www.annualreviews.org/doi/pdf/10.1146/annurev-neuro-062111-150410"
+				},
+				{
+						"title":"Another article title.",
 						"authors":"Joe Gradstudent and Sally Postdoc",
-						"journal":"Journal Name",
+						"journal":"Journal of Research",
 						"pubinfo":"(vol) pages",
 						"date":"publication date",
-						"abstract":"Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat.",
-						"imgsrc":"http://placehold.it/100x100"
+						"abstract":"Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat."
 				},
         {
-						"title":"Another paper.",
+						"title":"Another interesting paper.",
 						"authors":"Joe Gradstudent and Sally Postdoc",
 						"journal":"My Journal",
 						"pubinfo":"(vol) pages",
 						"date":"publication date",
-						"abstract":"Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat."
+						"abstract":"Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat.",
+						"imgsrc":"http://placehold.it/300x200"
 				}
 		]
 }

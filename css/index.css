@@ -2,6 +2,8 @@
  * Ganguli Lab website styles
 */
 
+
+/************* global *************/
 body {
 		background: url('../img/redox2.png') repeat 0 0;
 }
@@ -17,7 +19,7 @@ hr {
 		height:2px;
 }
 
-/* People page */
+/************* People page ***********/
 .profile {
 		margin-top: 5px;
 }
@@ -34,4 +36,45 @@ hr {
 .marketing .muted {
 		margin-left: 10px;
 		font-size: 16px;
+}
+
+/************* publications page ***********/
+.publication {
+		margin-bottom: 35px;
+}
+
+.pubauthors {
+		font-family: “Trebuchet MS”, sans-serif;
+		font-size: 15px;
+		font-style: normal;
+		font-weight: bold;
+		text-transform: normal;
+		letter-spacing: -1px;
+		line-height: 1.0em;
+		margin-bottom: 5px;
+}
+
+.pubtitle {
+		font-size: 14px;
+		margin-bottom: 0px;
+}
+
+.pubinfo {
+		font-family: Georgia, serif;
+		font-size: 13px;
+		font-style: italic;
+		font-weight: normal;
+		text-transform: normal;
+		letter-spacing: normal;
+		line-height: 1.0em;
+
+		margin-right: 10px;
+}
+
+.publinks {
+		float: right;
+}
+
+.publist {
+		margin-top: 10px;
 }
