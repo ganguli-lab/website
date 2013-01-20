@@ -2,10 +2,20 @@
  * Ganguli Lab website styles
 */
 
+/************* COLORS *************/
+body{color:#3f3c30;background-color:#fbfbf9;}
+a{color:#820000;}
+a:hover{color:#2e2d29;text-decoration:underline;}
+a.muted:hover{color:#eee6cb;}
+h1,h2,h3,h4,h5,h6{color:#2e2d29;}
+h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{color:#3f3c30;}
+.nav-pills>.active>a,.nav-pills>.active>a:hover{color:#ffffff;background-color:#820000;}
+.muted{color:#8a887d;}
+hr{border-top:1px solid #e9e6df;border-bottom:1px solid #ffffff;}
 
 /************* global *************/
 body {
-		background: url('../img/redox2.png') repeat 0 0;
+		background: url('../img/lightwool.png') repeat 0 0;
 }
 
 .container-narrow {
@@ -15,8 +25,22 @@ body {
 }
 
 hr {
-		background:#000;
 		height:2px;
+}
+
+.title {
+		font-size: 20px;
+		color: #8a887d;
+}
+
+h1 {
+		font-size: 38px;
+}
+
+/************* homepage **************/
+.maintitle {
+		text-align: center;
+		margin-bottom: 20px;
 }
 
 /************* People page ***********/

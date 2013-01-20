@@ -46,7 +46,7 @@
 		<script id="pubs-template" type="text/x-handlebars-template">
 				<div class="row-fluid marketing">
 
-					<div class="span7 offset1 publist">
+					<div class="span8 publist">
 						{{#publications}}
 						<div class="publication">
 						  <p class="pubauthors">{{authors}}</p>
@@ -58,9 +58,9 @@
 						{{/publications}}
 					</div>
 
-					<div class="span3">
+					<div class="span3 offset1">
 						{{#publications}}
-						{{#if imgsrc}}<img class="profile img-polaroid" src="{{imgsrc}}">{{/if}}
+						{{#if imgsrc}}<img class="profile" src="{{imgsrc}}">{{/if}}
 						{{/publications}}
 					</div>
 
