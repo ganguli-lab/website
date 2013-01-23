@@ -1,0 +1,54 @@
+{
+  "people":
+  [
+    {
+      "firstname":"Surya",
+      "lastname":"Ganguli",
+      "email":"sganguli@stanford.edu",
+      "description":" Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat.",
+      "imgsrc":"http://placehold.it/130x130"
+    },
+    {
+      "firstname":"Subhaneil",
+      "lastname":"Lahiri",
+      "email":"slahiri@stanford.edu",
+      "description":" Integer in nisi ut elit consectetur elementum a ac augue. Sed ut mauris rutrum sem sagittis aliquet non vitae tortor. Nullam vel diam ut eros laoreet dapibus. Nulla hendrerit commodo mollis. Ut vestibulum lacus in risus pharetra gravida. Maecenas purus libero, aliquet non porttitor non, vehicula eget orci. Praesent eu neque enim, ut scelerisque mauris.",
+      "imgsrc":"http://placehold.it/130x130"
+    },
+    {
+      "firstname":"Jascha",
+      "lastname":"Sohl-Dickstein",
+      "email":"jascha@stanford.edu",
+      "description":" Vestibulum quis tortor nibh. Quisque commodo erat dolor. Vestibulum a odio augue. Donec at mi enim. In varius fringilla nulla at rhoncus. Phasellus nec lacus tellus, a volutpat lectus. Donec vestibulum felis dolor, eget suscipit lorem.",
+      "imgsrc":"http://placehold.it/130x130"
+    },
+    {
+      "firstname":"Peiran",
+      "lastname":"Gao",
+      "email":"prgao@stanford.edu",
+      "description":" Vestibulum quis tortor nibh. Quisque commodo erat dolor. Vestibulum a odio augue. Donec at mi enim. In varius fringilla nulla at rhoncus. Phasellus nec lacus tellus, a volutpat lectus. Donec vestibulum felis dolor, eget suscipit lorem.",
+      "imgsrc":"http://placehold.it/130x130"
+    },
+    {
+      "firstname":"Madhu",
+      "lastname":"Advani",
+      "email":"madvani@stanford.edu",
+      "description":" Vestibulum quis tortor nibh. Quisque commodo erat dolor. Vestibulum a odio augue. Donec at mi enim. In varius fringilla nulla at rhoncus. Phasellus nec lacus tellus, a volutpat lectus. Donec vestibulum felis dolor, eget suscipit lorem.",
+      "imgsrc":"http://placehold.it/130x130"
+    },
+    {
+      "firstname":"Niru",
+      "lastname":"Maheswaranathan",
+      "email":"nirum@stanford.edu",
+      "description":" Vestibulum quis tortor nibh. Quisque commodo erat dolor. Vestibulum a odio augue. Donec at mi enim. In varius fringilla nulla at rhoncus. Phasellus nec lacus tellus, a volutpat lectus. Donec vestibulum felis dolor, eget suscipit lorem.",
+      "imgsrc":"http://placehold.it/130x130"
+    },
+    {
+      "firstname":"Ben",
+      "lastname":"Poole",
+      "email":"poole@cs.stanford.edu",
+      "description":" Vestibulum quis tortor nibh. Quisque commodo erat dolor. Vestibulum a odio augue. Donec at mi enim. In varius fringilla nulla at rhoncus. Phasellus nec lacus tellus, a volutpat lectus. Donec vestibulum felis dolor, eget suscipit lorem.",
+      "imgsrc":"http://placehold.it/130x130"
+    }
+  ]
+}

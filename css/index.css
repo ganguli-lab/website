@@ -37,6 +37,10 @@ h1 {
 		font-size: 38px;
 }
 
+.masthead a:hover {
+		text-decoration: none;
+}
+
 /************* homepage **************/
 .maintitle {
 		text-align: center;
@@ -67,7 +71,7 @@ h1 {
 		margin-bottom: 35px;
 }
 
-.pubauthors {
+.pubtitle {
 		font-family: “Trebuchet MS”, sans-serif;
 		font-size: 15px;
 		font-style: normal;
@@ -78,7 +82,7 @@ h1 {
 		margin-bottom: 5px;
 }
 
-.pubtitle {
+.pubauthors {
 		font-size: 14px;
 		margin-bottom: 0px;
 }

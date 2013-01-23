@@ -20,13 +20,12 @@
           <li class="active"><a href="#">People</a></li>
           <li><a href="pubs.html">Publications</a></li>
 					<li><a href="teaching.html">Teaching</a></li>
-          <li><a href="contact.html">Contact</a></li>
         </ul>
-        <h3 class="muted">Ganguli Lab</h3>
+				<a href="index.html"><h3 class="title">Neural Dynamics and Computation Lab</h3></a>
       </div>
 
       <hr>
-			<div id="people-placeholder"></div>
+			<div id="people-placeholder">Loading ...</div>
       <hr>
 
       <div class="footer">
@@ -39,6 +38,7 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.min.js"></script>
 		<script src="js/handlebars.js"></script>
 
 		<!-- People template -->
@@ -58,15 +58,11 @@
 
 		<!-- Template insertion code -->
 		<script type="text/javascript">
-        var src = document.getElementById("people-template").innerHTML;
-        var tmpl = Handlebars.compile(src);
-        var json = {"people":[
-                {"firstname":"Surya", "lastname":"Ganguli", "email":"sganguli@stanford.edu", "description":" Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat.", "imgsrc":"http://placehold.it/130x130"},
-                {"firstname":"Joe", "lastname":"Postdoc", "email":"jpostdoc@stanford.edu", "description":" Integer in nisi ut elit consectetur elementum a ac augue. Sed ut mauris rutrum sem sagittis aliquet non vitae tortor. Nullam vel diam ut eros laoreet dapibus. Nulla hendrerit commodo mollis. Ut vestibulum lacus in risus pharetra gravida. Maecenas purus libero, aliquet non porttitor non, vehicula eget orci. Praesent eu neque enim, ut scelerisque mauris.", "imgsrc":"http://placehold.it/130x130"},
-                {"firstname":"Jane", "lastname":"Gradstudent", "email":"jgradstudent@stanford.edu", "description":" Vestibulum quis tortor nibh. Quisque commodo erat dolor. Vestibulum a odio augue. Donec at mi enim. In varius fringilla nulla at rhoncus. Phasellus nec lacus tellus, a volutpat lectus. Donec vestibulum felis dolor, eget suscipit lorem.", "imgsrc":"http://placehold.it/130x130"}
-            ]};
-        document.getElementById("people-placeholder").innerHTML = tmpl(json);
-    //]]>
+				$.getJSON('people.json', function(data) {
+								var src = document.getElementById("people-template").innerHTML;
+								var tmpl = Handlebars.compile(src);
+								document.getElementById("people-placeholder").innerHTML = tmpl(data);
+								});
     </script>
 		</body>
 </html>
