@@ -50,8 +50,8 @@
 						<div class="publication">
 							<p class="pubtitle">{{title}}</p>
 						  <p class="pubauthors">{{authors}}</p>
-							<p><span class="pubinfo">{{journal}} {{pubinfo}} {{date}}</span>
-								 <span class="publinks">{{#if pdflink}}<a href="{{pdflink}}">PDF</a>{{/if}}</span>
+							<p><span class="pubinfo">{{#if abstract}}<a href="{{abstract}}">Abstract</a>{{/if}} {{#if pdflink}}<a href="{{pdflink}}">PDF</a>{{/if}}</span>
+								 <!--<span class="publinks">{{#if pdflink}}<a href="{{pdflink}}">PDF</a>{{/if}}</span>-->
 							</p>
 						</div>
 						{{/publications}}
