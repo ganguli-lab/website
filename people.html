@@ -50,7 +50,7 @@
 					</div>
 					<div class="span8">
 							<p class="lead">{{firstname}} {{lastname}} <span class="muted">{{email}}</span></p>
-							<p>{{description}}</p>
+							<p>{{getDesc}}</p>
 					</div>
 				</div>
 				{{/people}}
@@ -61,6 +61,11 @@
 				$.getJSON('data/people.json', function(data) {
 								var src = document.getElementById("people-template").innerHTML;
 								var tmpl = Handlebars.compile(src);
+
+								Handlebars.registerHelper('getDesc', function() {
+									return new Handlebars.SafeString(this.description);
+								});
+
 								document.getElementById("people-placeholder").innerHTML = tmpl(data);
 								});
     </script>
