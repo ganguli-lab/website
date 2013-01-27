@@ -45,19 +45,24 @@
 		<script id="pubs-template" type="text/x-handlebars-template">
 				<div class="row-fluid marketing">
 
-					<div class="span8 publist">
+					<div class="span9 publist">
 						{{#publications}}
 						<div class="publication">
 							<p class="pubtitle">{{title}}</p>
-						  <p class="pubauthors">{{authors}}</p>
-							<p><span class="pubinfo">{{#if abstract}}<a href="{{abstract}}">Abstract</a>{{/if}} {{#if pdflink}}<a href="{{pdflink}}">PDF</a>{{/if}}</span>
-								 <!--<span class="publinks">{{#if pdflink}}<a href="{{pdflink}}">PDF</a>{{/if}}</span>-->
+						  <p class="pubsubtext">{{subtext}}</p>
+							<p>
+								<span class="pubinfo">
+									{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
+									{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
+									{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
+									{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
+								</span>
 							</p>
 						</div>
 						{{/publications}}
 					</div>
 
-					<div class="span3 offset1">
+					<div class="span3">
 						{{#publications}}
 						{{#if imgsrc}}<img class="profile" src="{{imgsrc}}">{{/if}}
 						{{/publications}}
@@ -68,7 +73,7 @@
 
 		<!-- Template insertion code -->
 		<script type="text/javascript">
-				$.getJSON('pubs.json', function(data) {
+				$.getJSON('data/pubs.json', function(data) {
 								var src = document.getElementById("pubs-template").innerHTML;
 								var tmpl = Handlebars.compile(src);
 								document.getElementById("pubs-placeholder").innerHTML = tmpl(data);

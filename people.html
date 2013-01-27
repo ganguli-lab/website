@@ -58,7 +58,7 @@
 
 		<!-- Template insertion code -->
 		<script type="text/javascript">
-				$.getJSON('people.json', function(data) {
+				$.getJSON('data/people.json', function(data) {
 								var src = document.getElementById("people-template").innerHTML;
 								var tmpl = Handlebars.compile(src);
 								document.getElementById("people-placeholder").innerHTML = tmpl(data);
