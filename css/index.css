@@ -41,6 +41,20 @@ h1 {
 		text-decoration: none;
 }
 
+/************* footer ****************/
+.footer {
+	color: #5f5e52;
+	padding-bottom: 50px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
 /************* homepage **************/
 .maintitle {
 		text-align: center;
