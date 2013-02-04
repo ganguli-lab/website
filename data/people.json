@@ -11,9 +11,9 @@
     {
       "firstname":"Subhaneil",
       "lastname":"Lahiri",
-      "email":"slahiri@stanford.edu",
-      "description":" Integer in nisi ut elit consectetur elementum a ac augue. Sed ut mauris rutrum sem sagittis aliquet non vitae tortor. Nullam vel diam ut eros laoreet dapibus. Nulla hendrerit commodo mollis. Ut vestibulum lacus in risus pharetra gravida. Maecenas purus libero, aliquet non porttitor non, vehicula eget orci. Praesent eu neque enim, ut scelerisque mauris.",
-      "imgsrc":"http://placehold.it/130x130"
+      "email":"sulahiri@stanford.edu",
+      "description":"I am a postdoc in the <a href=\"http://http://www.stanford.edu/dept/app-physics/cgi-bin/\">Applied Physics department</a>. I am interested in most aspects of theoretical neurobiology, and am currently studying models of complex synapses.",
+      "imgsrc":"img/subhy.jpg"
     },
     {
       "firstname":"Jascha",
