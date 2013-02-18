@@ -19,8 +19,8 @@
       "firstname":"Jascha",
       "lastname":"Sohl-Dickstein",
       "email":"jascha@stanford.edu",
-      "description":" Vestibulum quis tortor nibh. Quisque commodo erat dolor. Vestibulum a odio augue. Donec at mi enim. In varius fringilla nulla at rhoncus. Phasellus nec lacus tellus, a volutpat lectus. Donec vestibulum felis dolor, eget suscipit lorem.",
-      "imgsrc":"http://placehold.it/130x130"
+      "description":" I am a Visiting Scholar in Surya's lab at Stanford and an Academic Resident at Khan Academy.  I study machine learning and human learning.  You can find an outdated webpage for me at <a href='http://redwood.berkeley.edu/jascha'>http://redwood.berkeley.edu/jascha</a>.  A more current one will follow soon...",
+      "imgsrc":"img/Jascha.jpg"
     },
     {
       "firstname":"Peiran",
