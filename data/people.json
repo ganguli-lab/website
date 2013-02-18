@@ -33,14 +33,14 @@
       "firstname":"Madhu",
       "lastname":"Advani",
       "email":"madvani@stanford.edu",
-      "description":" Vestibulum quis tortor nibh. Quisque commodo erat dolor. Vestibulum a odio augue. Donec at mi enim. In varius fringilla nulla at rhoncus. Phasellus nec lacus tellus, a volutpat lectus. Donec vestibulum felis dolor, eget suscipit lorem.",
+      "description":"My overall research goal is to combine techniques and perspectives from Statistical Physics, Information Theory, and Artificial Intelligence to gain insight into biophysical applications. In particular, some of my interests include learning how to discover and interpret patterns in high dimensional (biological) data, memory storage in the brain, and the performance of high dimensional statistical learning algorithms.",
       "imgsrc":"img/madhu.jpg"
     },
     {
       "firstname":"Niru",
       "lastname":"Maheswaranathan",
       "email":"nirum@stanford.edu",
-      "description":"I'm a graduate student in the <a href=\"http://nsp.stanford.edu/\">neurosciences program</a>. I study the early visual system, and am currently working on understanding low-level image statistics that our visual system might be tuned to process. I previously graduated from Duke University. You can read more about me at my <a href=\"http://niru.org/\">website</a>.",
+      "description":"I'm a graduate student in the <a href=\"http://nsp.stanford.edu/\">neurosciences program</a>, and I am currently studying the statistics of natural images and how the are related to the visual system. You can read more about me at my <a href=\"http://niru.org/\">website</a>.",
       "imgsrc":"img/niru.jpg"
     },
     {
