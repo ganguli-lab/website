@@ -61,6 +61,20 @@ h1 {
 		margin-bottom: 20px;
 }
 
+.fundingSources {
+	text-align: center;
+}
+
+.fundingSource {
+	padding: 10px;
+	font-size: 15px;
+}
+
+.logo {
+	height: 40px;
+	margin-bottom: 10px;
+}
+
 /************* People page ***********/
 .profile {
 		margin-top: 5px;
@@ -109,4 +123,8 @@ h1 {
 
 .publist {
 		margin-top: 10px;
+}
+
+.imglist {
+		margin-top: 65px;
 }
