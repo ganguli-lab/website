@@ -48,6 +48,7 @@
 				<div class="row-fluid marketing">
 
 					<div class="span9 publist">
+						<h3>Recent projects</h3>
 						{{#publications}}
 						<div class="publication">
 							<p class="pubtitle">{{title}}</p>
@@ -62,9 +63,26 @@
 							</p>
 						</div>
 						{{/publications}}
+						<br/>
+
+						<h3>String Theory publications</h3>
+						{{#stringtheorypublications}}
+						<div class="publication">
+							<p class="pubtitle">{{title}}</p>
+						  <p class="pubsubtext">{{subtext}}</p>
+							<p>
+								<span class="pubinfo">
+									{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
+									{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
+									{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
+									{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
+								</span>
+							</p>
+						</div>
+						{{/stringtheorypublications}}
 					</div>
 
-					<div class="span3">
+					<div class="span3 imglist">
 						{{#publications}}
 						{{#if imgsrc}}<img class="profile" src="{{imgsrc}}">{{/if}}
 						{{/publications}}

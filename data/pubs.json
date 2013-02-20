@@ -40,7 +40,8 @@
     },
     {
       "title":"Statistical mechanics of complex neural systems and high dimensional data.",
-      "subtext":"M. Advani, S. Lahiri and S. Ganguli, J. of Statistical Mechanics: Theory and Experiment."
+      "subtext":"M. Advani, S. Lahiri and S. Ganguli, J. of Statistical Mechanics: Theory and Experiment.",
+      "imgsrc":"img/ReplicaSymmetry.svg"
     },
     {
       "title":"Spatial information outflow from the hippocampal circuit: distributed spatial coding and phase precession in the subiculum.",
@@ -85,6 +86,33 @@
       "title":"Function constrains network architecture and dynamics: a case study on the yeast cell cycle boolean network. ",
       "subtext":"K. Lau, S. Ganguli and C. Tang,  Phys. Rev. E75 (2007) 051907.",
       "pdflink":"pdf/cellcycle.pdf"
+    }
+  ],
+  "stringtheorypublications":
+  [
+    {
+      "title":"Boundary Scattering in 1+1 Dimensions as an Aharanov-Bohm Effect",
+      "subtext":"S. Ganguli, A. Ndirango and P. Horava",
+      "abstract":"http://xxx.lanl.gov/abs/hep-th/0501233",
+      "pdflink":"http://xxx.lanl.gov/pdf/hep-th/0501233"
+    },
+    {
+      "title":"E10 Orbifolds",
+      "subtext":"J. Brown, S. Ganguli, O. Ganor, C. Helfgott, JHEP 06 (2005) 057",
+      "abstract":"http://xxx.lanl.gov/abs/hep-th/0409037",
+      "pdflink":"http://xxx.lanl.gov/pdf/hep-th/0409037"
+    },
+    {
+      "title":"Twisted Six Dimensional Gauge Theories on Tori, Matrix Models, and Integrable Systems",
+      "subtext":"S. Ganguli, O. Ganor and J. Gill, JHEP 0409 (2004) 014",
+      "abstract":"http://xxx.lanl.gov/abs/hep-th/0311042",
+      "pdflink":"http://xxx.lanl.gov/pdf/hep-th/0311042"
+    },
+    {
+      "title":"Holographic Protection of Chronology in Universes of the Godel Type",
+      "subtext":"E.K. Boyda, S. Ganguli, P. Horava and U. Varadarajan, Phys. Rev. D67 (2003) 106003",
+      "abstract":"http://xxx.lanl.gov/abs/hep-th/0212087",
+      "pdflink":"http://xxx.lanl.gov/pdf/hep-th/0212087"
     }
   ]
 }
