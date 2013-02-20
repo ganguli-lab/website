@@ -16,6 +16,7 @@ hr{border-top:1px solid #e9e6df;border-bottom:1px solid #ffffff;}
 /************* global *************/
 body {
 		background: url('../img/lightwool.png') repeat 0 0;
+		background-attachment: fixed;
 }
 
 .container-narrow {
@@ -67,7 +68,11 @@ h1 {
 
 .fundingSource {
 	padding: 10px;
+}
+
+.fundingText {
 	font-size: 15px;
+	padding-left: 5px;
 }
 
 .logo {
