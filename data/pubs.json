@@ -1,38 +1,97 @@
 {
+  "abstracts":
+  [
+    {
+
+    }
+  ],
+
   "publications":
   [
     {
+      "title": "A general theory of learning and memory with complex synapses.",
+      "subtext": "S. Lahiri and S. Ganguli, cosyne 2013.",
+      "abstract": "pdf/LearningMemoryShort.pdf",
+      "imgsrc": "figures/ComplexSynapse.jpg"
+    },
+    {
+      "title": "Evidence for a causal inverse model in an avian song learning circuit.",
+      "subtext": "R.H.R. Hahnloser, N. Giret, J. Kornfeld, and S. Ganguli, cosyne 2013, talk.",
+      "abstract": "pdf/EvidenceCausalInv.pdf"
+    },
+    {
+      "title": "Closing the loop; inverse-model learning with a nonlinear avian syrinx and sparse auditory coding.",
+      "subtext": "A. Hanuschkin, S. Ganguli, R.H.R. Hahnloser, cosyne 2013.",
+      "abstract": "pdf/ClosingLoop.pdf"
+    },
+    {
+      "title": "Hebbian mechanisms underlying the learning of Markovian sequence probabilities.",
+      "subtext": "K.B. Bouchard, S. Ganguli, M.S. Brainard, cosyne 2013.",
+      "abstract": "pdf/HebbianMarkovShort.pdf"
+    },
+    {
+      "title": "A mathematical theory of semantic development.",
+      "subtext": "A. Saxe, J. McClelland, S. Ganguli, cosyne 2013.",
+      "abstract": "pdf/SemanticCogShort.pdf",
+      "imgsrc": "figures/HierCov.jpg"
+    },
+    {
+      "title": "Dimensionality, dynamics, and correlations in the motor cortical substrate for reaching.",
+      "subtext": "P. Gao, E. Trautmann, B. Yu, G. Santhanam, S. Ryu, K. Shenoy, and S. Ganguli, cosyne 2013.",
+      "abstract": "pdf/DimensionalityShort.pdf",
+      "imgsrc": "figures/TimeDepPCA.jpg"
+    },
+    {
+      "title":"Bird song learning without reinforcement: the Hebbian self-organization of sensorimotor circuits.",
+      "subtext":"S. Ganguli and R. Hahnloser, cosyne 2011, talk.",
+      "abstract":"pdf/BirdSong.Abs.pdf",
+      "imgsrc": "figures/InvForw.jpg"
+    },
+    {
       "title": "Compressed sensing in the brain: the role of sparseness in short term and long term memory.",
-      "subtext": "S. Ganguli, H. Sompolinsky",
-      "imgsrc": "http://placehold.it/300x300",
-      "abstract": "pdf/SMCS.CosyneAbs.10.pdf"
+      "subtext": "S. Ganguli, H. Sompolinsky, cosyne 2010.",
+      "abstract": "pdf/SMCS.CosyneAbs.10.pdf",
+      "imgsrc": "figures/CS.Net.jpg"
     },
     {
       "title":"Deciding without remembering.",
-      "subtext":"S. Ganguli, R. Guetig, H. Sompolinsky",
-      "abstract":"http://www.frontiersin.org/10.3389/conf.neuro.06.2009.03.168/event_abstract?sname=Computational_and_systemsneuroscience_2009"
+      "subtext":"S. Ganguli, R. Guetig, H. Sompolinsky, cosyne 2009.",
+      "abstract":"http://www.frontiersin.org/10.3389/conf.neuro.06.2009.03.168/event_abstract?sname=Computational_and_systemsneuroscience_2009",
+      "imgsrc": "figures/SpikeTimePatt.jpg"
     },
     {
       "title":"Designability as a selection force? An analysis of the yeast cell cycle dynamics.",
-      "subtext":"Y. Nochomovitz, S. Ganguli and H. Li",
+      "subtext":"Y. Nochomovitz, S. Ganguli and H. Li, APS 2007.",
       "abstract":"http://meetings.aps.org/Meeting/MAR07/Event/63779",
-      "imgsrc":"http://placehold.it/300x200"
+      "imgsrc": "figures/Design.jpg"
     },
     {
       "title":"The information geometry of survey propagation.",
       "subtext":"S. Ganguli, S. Ikeda and S. Amari",
-      "abstract":"pdf/Surya.Berkeley.pdf"
-    },
-    {
-      "title":"Bird song learning without reinforcement: the Hebbian self-organization of sensorimotor circuits.",
-      "subtext":"S. Ganguli and R. Hahnloser",
-      "abstract":"pdf/BirdSong.Abs.pdf"
+      "abstract":"pdf/Surya.Berkeley.pdf",
+      "imgsrc": "figures/Inferno.jpg"
     },
     {
       "title":"Learning and memory in an exactly solvable stochastic spiking network.",
-      "subtext":"S. Ganguli",
+      "subtext":"S. Ganguli, cosyne 2006, talk.",
       "abstract":"pdf/Surya.Cosyne.Abs.pdf",
-      "slides":"pdf/Surya.Cosyne.Talk.pdf"
+      "slides":"pdf/Surya.Cosyne.Talk.pdf",
+      "imgsrc": "figures/BranchedPath.jpg"
+
+    },
+    {
+      "title": "Learning hierarchical categories in deep neural networks.",
+      "subtext":"A. Saxe, J. McClelland, S. Ganguli, under review at Cognitive Science.",
+      "imgsrc": "figures/HierTree.jpg"
+    },
+
+    {
+      "title": "Low-dimensional projections modeling neural ensemble activity increase brain-machine interface robustness.",
+      "subtext":"J. Kao, P. Nuyujukian, S. Stavisky, S. Ryu, S. Ganguli, K.V. Shenoy, under review at IEEE Engineering and Medicine in Biology."
+    },
+    {
+      "title": "A Hebbian learning rule gives rise to mirror neurons and links them to control theoretic inverse models.",
+      "subtext":"A. Hanuschkin, S. Ganguli, R.H.R. Hahnloser, Frontiers in neural circuits (2013), in press."
     },
     {
       "title":"Vocal learning with inverse models.",
@@ -40,79 +99,85 @@
     },
     {
       "title":"Statistical mechanics of complex neural systems and high dimensional data.",
-      "subtext":"M. Advani, S. Lahiri and S. Ganguli, J. of Statistical Mechanics: Theory and Experiment.",
-      "imgsrc":"img/ReplicaSymmetry.svg"
+      "subtext":"M. Advani, S. Lahiri and S. Ganguli, J. of Statistical Mechanics: Theory and Experiment (2013), in press.",
+      "pdflink":"pdf/RepCavMes6.pdf",
+      "imgsrc": "figures/ReplicaSymmetry.svg"
     },
     {
       "title":"Spatial information outflow from the hippocampal circuit: distributed spatial coding and phase precession in the subiculum.",
       "subtext":"S. Kim, S. Ganguli and L. Frank, J. Neurosci (2012) 32(34):11539-58.",
-      "pdflink":"pdf/12.Subiculum.pdf"
+      "pdflink":"pdf/12.Subiculum.pdf",
+      "imgsrc": "figures/Subiculum.jpg"
     },
     {
       "title":"Compressed sensing, sparsity and dimensionality in neuronal information processing and data analysis.",
       "subtext":"S. Ganguli and H. Sompolinsky, Annual Reviews of Neuroscience (2012) 35:485-508.",
-      "pdflink":"pdf/12.CompSense.pdf"
+      "pdflink":"pdf/12.CompSense.pdf",
+      "imgsrc": "figures/RandProj.jpg"
     },
     {
       "title":"Short-term memory in neuronal networks through dynamical compressed sensing.",
       "subtext":"S. Ganguli and H. Sompolinsky, Neural Information Processing Systems (2010).",
       "pdflink":"pdf/DynCompSense.pdf",
-      "supplemental":"pdf/DynCompSenseSupp.pdf"
+      "supplemental":"pdf/DynCompSenseSupp.pdf",
+      "imgsrc": "figures/CS.Memory.jpg"
     },
     {
       "title":"Statistical mechanics of compressed sensing.",
       "subtext":"S. Ganguli and H. Sompolinsky, Phys. Rev. Lett. (2010) 104:188701.",
       "pdflink":"pdf/CompSense.pdf",
-      "supplemental":"pdf/CompSenseSupp.pdf"
+      "supplemental":"pdf/CompSenseSupp.pdf",
+      "imgsrc": "figures/CS.PhaseTrans.jpg"
     },
     {
       "title":"Feedforward to the past: the relation between neuronal connectivity, amplification, and short-term memory.",
       "subtext":"S. Ganguli and P. Latham, Neuron (2009) 61:499-501. ",
-      "pdflink":"pdf/Preview.Neuron.09.pdf"
+      "pdflink":"pdf/Preview.Neuron.09.pdf",
+      "imgsrc": "figures/NonNormal.jpg"
     },
     {
       "title":"Memory traces in dynamical systems. ",
       "subtext":"S. Ganguli, B. Huh, H. Sompolinsky, PNAS (2008) 105:18970-75.",
       "pdflink":"pdf/08.Memory.pdf",
-      "supplemental":"pdf/08.MemoryS.pdf"
+      "supplemental":"pdf/08.MemoryS.pdf",
+      "imgsrc": "figures/NoiseEvol.jpg"
     },
     {
       "title":"One dimensional dynamics of attention and decision making in area LIP.",
       "subtext":"S. Ganguli, J. Bisley, J. Roitman, M. Shadlen, M. Goldberg and K. Miller, Neuron (2008) 58:15-25.",
       "pdflink":"pdf/LIP.pdf",
-      "supplemental":"pdf/LIPs.pdf"
+      "supplemental":"pdf/LIPs.pdf",
+      "imgsrc": "figures/1D.Dynam.jpg"
     },
     {
       "title":"Function constrains network architecture and dynamics: a case study on the yeast cell cycle boolean network. ",
       "subtext":"K. Lau, S. Ganguli and C. Tang,  Phys. Rev. E75 (2007) 051907.",
-      "pdflink":"pdf/cellcycle.pdf"
-    }
-  ],
-  "stringtheorypublications":
-  [
+      "pdflink":"pdf/cellcycle.pdf",
+      "imgsrc": "figures/CellCycle.jpg"
+    },
     {
-      "title":"Boundary Scattering in 1+1 Dimensions as an Aharanov-Bohm Effect",
-      "subtext":"S. Ganguli, A. Ndirango and P. Horava",
-      "abstract":"http://xxx.lanl.gov/abs/hep-th/0501233",
-      "pdflink":"http://xxx.lanl.gov/pdf/hep-th/0501233"
+      "title":"Boundary Scattering in 1+1 Dimensions as an Aharanov-Bohm Effect.",
+      "subtext":"S. Ganguli, A. Ndirango and P. Horava, arxiv.org/abs/hep-th/0501233",
+      "pdflink":"pdf/05.AharonovBohm.pdf",
+      "imgsrc": "figures/AharanovBohm.jpg"
     },
     {
       "title":"E10 Orbifolds",
-      "subtext":"J. Brown, S. Ganguli, O. Ganor, C. Helfgott, JHEP 06 (2005) 057",
-      "abstract":"http://xxx.lanl.gov/abs/hep-th/0409037",
-      "pdflink":"http://xxx.lanl.gov/pdf/hep-th/0409037"
+      "subtext":"J. Brown, S. Ganguli, O. Ganor, C. Helfgott, JHEP 06 (2005) 057.",
+      "pdflink":"pdf/05.E10.Orbifolds.pdf",
+      "imgsrc": "figures/E10.jpg"
     },
     {
       "title":"Twisted Six Dimensional Gauge Theories on Tori, Matrix Models, and Integrable Systems",
-      "subtext":"S. Ganguli, O. Ganor and J. Gill, JHEP 0409 (2004) 014",
-      "abstract":"http://xxx.lanl.gov/abs/hep-th/0311042",
-      "pdflink":"http://xxx.lanl.gov/pdf/hep-th/0311042"
+      "subtext":"S. Ganguli, O. Ganor and J. Gill, JHEP 0409 (2004) 014.",
+      "pdflink":"pdf/05.Twisted6D.pdf",
+      "imgsrc": "figures/Twisted.jpg"
     },
     {
       "title":"Holographic Protection of Chronology in Universes of the Godel Type",
       "subtext":"E.K. Boyda, S. Ganguli, P. Horava and U. Varadarajan, Phys. Rev. D67 (2003) 106003",
-      "abstract":"http://xxx.lanl.gov/abs/hep-th/0212087",
-      "pdflink":"http://xxx.lanl.gov/pdf/hep-th/0212087"
+      "pdflink":"pdf/03.Godel.pdf",
+      "imgsrc": "figures/Godel.jpg"
     }
   ]
 }
