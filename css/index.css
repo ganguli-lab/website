@@ -100,30 +100,30 @@ h1 {
 }
 
 /************* publications page ***********/
+.pubheader {
+		text-align: center;
+}
+
 .publication {
-		margin-bottom: 5px;
+		margin-bottom: 20px;
 		padding-top: 5px;
 		border-top: 1px solid #eee6cb;
 }
 
 .pubtitle {
-		font-family: “Trebuchet MS”, sans-serif;
-		font-size: 15px;
+		font-family: "Helvetica", sans-serif;
+		font-size: 20px;
 		font-style: normal;
-		font-weight: bold;
+		font-weight: normal;
 		text-transform: normal;
 		letter-spacing: 0.5px;
-		line-height: 1.0em;
+		line-height: 1.3em;
 		margin-bottom: 5px;
 }
 
 .pubsubtext {
-		font-size: 14px;
-		margin-bottom: 0px;
-}
-
-.publinks {
-		float: right;
+		font-size: 16px;
+		margin-bottom: 5px;
 }
 
 .publist {
@@ -132,4 +132,12 @@ h1 {
 
 .imglist {
 		margin-top: 65px;
+}
+
+.figure {
+		min-height: 100px;
+		max-height: 150px;
+		min-width: 	100px;
+		max-width:  300px;
+		float: right;
 }

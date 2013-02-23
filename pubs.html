@@ -45,50 +45,70 @@
 
 		<!-- Publications template -->
 		<script id="pubs-template" type="text/x-handlebars-template">
-				<div class="row-fluid marketing">
-
-					<div class="span9 publist">
-						<h3>Selected Abstracts</h3>
-						{{#abstracts}}
-						<div class="publication">
-							<p class="pubtitle">{{title}}</p>
-						  <p class="pubsubtext">{{subtext}}</p>
-							<p>
-								<span class="pubinfo">
-									{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
-									{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
-									{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
-									{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
-								</span>
-							</p>
-						</div>
-						{{/abstracts}}
-						<br/>
-
-						<h3>Publications</h3>
-						{{#publications}}
-						<div class="publication">
-							<p class="pubtitle">{{title}}</p>
-						  <p class="pubsubtext">{{subtext}}</p>
-							<p>
-								<span class="pubinfo">
-									{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
-									{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
-									{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
-									{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
-								</span>
-							</p>
-						</div>
-						{{/publications}}
-					</div>
-
-					<div class="span3 imglist">
-						{{#publications}}
-						{{#if imgsrc}}<img class="profile" src="{{imgsrc}}">{{/if}}
-						{{/publications}}
-					</div>
-
+				<div class="row-fluid marketing pubheader">
+					<h1>Selected Abstracts</h1>
 				</div>
+
+					{{#abstracts}}
+						<!-- if there is an image -->
+						{{#if imgsrc}}
+								<div class="row-fluid marketing publication">
+										<div class="span8 publist">
+												<p class="pubtitle">{{title}}</p>
+												<p class="pubsubtext">{{subtext}}</p>
+												<p>
+														<span class="pubinfo">
+																{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
+																{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
+																{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
+																{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
+														</span>
+												</p>
+										</div>
+										<div class="span3 offset1"><img class="figure" src="{{imgsrc}}"></div>
+								</div>
+						{{else}}
+								<div class="row-fluid marketing publication">
+										<div class="span12 publist">
+												<p class="pubtitle">{{title}}</p>
+												<p class="pubsubtext">{{subtext}}</p>
+										</div>
+								</div>
+						{{/if}}
+					{{/abstracts}}
+
+				<div class="row-fluid marketing pubheader">
+					<h1>Publications</h1>
+				</div>
+
+					{{#publications}}
+						<!-- if there is an image -->
+						{{#if imgsrc}}
+								<div class="row-fluid marketing publication">
+										<div class="span8 publist">
+												<p class="pubtitle">{{title}}</p>
+												<p class="pubsubtext">{{subtext}}</p>
+												<p>
+														<span class="pubinfo">
+																{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
+																{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
+																{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
+																{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
+														</span>
+												</p>
+										</div>
+										<div class="span3 offset1"><img class="figure" src="{{imgsrc}}"></div>
+								</div>
+						{{else}}
+								<div class="row-fluid marketing publication">
+										<div class="span12 publist">
+												<p class="pubtitle">{{title}}</p>
+												<p class="pubsubtext">{{subtext}}</p>
+										</div>
+								</div>
+						{{/if}}
+					{{/publications}}
+
 		</script>
 
 		<!-- Template insertion code -->

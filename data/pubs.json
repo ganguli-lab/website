@@ -2,13 +2,6 @@
   "abstracts":
   [
     {
-
-    }
-  ],
-
-  "publications":
-  [
-    {
       "title": "A general theory of learning and memory with complex synapses.",
       "subtext": "S. Lahiri and S. Ganguli, cosyne 2013.",
       "abstract": "pdf/LearningMemoryShort.pdf",
@@ -77,14 +70,16 @@
       "abstract":"pdf/Surya.Cosyne.Abs.pdf",
       "slides":"pdf/Surya.Cosyne.Talk.pdf",
       "imgsrc": "figures/BranchedPath.jpg"
+    }
+  ],
 
-    },
+  "publications":
+  [
     {
       "title": "Learning hierarchical categories in deep neural networks.",
       "subtext":"A. Saxe, J. McClelland, S. Ganguli, under review at Cognitive Science.",
       "imgsrc": "figures/HierTree.jpg"
     },
-
     {
       "title": "Low-dimensional projections modeling neural ensemble activity increase brain-machine interface robustness.",
       "subtext":"J. Kao, P. Nuyujukian, S. Stavisky, S. Ryu, S. Ganguli, K.V. Shenoy, under review at IEEE Engineering and Medicine in Biology."
