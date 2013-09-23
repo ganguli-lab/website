@@ -5,8 +5,8 @@
       "firstname":"Surya",
       "lastname":"Ganguli",
       "email":"sganguli@stanford.edu",
-      "description":" Aliquam placerat, turpis a elementum adipiscing, est risus tempus lectus, et rhoncus diam ipsum non arcu. Proin consequat nisi vitae metus gravida dictum. In ac lacinia lorem. Curabitur at augue nisl. Proin eget leo urna, ut malesuada nulla. Curabitur et rhoncus felis. Sed ultricies hendrerit turpis, non sodales odio ornare laoreet. Ut ullamcorper ullamcorper orci eget placerat.",
-      "imgsrc":"http://placehold.it/130x130"
+      "description":" I am an assistant professor in the <a href=\"http://www.stanford.edu/dept/app-physics/cgi-bin/\">Department of Applied Physics</a> at <a href=\"http://www.stanford.edu/\">Stanford University</a>, with courtesy appointments in <a href=\"http://neurobiology.stanford.edu/\">Neurobiology</a> and <a href=\"http://ee.stanford.edu/\">Electrical Engineering</a>.",
+      "imgsrc":"img/SuryaSmall.jpg"
     },
     {
       "firstname":"Subhaneil",
