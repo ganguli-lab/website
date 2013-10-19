@@ -62,6 +62,10 @@ h1 {
 		margin-bottom: 20px;
 }
 
+.clark-large {
+		width: 100%;
+}
+
 .fundingSources {
 	text-align: center;
 }

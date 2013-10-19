@@ -1,0 +1,12 @@
+body {
+padding: 30px;
+}
+
+.navbar {
+margin-bottom: 30px;
+}
+#carbonads-container {display:none} .bs-social {display:none} .col-md-3 {display:none !important} .col-md-9 {width:100% !important} .navbar-fixed-top {position:absolute !important}
+
+.bs-old-docs {display:none}
+
+h1[id] {padding-top:0px; margin-top:20px}
