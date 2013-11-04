@@ -35,10 +35,28 @@ body {
 		padding-right: 15px;
 }
 
-.thumbnail {
+.funding {
 		height: 100px;
 		background-color: transparent;
 		border: none;
+}
+
+.profiles {
+		min-height: 170px;
+		background-color: transparent;
+		border: none;
+		border-bottom: 1px solid #ccc;
+		margin-top: 20px;
+}
+
+.profileDescription {
+		font-size: 101%;
+		margin-top: -10px;
+}
+
+.profileImg {
+		float: left;
+		padding-right: 30px;
 }
 
 .caption {
