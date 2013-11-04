@@ -1,12 +1,46 @@
+// colors
+body{color:#3f3c30;}
+a{color:#930000;}
+a:hover{color:#2e2d29;text-decoration:underline;}
+a.muted:hover{color:#eee6cb;}
+h1,h2,h3,h4,h5,h6{color:#2e2d29;}
+h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{color:#3f3c30;}
+.nav-pills>.active>a,.nav-pills>.active>a:hover{color:#ffffff;background-color:#820000;}
+.muted{color:#8a887d;}
+hr{border-top:1px solid #e9e6df;border-bottom:1px solid #ffffff;}
+
+// Homepage
+.centerImage {
+		margin: 50px 0px;
+}
+
+.navbar-inverse {
+		background-color: #4081ff;
+}
+
 body {
-padding: 30px;
+		padding: 30px;
+		background: url('../img/lightwool.png') repeat 0 0;
+		background-attachment: fixed;
 }
 
-.navbar {
-margin-bottom: 30px;
+.clark-large {
+		width: 100%;
 }
-#carbonads-container {display:none} .bs-social {display:none} .col-md-3 {display:none !important} .col-md-9 {width:100% !important} .navbar-fixed-top {position:absolute !important}
 
-.bs-old-docs {display:none}
+.fundingLogo {
+		width: 70px;
+		float: left;
+		padding-top: 5px;
+		padding-right: 15px;
+}
 
-h1[id] {padding-top:0px; margin-top:20px}
+.thumbnail {
+		height: 100px;
+		background-color: transparent;
+		border: none;
+}
+
+.caption {
+		padding-left: 5px;
+}
