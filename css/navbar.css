@@ -9,7 +9,7 @@ h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{color:#3f3c30;}
 .muted{color:#8a887d;}
 hr{border-top:1px solid #e9e6df;border-bottom:1px solid #ffffff;}
 
-// Homepage
+/************* homepage **************/
 .centerImage {
 		margin: 50px 0px;
 }
@@ -41,12 +41,13 @@ body {
 		border: none;
 }
 
+/************* People page ***********/
 .profiles {
 		min-height: 170px;
 		background-color: transparent;
 		border: none;
-		border-bottom: 1px solid #ccc;
-		margin-top: 20px;
+		border-top: 1px solid #ccc;
+		padding-top: 20px;
 }
 
 .profileDescription {
@@ -61,4 +62,51 @@ body {
 
 .caption {
 		padding-left: 5px;
+}
+
+/************* publications page ***********/
+.pubheader {
+		text-align: center;
+}
+
+.publication {
+		margin-bottom: 20px;
+		padding-top: 5px;
+		border-top: 1px solid #ccc;
+}
+
+.pubtitle {
+		font-family: "Helvetica", sans-serif;
+		font-size: 20px;
+		font-style: normal;
+		font-weight: normal;
+		text-transform: normal;
+		letter-spacing: 0.5px;
+		line-height: 1.3em;
+		margin-bottom: 5px;
+}
+
+.pubsubtext {
+		font-size: 16px;
+		margin-bottom: 5px;
+}
+
+.pubjournal {
+		font-style: italic;
+}
+
+.publist {
+		margin-top: 10px;
+}
+
+.imglist {
+		margin-top: 65px;
+}
+
+.pubFigure {
+		min-height: 100px;
+		max-height: 150px;
+		min-width: 	100px;
+		max-width:  300px;
+		float: right;
 }
