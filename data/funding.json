@@ -1,0 +1,52 @@
+{
+  "fundingSources":
+  [
+    {
+      "logo": "img/logos/nsf.png",
+      "link": "http://www.nsf.gov",
+      "text": "National Science Foundation"
+    },
+
+    {
+      "logo": "img/logos/biox.png",
+      "link": "http://biox.stanford.edu/biox/neuro.html",
+      "text": "Bio-X Neuroventures"
+    },
+
+    {
+      "logo": "img/logos/burroughswellcome.png",
+      "link": "http://www.bwfund.org/",
+      "text": "Burroughs-Wellcome"
+    },
+
+    {
+      "logo": "img/logos/darpa.png",
+      "href": "http://www.darpa.mil/default.aspx",
+      "text": "DARPA"
+    },
+
+    {
+      "logo": "img/logos/genentech.png",
+      "link": "http://www.genentechfoundation.com/index.html",
+      "text": "Genentech"
+    },
+
+    {
+      "logo": "img/logos/sloan.png",
+      "link": "http://www.sloan.org/",
+      "text": "The Alfred P. Sloan Foundation"
+    },
+
+    {
+      "logo": "img/logos/mbc.png",
+      "link": "http://www.stanford.edu/group/mbc/cgi-bin/index.php",
+      "text": "Stanford Mind, Brain, and Computation"
+    },
+
+    {
+      "logo": "img/logos/swartz.png",
+      "link": "http://www.theswartzfoundation.org/default.asp",
+      "text": "The Swartz Foundation"
+    }
+  ]
+}

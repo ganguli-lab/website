@@ -40,7 +40,7 @@
       "firstname":"Niru",
       "lastname":"Maheswaranathan",
       "email":"nirum@stanford.edu",
-      "description":"I'm a graduate student in the <a href=\"http://nsp.stanford.edu/\">neurosciences program</a>, and I am currently studying the statistics of natural images and how the are related to the visual system. You can read more about me at my <a href=\"http://niru.org/\">website</a>.",
+      "description":"I'm a graduate student in the <a href=\"http://nsp.stanford.edu/\">neurosciences program</a>, and I am currently studying the statistics of natural images and how the are related to the visual system. You can read more at my <a href=\"http://niru.org/\">website</a>.",
       "imgsrc":"img/niru.jpg"
     },
     {
