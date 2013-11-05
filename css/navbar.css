@@ -34,6 +34,15 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
    background-color: #B34444;
    border: 1px solid #4D4F53;
 }
+@media (max-width: 480px) {
+    .navbar-brand {
+        font-size: 76%;
+    }
+    
+    .profileDescription {
+        font-size: 76%;
+    }
+}
 .navbar-default .navbar-nav > li > a:hover {
    background-color: #4D4F53;
 }
@@ -41,7 +50,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
    background-color: #8C1515;
 }
 body {
-   padding: 30px;
+   padding-top: 20px;
    background: url('../img/lightwool.png') repeat 0 0;
    background-attachment: fixed;
 }
@@ -68,17 +77,15 @@ body {
    min-height: 200px;
    background-color: transparent;
    border: none;
-   border-top: 1px solid #ccc;
    padding-top: 20px;
 }
 .profileDescription {
-   font-size: 101%;
    margin-top: -20px;
 }
 .profileImg {
-   float: left;
-   padding-right: 30px;
-   width: 180px;
+   float: right;
+   width: 150px;
+   padding-right: 10px;
 }
 .caption {
    padding-left: 5px;

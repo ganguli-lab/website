@@ -1,6 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 		<head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="website for the Neural Dynamics and Computation lab">
+      <meta name="author" content="Surya Ganguli">
+
 				<title>Ganguli Lab</title>
 
 				<!-- Bootstrap core CSS -->
@@ -8,6 +13,12 @@
 				<link href="css/cosmo.css" rel="stylesheet">
 				<link href="css/navbar.css" rel="stylesheet" media="screen">
 				<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+       <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+      <!--[if lt IE 9]>
+         <script src="../../assets/js/html5shiv.js"></script>
+         <script src="../../assets/js/respond.min.js"></script>
+      <![endif]-->
+               
 		</head>
 		<body>
 				<!--<h1>The Theoretical Neuroscience lab</h1>-->
@@ -26,7 +37,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-					<a class="navbar-brand" href="index.html">Neural Dynamics and Computation Lab</a>
+					<a class="navbar-brand" href="index.html">Neural Dynamics &amp; Computation Lab</a>
         </div>
 
 				<!-- full width (desktop) content -->
@@ -59,13 +70,15 @@
 		<!-- People template -->
 		<script id="people-template" type="text/x-handlebars-template">
 				{{#people}}
-						<div class="col-sm-12">
-								<div class="thumbnail profiles">
-									<img class="profileImg img-rounded" src="{{imgsrc}}" alt="{{firstname}} {{lastname}}">
-									<p class="lead">{{firstname}} {{lastname}} <span class="muted">{{email}}</span></p>
-									<p class="profileDescription">{{getDesc}}</p>
-								</div>
-						</div>
+					<div class="thumbnail profiles">
+                        <div class="col-sm-12 col-md-3">
+							<img class="profileImg img-responsive" src="{{imgsrc}}" alt="{{firstname}} {{lastname}}">
+                         </div>
+                        <div class="col-sm-12 col-md-9">
+						    <p class="lead">{{firstname}} {{lastname}} <span class="muted">{{email}}</span></p>
+							<p class="profileDescription">{{getDesc}}</p>
+                        </div>
+				    </div>
 				{{/people}}
 		</script>
 
