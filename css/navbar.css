@@ -1,112 +1,133 @@
-// colors
-body{color:#3f3c30;}
-a{color:#930000;}
-a:hover{color:#2e2d29;text-decoration:underline;}
-a.muted:hover{color:#eee6cb;}
-h1,h2,h3,h4,h5,h6{color:#2e2d29;}
-h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{color:#3f3c30;}
-.nav-pills>.active>a,.nav-pills>.active>a:hover{color:#ffffff;background-color:#820000;}
-.muted{color:#8a887d;}
-hr{border-top:1px solid #e9e6df;border-bottom:1px solid #ffffff;}
+/*
+ * Ganguli Lab website styles
+*/
+
+/************* colors **************/
+body {
+   color:#3f3c30;
+}
+a {
+   color:#930000;
+}
+a:hover {
+   color:#2e2d29;
+   text-decoration:underline;
+}
+a.muted:hover {
+   color:#eee6cb;
+}
+h1, h2, h3, h4, h5, h6 {
+   color:#2e2d29;
+}
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+   color:#3f3c30;
+}
+.muted {
+   color:#8a887d;
+}
 
 /************* homepage **************/
-.centerImage {
-		margin: 50px 0px;
+ .centerImage {
+   margin: 50px 0px;
 }
-
-.navbar-inverse {
-		background-color: #4081ff;
+.navbar-default {
+   background-color: #B34444;
+   border: 1px solid #4D4F53;
 }
-
+.navbar-default .navbar-nav > li > a:hover {
+   background-color: #4D4F53;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover {
+   background-color: #8C1515;
+}
 body {
-		padding: 30px;
-		background: url('../img/lightwool.png') repeat 0 0;
-		background-attachment: fixed;
+   padding: 30px;
+   background: url('../img/lightwool.png') repeat 0 0;
+   background-attachment: fixed;
 }
-
 .clark-large {
-		width: 100%;
+   width: 100%;
 }
-
 .fundingLogo {
-		width: 70px;
-		float: left;
-		padding-top: 5px;
-		padding-right: 15px;
+   width: 60px;
+   float: left;
+   padding-top: 5px;
+   padding-right: 10px;
 }
-
 .funding {
-		height: 100px;
-		background-color: transparent;
-		border: none;
+   height: 100px;
+   background-color: transparent;
+   border: none;
+   font-size: 110%;
 }
-
+.affiliations p {
+   margin-bottom: 5px;
+}
 /************* People page ***********/
-.profiles {
-		min-height: 170px;
-		background-color: transparent;
-		border: none;
-		border-top: 1px solid #ccc;
-		padding-top: 20px;
+ .profiles {
+   min-height: 200px;
+   background-color: transparent;
+   border: none;
+   border-top: 1px solid #ccc;
+   padding-top: 20px;
 }
-
 .profileDescription {
-		font-size: 101%;
-		margin-top: -10px;
+   font-size: 101%;
+   margin-top: -20px;
 }
-
 .profileImg {
-		float: left;
-		padding-right: 30px;
+   float: left;
+   padding-right: 30px;
+   width: 180px;
 }
-
 .caption {
-		padding-left: 5px;
+   padding-left: 5px;
 }
-
+.largeProfile {
+   width: 100%;
+}
 /************* publications page ***********/
-.pubheader {
-		text-align: center;
+ .pubheader {
+   text-align: center;
 }
-
 .publication {
-		margin-bottom: 20px;
-		padding-top: 5px;
-		border-top: 1px solid #ccc;
+   margin-bottom: 20px;
+   padding-top: 5px;
+   border-top: 1px solid #ccc;
 }
-
 .pubtitle {
-		font-family: "Helvetica", sans-serif;
-		font-size: 20px;
-		font-style: normal;
-		font-weight: normal;
-		text-transform: normal;
-		letter-spacing: 0.5px;
-		line-height: 1.3em;
-		margin-bottom: 5px;
+   font-family:"Helvetica", sans-serif;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: normal;
+   text-transform: normal;
+   letter-spacing: 0.5px;
+   line-height: 1.3em;
+   margin-bottom: 5px;
 }
-
 .pubsubtext {
-		font-size: 16px;
-		margin-bottom: 5px;
+   font-size: 16px;
+   margin-bottom: 5px;
 }
-
 .pubjournal {
-		font-style: italic;
+   font-style: italic;
 }
-
 .publist {
-		margin-top: 10px;
+   margin-top: 10px;
 }
-
 .imglist {
-		margin-top: 65px;
+   margin-top: 65px;
+}
+.pubFigure {
+   min-height: 100px;
+   max-height: 150px;
+   min-width: 100px;
+   max-width: 300px;
+   float: right;
 }
 
-.pubFigure {
-		min-height: 100px;
-		max-height: 150px;
-		min-width: 	100px;
-		max-width:  300px;
-		float: right;
+/************* teaching page ***********/
+.courseBlock {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
 }

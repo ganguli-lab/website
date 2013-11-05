@@ -1,171 +1,151 @@
 <!DOCTYPE html>
 <html lang="en">
+   <!-- Neural Dynamics and Computation Lab Website copyright 2013 -->
+   
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="website for the Neural Dynamics and Computation lab">
+      <meta name="author" content="Surya Ganguli">
+      <link rel="shortcut icon" href="img/favicon.png">
+      <title>Neural Dynamics and Computation Lab</title>
+      <!-- Bootstrap core CSS -->
+      <link href="css/bootstrap.css" rel="stylesheet">
+      <link href="css/cosmo.css" rel="stylesheet">
+      <!-- Custom styles for this template -->
+      <link href="css/navbar.css" rel="stylesheet">
+      <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+      <!--[if lt IE 9]>
+         <script src="../../assets/js/html5shiv.js"></script>
+         <script src="../../assets/js/respond.min.js"></script>
+      <![endif]-->
+   </head>
+   
+   <body>
+      <div class="container">
+         <!-- Static navbar -->
+         <div class="navbar navbar-default">
+            <!-- toggle used on mobile screens -->
+            <div class="navbar-header">
+               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+               </button>
+               <!--<a class="navbar-brand" href="#">Neural Dynamics and Computation</a>-->
+            </div>
+            <!-- full width (desktop) content -->
+            <div class="navbar-collapse collapse">
+               <ul class="nav navbar-nav navbar-right">
+                  <li class="active">
+                     <a href="#">Home</a>
+                  </li>
+                  <li>
+                     <a href="people.html">People</a>
+                  </li>
+                  <li>
+                     <a href="pubs.html">Publications</a>
+                  </li>
+                  <li>
+                     <a href="teaching.html">Teaching</a>
+                  </li>
+               </ul>
+            </div>
+            <!--/.nav-collapse -->
+         </div>
+         <!-- Main component for a primary marketing message or call to action -->
+         <div class="row">
+            <div class="col-lg-10 col-lg-offset-1">
+               <h2>Neural Dynamics and Computation Lab</h2>
+               <img class="clark-large" src="img/clark.jpg">
+            </div>
+         </div>
+         <!-- Example row of columns -->
+         <div class="row">
+            <div class="col-md-8 col-lg-offset-1">
+               <h3>About us</h3>
+               <p>The last century witnessed the unfolding of a great intellectual adventure, as
+                  the collective human mind conceptually reorganized our understanding of space,
+                  time, matter and energy, now codified in the theoretical frameworks of quantum
+                  mechanics, general relativity, and statistical mechanics. Similarly, in neuroscience,
+                  we are now in the midst of another grand quest, as we turn inwards to conceptually
+                  understand the workings of the very same mind capable of achieving the feats of
+                  the last hundred years.</p>
+               <p>We are a diverse group of physicists, mathematicians, computer scientists, bioengineers
+                  and neurobiologists, dedicated to this quest. We are motivated by two overarching
+                  questions:
+                  <ol>
+                     <li>How do fundamental higher level cognitive phenomena like perception, memory, attention,
+                        decision making and motor control emerge from the collective interactions of many
+                        dynamical degrees of freedom embedded within networks of neurons and synapses?</li>
+                     <li>Can principles of high dimensional statistics and computation provide a unified
+                        view of how we as neuroscientists can extract biologically meaningful models of
+                        neural systems from large datasets, as well as how neural systems themselves can
+                        extract predictive models of their environment from the stream of sensorimotor
+                        experience?</li>
+                  </ol>
+               </p>
+               <p>To pursue these questions, we exploit and extend tools and ideas from a diverse
+                  array of disciplines, including statistical mechanics, dynamical systems theory,
+                  machine learning, information theory, control theory, and high-dimensional statistics,
+                  as well as collaborate with experimental neuroscience laboratories collecting physiological
+                  data from a range of model organisms, from flies to humans.</p>
+            </div>
+            <div class="col-md-4 col-lg-2 col-xs-6">
+               <h3>Address</h3>
+               <address>James H. Clark Center, Room S245
+                  <br>318 Campus Drive
+                  <br>Stanford, CA 94305</address>
+            </div>
+            <div class="col-md-4 col-lg-2 col-xs-6 affiliations">
+               <h3>Affiliations</h3>
+							 <p><a href="http://www.stanford.edu/group/mbc/cgi-bin/index.php">Stanford Mind, Brain, and Computation</a></p>
+							 <p><a href="http://biox.stanford.edu/">Stanford Bio-X</a></p>
+							 <p><a href="http://www.stanford.edu/dept/app-physics/cgi-bin/">Dept. of Applied Physics</a></p>
+							 <p><a href="http://ee.stanford.edu/">Dept. of Electrical Engineering</a></p>
+							 <p><a href="http://neurobiology.stanford.edu/">Dept. of Neurobiology</a></p>
+							 <p><a href="http://neuroscienceprogram.stanford.edu/">Neurosciences Graduate Program</a></p>
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-lg-10 col-lg-offset-1">
+               <h4>Funding Sources</h4>
+               <div id="fundingSources-placeholder">Loading ...</div>
+            </div>
+         </div>
 
-<!--
-		Neural Dynamics and Computation Lab Website
-		copyright 2013
--->
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="website for the Neural Dynamics and Computation lab">
-    <meta name="author" content="Surya Ganguli">
-    <link rel="shortcut icon" href="img/favicon.png">
-
-		<title>Neural Dynamics and Computation Lab</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/cosmo.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="css/navbar.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="../../assets/js/html5shiv.js"></script>
-      <script src="../../assets/js/respond.min.js"></script>
-    <![endif]-->
-  </head>
-
-  <body>
-
-    <div class="container">
-
-      <!-- Static navbar -->
-      <div class="navbar navbar-inverse">
-
-				<!-- toggle used on mobile screens -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-					<!--<a class="navbar-brand" href="#">Neural Dynamics and Computation</a>-->
-        </div>
-
-				<!-- full width (desktop) content -->
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav navbar-right">
-						<li class="active"><a href="#">Home</a></li>
-						<li><a href="people.html">People</a></li>
-						<li><a href="pubs.html">Publications</a></li>
-						<li><a href="teaching.html">Teaching</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
+         <!-- Funding sources template -->
+         <script id="fundingSources-template" type="text/x-handlebars-template">
+            {{#fundingSources}}
+            						<div class="col-sm-6 col-md-3">
+														<a href="{{link}}">
+            								<div class="thumbnail funding">
+            										<img class="fundingLogo" src="{{logo}}" alt="{{text}}" width="100" height="100">
+            										<p class="caption">{{text}}</p>
+            								</div>
+														</a>
+            						</div>
+            						{{/fundingSources}}
+         </script>
+         <!-- Site footer -->
+         <!--<div class="footer">-->
+         <!--<p>&copy; Neural Dynamics and Computation Lab 2013</p>-->
+         <!--</div>-->
       </div>
 
-      <!-- Main component for a primary marketing message or call to action -->
-			<div class="row">
-					<div class="col-lg-10 col-lg-offset-1">
-						<h2>Neural Dynamics and Computation Lab</h2>
-						<img class="clark-large" src="img/clark.jpg">
-				</div>
-      </div>
+			<!-- Placed at the end of the document so the pages load faster -->
+      <script src="js/jquery.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/handlebars.js"></script>
 
-      <!-- Example row of columns -->
-      <div class="row">
-        <div class="col-md-8 col-lg-offset-1">
-
-          <h3>About us</h3>
-          <p>The last century witnessed the unfolding of a great intellectual adventure, as the collective human mind conceptually
-          reorganized our understanding of space, time, matter and energy, now codified in grand theoretical frameworks of
-          quantum mechanics, general relativity, and statistical mechanics. Similarly, in neuroscience, we are now in the midst of
-          another grand quest, as we turn inwards to conceptually understand the workings of the very same mind capable of
-          achieving the feats of the last hundred years.</p>
-
-          <p>We are a diverse group of physicists, mathematicians, computer scientists, bioengineers and neurobiologists,
-					dedicated to this quest. We are motivated by two overarching questions:
-						<ol>
-								<li>How do fundamental higher level cognitive phenomena like perception, memory, attention, decision making and spatial navigation emerge from the collective interactions of many dynamical degrees of freedom embedded within networks of neurons and synapses?</li>
-								<li>Can principles of high-dimensional statistics and computation provide a unified view of how we as neuroscientists can extract biologically meaningful models from large datasets, as well as how neural systems themselves can extract predictive models of their environment from the stream of sensorimotor experience?</li>
-						</ol>
-					</p>
-
-          <p>To pursue these questions, we exploit and extend tools and ideas from a diverse array of disciplines, including
-          statistical mechanics, dynamical systems theory, machine learning, information theory, control theory, and high-dimensional
-          statistics, as well as collaborate with experimental neuroscience laboratories collecting physiological data from a range of
-          model organisms, from flies to humans.</p>
-
-        </div>
-				<div class="col-md-2">
-          <h3>Address</h3>
-					<address>
-							James H. Clark Center, Room S245<br>
-							318 Campus Drive<br>
-							Stanford, CA 94305
-					</address>
-				</div>
-			</div>
-
-			<div class="row">
-					<div class="col-lg-10 col-lg-offset-1">
-						<h4>Funding Sources</h4>
-						<div id="fundingSources-placeholder">Loading ...</div>
-					</div>
-			</div>
-
-			<!--<div class="row">-->
-       <!--<div class="col-lg-6">-->
-          <!--<h3>Funding sources</h3>-->
-					<!--<div class="fundingSources">-->
-
-						<!--<div class="media">-->
-								<!--<a class="pull-left" href="#"> <img class="media-object" src="img/logos/biox.jpg" alt="Bio-X"></a>-->
-								<!--<div class="media-body"> <h4 class="media-heading">Media heading</h4> </div>-->
-						<!--</div>-->
-
-						<!-- Funding sources template -->
-						<script id="fundingSources-template" type="text/x-handlebars-template">
-						{{#fundingSources}}
-						<div class="col-sm-6 col-md-3">
-								<div class="thumbnail funding">
-										<img class="fundingLogo" src="{{logo}}" alt="{{text}}" width="100" height="100">
-										<p class="caption"><a href="{{link}}">{{text}}</a></p>
-								</div>
-						</div>
-						{{/fundingSources}}
-						</script>
-
-<!--						<span class="fundingSource"><img class="logo" src="img/logos/biox.jpg"><a class="fundingText" href="http://biox.stanford.edu/biox/neuro.html">Bio-X Neuroventures</a></span>
-						<span class="fundingSource"><img class="logo" src="img/logos/burroughswellcome.gif"><a class="fundingText" href="http://www.bwfund.org/">Burroughs-Wellcome</a></span>
-						<span class="fundingSource"><img class="logo" src="img/logos/darpa.jpg"><a class="fundingText" href="http://www.darpa.mil/default.aspx">DARPA</a></span>
-						<span class="fundingSource"><img class="logo" src="img/logos/genentech.gif"><a class="fundingText" href="http://www.genentechfoundation.com/index.html">Genentech Foundation</a></span> <br/>
-						<span class="fundingSource"><img class="logo" src="img/logos/sloan.gif"><a class="fundingText" href="http://www.sloan.org/">The Alfred P. Sloan Foundation</a></span>
-						<span class="fundingSource"><img class="logo" src="img/logos/mbc.png"><a class="fundingText" href="http://www.stanford.edu/group/mbc/cgi-bin/index.php">Stanford Mind, Brain, and Computation</a></span>
-						<span class="fundingSource"><img class="logo" src="img/logos/swartz.jpg"><a class="fundingText" href="http://www.theswartzfoundation.org/default.asp">The Swartz Foundation</a></span>
-						-->
-					<!--</div>-->
-       <!--</div>-->
-      <!--</div>-->
-
-      <!-- Site footer -->
-      <!--<div class="footer">-->
-        <!--<p>&copy; Neural Dynamics and Computation Lab 2013</p>-->
-      <!--</div>-->
-
-    </div> <!-- /container -->
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-		<script src="js/handlebars.js"></script>
-
-		<!-- Template insertion code -->
-		<script type="text/javascript">
-				$.getJSON('data/funding.json', function(data) {
-						var src = document.getElementById("fundingSources-template").innerHTML;
-						var tmpl = Handlebars.compile(src);
-
-						document.getElementById("fundingSources-placeholder").innerHTML = tmpl(data);
-					});
-    </script>
-
-  </body>
-
-<!-- Mirrored from getbootstrap.com/examples/navbar/ by HTTrack Website Copier/3.x [XR&CO'2013], Tue, 20 Aug 2013 13:09:50 GMT -->
+      <!-- Template insertion code -->
+      <script type="text/javascript">
+         $.getJSON('data/funding.json', function(data) {
+         						var src = document.getElementById("fundingSources-template").innerHTML;
+         						var tmpl = Handlebars.compile(src);
+         
+         						document.getElementById("fundingSources-placeholder").innerHTML = tmpl(data);
+         					});
+      </script>
+   </body>
 </html>

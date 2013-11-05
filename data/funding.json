@@ -21,7 +21,7 @@
 
     {
       "logo": "img/logos/darpa.png",
-      "href": "http://www.darpa.mil/default.aspx",
+      "link": "http://www.darpa.mil/default.aspx",
       "text": "DARPA"
     },
 

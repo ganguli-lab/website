@@ -86,22 +86,67 @@
 
   "publications":
   [
-    {
-      "title": "Learning hierarchical categories in deep neural networks.",
-      "author":"A. Saxe, J. McClelland, S. Ganguli",
-      "published": "under review at Cognitive Science.",
-      "imgsrc": "figures/HierTree.jpg"
+ 
+   {
+      "title": "Analyzing noise in autoencoders and deep networks.",
+      "author":"B. Poole, J. Sohl-Dickstein and S. Ganguli",
+      "published": "submitted.",
+      "imgsrc": "figures/NoiseAutoEnc.jpg"
     },
-
+   {
+      "title": "An adaptive low dimensional quasi-Newton sum of functions optimizer.",
+      "author":"J. Sohl-Dickstein, B. Poole, and S. Ganguli",
+      "published": "submitted.",
+      "imgsrc": "figures/SFO.jpg"
+    },
+   {
+      "title": "Impaired learning with enhanced plasticity: a saturation hypothesis",
+      "author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
+      "published": "submitted.",
+      "imgsrc": "figures/MultiState.jpg"
+    },
+   {
+      "title": "Exact solutions to the nonlinear dynamics of learning in deep neural networks.",
+      "author":"A. Saxe, J. McClelland and S. Ganguli",
+      "published": "submitted.",
+      "pdflink":"pdf/",
+      "imgsrc": "figures/DeepDynamics.jpg"
+    },
+ 
+   {
+      "title": "Evidence for a causal inverse model in an avian cortico-basal ganglia circuit.",
+      "author":"N. Giret, J. Kornfeld, S. Ganguli, and R. Hahnloser",
+      "published": "submitted.",
+      "imgsrc": "figures/PredCausal.jpg"
+    },
+   {
+      "title": "A memory frontier for complex synapses.",
+      "author":"S. Lahiri and S. Ganguli",
+      "published": "Neural Information Processing Systems (NIPS), 2014.",
+      "pdflink":"pdf/Synapse.NIPS14.pdf",
+      "supplemental":"pdf/Synapse.NIPS14.Supp.pdf",
+      "imgsrc": "figures/MemFrontier.jpg"
+    },
+   {
+      "title": "Learning hierarchical category structure in deep neural networks.",
+      "author":"A. Saxe, J. McClelland, S. Ganguli",
+      "published": "In M. Knauff, M. Paulen, N. Sebanz, & I. Wachsmuth (Eds.), Proceedings of the 35th annual meeting of the Cognitive Science Society. (pp. 1271-1276). Austin, TX: Cognitive Science Society.",
+      "pdflink":"pdf/Saxe.13.HierCat.pdf",
+      "imgsrc": "figures/HierTree.jpg"      
+    },
     {
-      "title": "Low-dimensional projections modeling neural ensemble activity increase brain-machine interface robustness.",
+      "title": "Investigating the role of firing-rate normalization and dimensionality reduction on brain-machine interface robustness.", 
       "author":"J. Kao, P. Nuyujukian, S. Stavisky, S. Ryu, S. Ganguli, K.V. Shenoy",
-      "published": "under review at IEEE Engineering and Medicine in Biology."
+      "published": "Proc. of the 35th Annual International Conference IEEE EMBS. Osaka, Japan: 293-298.",
+      "pdflink":"pdf/KaoEtAlIEEEEMBC2013.pdf",
+      "imgsrc": "figures/Kao.Perf.jpg"
     },
     {
       "title": "A Hebbian learning rule gives rise to mirror neurons and links them to control theoretic inverse models.",
       "author":"A. Hanuschkin, S. Ganguli, R.H.R. Hahnloser",
-      "published": "Frontiers in neural circuits (2013), in press."
+      "published": "Frontiers in neural circuits, June 2013, doi: 10.3389/fncir.2013.00106.",
+      "pdflink":"pdf/InvModelTheory.pdf",
+      "imgsrc": "figures/InvModel.jpg"
     },
     {
       "title":"Vocal learning with inverse models.",
