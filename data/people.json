@@ -5,7 +5,7 @@
       "firstname":"Surya",
       "lastname":"Ganguli",
       "email":"sganguli@stanford.edu",
-      "description":"Principal Investigator. <a href=\"pdf/Ganguli.CV.pdf\">Curriculum Vitae</a>. <br>For more information, visit my <a href=\"surya.html\">website</a>.",
+      "description":"Principal Investigator. <a href=\"pdf/Ganguli.CV.pdf\">Curriculum Vitae</a>. <br>For more information, please visit my <a href=\"surya.html\">website</a>.",
       "imgsrc":"img/surya_square_small.jpg"
     },
     {
@@ -26,7 +26,7 @@
       "firstname":"Peiran",
       "lastname":"Gao",
       "email":"prgao@stanford.edu",
-      "description":"I'm a graduate student in the <a href=\"http://bioengineering.stanford.edu\">bioengineering department</a> coadvised by Prof. Surya Ganguli and Prof. Kwabena Boahen. I have worked on a <a href=\"http://www.stanford.edu/group/brainsinsilicon/PeiranGao.html\">variety of problems</a> since starting graduate school. I'm currently studying how neural dynamics are embedded in their high-dimensional phase space.",
+      "description":"B.S. Physics and B.S. Neurobiology, U.C. Berkeley<br>I'm a graduate student in the <a href=\"http://bioengineering.stanford.edu\">bioengineering department</a> coadvised by Prof. Surya Ganguli and Prof. Kwabena Boahen. I have worked on a variety of problems since starting graduate school. I'm currently studying how neural dynamics are embedded in their high-dimensional phase space.",
       "imgsrc":"img/peiran.jpg"
     },
     {
