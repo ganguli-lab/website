@@ -97,8 +97,9 @@ body {
    width: 100%;
 }
 .surya-info {
-	font-size: 110%;
-	margin-top: 5px;
+	font-size: 120%;
+	margin-top: 15px;
+        text-align: center;
 }
 .surya-header {
 	text-align: center;
