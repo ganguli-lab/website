@@ -94,35 +94,35 @@
       "imgsrc": "figures/NoiseAutoEnc.jpg"
     },
    {
-      "title": "An adaptive low dimensional quasi-Newton sum of functions optimizer.",
-      "author":"J. Sohl-Dickstein, B. Poole, and S. Ganguli",
-      "published": "submitted.",
-      "imgsrc": "figures/SFO.jpg"
-    },
-   {
       "title": "Impaired learning with enhanced plasticity: a saturation hypothesis",
       "author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
       "published": "submitted.",
       "imgsrc": "figures/MultiState.jpg"
     },
-   {
-      "title": "Exact solutions to the nonlinear dynamics of learning in deep neural networks.",
-      "author":"A. Saxe, J. McClelland and S. Ganguli",
-      "published": "submitted.",
-      "pdflink":"pdf/",
-      "imgsrc": "figures/DeepDynamics.jpg"
-    },
- 
-   {
+  {
       "title": "Evidence for a causal inverse model in an avian cortico-basal ganglia circuit.",
       "author":"N. Giret, J. Kornfeld, S. Ganguli, and R. Hahnloser",
       "published": "submitted.",
       "imgsrc": "figures/PredCausal.jpg"
     },
    {
+      "title": "An adaptive low dimensional quasi-Newton sum of functions optimizer.",
+      "author":"J. Sohl-Dickstein, B. Poole, and S. Ganguli",
+      "published": "submitted.",
+      "pdflink":"pdf/SFO.pdf",
+      "imgsrc": "figures/SFO.jpg"
+    },
+   {
+      "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks.",
+      "author":"A. Saxe, J. McClelland and S. Ganguli",
+      "published": "submitted.",
+      "pdflink":"pdf/DynamLearn.pdf",
+      "imgsrc": "figures/DeepDynamics.jpg"
+    },
+   {
       "title": "A memory frontier for complex synapses.",
       "author":"S. Lahiri and S. Ganguli",
-      "published": "Neural Information Processing Systems (NIPS), 2014.",
+      "published": "Neural Information Processing Systems (NIPS), 2013.  (* Winner of the NIPS Outstanding Paper Award, given to 3 papers out of 1420 submissions).",
       "pdflink":"pdf/Synapse.NIPS14.pdf",
       "supplemental":"pdf/Synapse.NIPS14.Supp.pdf",
       "imgsrc": "figures/MemFrontier.jpg"
