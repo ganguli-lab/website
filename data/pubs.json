@@ -2,6 +2,42 @@
   "abstracts":
   [
    {
+      "title": "A Theory of Neural Dimensionality and Measurement.",
+      "author": “P. Gao, E. Trainman, B. Yu, G. Santhanam, S. Ryu, K. Shenoy and S. Ganguli”,
+      "published": "cosyne 2014, selected for a talk”,
+      "abstract": "pdf/14.Cosyne.DimMeas.pdf”,
+      "imgsrc": "figures/14.Cosyne.Dim.tiff"
+    },
+
+   {
+      "title": "Modeling enhanced and impaired learning with enhanced plasticity.”,
+      "author": "T.D. Barbara Nguyen-Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H.M. Lee, S. Ganguli, C.J. Shatz, J.L. Raymond”,
+      "published": "cosyne 2014, selected for a talk.”,
+      "abstract": "pdf/14.Cosyne.MHC.pdf",
+      "imgsrc": ""
+    },
+   {
+      "title": "Tractable, optimal high dimensional Bayesian inference.”,
+      "author": "M. Advani and S. Ganguli",
+      "published": "cosyne 2014.”,
+      "abstract": "pdf/14.Cosyne.HighDimBayes.pdf”,
+      "imgsrc": "figures/14.Cosyne.HighDimBayes.tiff”
+    },
+   {
+      "title": "Efficient fitting of large-scale neural models.”,
+      "author": "J. Sohl-Dickstein, N. Maheswaranathan, B. Poole, S.Ganguli",
+      "published": "cosyne 2014.”,
+      "abstract": "pdf/14.Cosyne.SFO.GLM.tiff",
+      "imgsrc": "figures/14.Cosyne.SFO.GLM.tiff"
+    }, 
+   {
+      "title": “Effects of noise injection in artificial neural networks.” ,
+      "author": “B. Poole, J. Sohl-Dickstein, S.Ganguli",
+      "published": "cosyne 2014.”,
+      "abstract": "pdf/14.Cosyne.NoiseInj.pdf",
+      "imgsrc": "figures/14.Cosyne.NoiseInj.tiff”
+    },
+   {
       "title": "A general theory of learning and memory with complex synapses.",
       "author": "S. Lahiri and S. Ganguli",
       "published": "cosyne 2013.",
@@ -11,7 +47,7 @@
     {
       "title": "Evidence for a causal inverse model in an avian song learning circuit.",
       "author": "R.H.R. Hahnloser, N. Giret, J. Kornfeld, and S. Ganguli",
-      "published": "cosyne 2013, talk.",
+      "published": "cosyne 2013, selected for a talk.",
       "abstract": "pdf/EvidenceCausalInv.pdf"
     },
     {
@@ -43,7 +79,7 @@
     {
       "title":"Bird song learning without reinforcement: the Hebbian self-organization of sensorimotor circuits.",
       "author":"S. Ganguli and R. Hahnloser",
-      "published": "cosyne 2011, talk.",
+      "published": "cosyne 2011, selected for a talk.",
       "abstract":"pdf/BirdSong.Abs.pdf",
       "imgsrc": "figures/InvForw.jpg"
     },
@@ -77,7 +113,7 @@
     {
       "title":"Learning and memory in an exactly solvable stochastic spiking network.",
       "author":"S. Ganguli",
-      "published": "cosyne 2006, talk.",
+      "published": "cosyne 2006, selected for a talk.",
       "abstract":"pdf/Surya.Cosyne.Abs.pdf",
       "slides":"pdf/Surya.Cosyne.Talk.pdf",
       "imgsrc": "figures/BranchedPath.jpg"
