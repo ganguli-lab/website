@@ -65,36 +65,36 @@
 					<h2>Selected Abstracts</h2>
 					{{#abstracts}}
 						<!-- if there is an image -->
-						{{#if imgsrc}}
-								<div class="row publication">
-										<div class="col-md-8 publist">
-												<p class="pubtitle">{{title}}</p>
-												<p class="pubsubtext">{{author}}, <span class="pubjournal">{{published}}</span></p>
-												<p class="pubinfo">
-														{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
-														{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
-														{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
-														{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
-												</p>
-										</div>
-										<div class="col-md-4"><img class="pubFigure" src="{{imgsrc}}"></div>
+						<div class="row publication">
+
+								{{#if imgsrc}}
+									<div class="col-md-8 publist">
+								 {{else}}
+									<div class="col-md-12 publist">
+								 {{/if}}
+
+										<p class="pubtitle">{{title}}</p>
+										<p class="pubsubtext">{{author}}, <span class="pubjournal">{{published}}</span></p>
+										<p class="pubinfo">
+												{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
+												{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
+												{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
+												{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
+										</p>
 								</div>
-						{{else}}
-								<div class="row publication">
-										<div class="col-md-12 publist">
-												<p class="pubtitle">{{title}}</p>
-												<p class="pubsubtext">{{author}}, <span class="pubjournal">{{published}}</span></p>
-										</div>
-								</div>
-						{{/if}}
+								{{#if imgsrc}}<div class="col-md-4"><img class="pubFigure" src="{{imgsrc}}"></div>{{/if}}
+						</div>
 					{{/abstracts}}
 
 					<h2>Publications</h2>
 					{{#publications}}
 						<!-- if there is an image -->
-						{{#if imgsrc}}
-								<div class="row publication">
+						<div class="row publication">
+								{{#if imgsrc}}
 										<div class="col-md-8 publist">
+								{{else}}
+										<div class="col-md-12 publist">
+								{{/if}}
 												<p class="pubtitle">{{title}}</p>
 												<p class="pubsubtext">{{author}}, <span class="pubjournal">{{published}}</span></p>
 												<p class="pubinfo">
@@ -104,16 +104,8 @@
 														{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
 												</p>
 										</div>
-										<div class="col-md-4"><img class="pubFigure" src="{{imgsrc}}"></div>
+										{{#if imgsrc}}<div class="col-md-4"><img class="pubFigure" src="{{imgsrc}}"></div>{{/if}}
 								</div>
-						{{else}}
-								<div class="row publication">
-										<div class="col-md-12 publist">
-												<p class="pubtitle">{{title}}</p>
-												<p class="pubsubtext">{{author}}, <span class="pubjournal">{{published}}</span></p>
-										</div>
-								</div>
-						{{/if}}
 					{{/publications}}
 
 		</script>
