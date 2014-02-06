@@ -2,18 +2,11 @@
   "abstracts":
   [
    {
-      "title": "Efficient fitting of large-scale neural models.”,
-      "author": "J. Sohl-Dickstein, N. Maheswaranathan, B. Poole, S.Ganguli",
-      "published": "cosyne 2014.”,
-      "abstract": "pdf/14.Cosyne.SFO.GLM.tiff",
-      "imgsrc": "figures/14.Cosyne.SFO.GLM.tiff"
-    }, 
-   {
-      "title": “Effects of noise injection in artificial neural networks.” ,
-      "author": “B. Poole, J. Sohl-Dickstein, S.Ganguli",
-      "published": "cosyne 2014.”,
+      "title": "Effects of noise injection in artificial neural networks." ,
+      "author": "B. Poole, J. Sohl-Dickstein, S.Ganguli",
+      "published": "cosyne 2014.",
       "abstract": "pdf/14.Cosyne.NoiseInj.pdf",
-      "imgsrc": "figures/14.Cosyne.NoiseInj.tiff”
+      "imgsrc": "figures/14.Cosyne.NoiseInj.tiff"
     },
    {
       "title": "A general theory of learning and memory with complex synapses.",
