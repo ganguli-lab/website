@@ -1,6 +1,36 @@
 {
   "abstracts":
   [
+  {
+      "title": "A theory of neural dimensionality and measurement.",
+      "author": "P. Gao, E. Trainman, B. Yu, G. Santhanam, S. Ryu, K. Shenoy and S. Ganguli",
+      "published": "cosyne 2014, selected for a talk",
+      "abstract": "pdf/14.Cosyne.DimMeas.pdf",
+      "imgsrc": "figures/14.Cosyne.Dim.tiff"
+    },
+   {
+      "title": "Modeling enhanced and impaired learning with enhanced plasticity.",
+      "author": "T.D. Barbara Nguyen-Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H.M. Lee, S. Ganguli, C.J. Shatz, J.L. Raymond",
+      "published": "cosyne 2014, selected for a talk.",
+      "abstract": "pdf/14.Cosyne.MHC.pdf",
+      "imgsrc": ""
+    },
+   {
+      "title": "Tractable, optimal high dimensional Bayesian inference.",
+      "author": "M. Advani and S. Ganguli",
+      "published": "cosyne 2014.",
+      "abstract": "pdf/14.Cosyne.HighDimBayes.pdf",
+      "imgsrc": "figures/14.Cosyne.HighDimBayes.tiff"
+    },
+   {
+      "title": "Efficient fitting of large-scale neural models.",
+      "author": "J. Sohl-Dickstein, N. Maheswaranathan, B. Poole, S.Ganguli",
+      "published": "cosyne 2014.",
+      "abstract": "pdf/14.Cosyne.SFO.GLM.tiff",
+      "imgsrc": "figures/14.Cosyne.SFO.GLM.tiff"
+    }, 
+   
+
    {
       "title": "Effects of noise injection in artificial neural networks." ,
       "author": "B. Poole, J. Sohl-Dickstein, S.Ganguli",
