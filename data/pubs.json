@@ -6,7 +6,7 @@
       "author": "P. Gao, E. Trainman, B. Yu, G. Santhanam, S. Ryu, K. Shenoy and S. Ganguli",
       "published": "cosyne 2014, selected for a talk",
       "abstract": "pdf/14.Cosyne.DimMeas.pdf",
-      "imgsrc": "figures/14.Cosyne.Dim.tiff"
+      "imgsrc": "figures/14.Cosyne.Dim.jpg"
     },
    {
       "title": "Modeling enhanced and impaired learning with enhanced plasticity.",
@@ -20,14 +20,14 @@
       "author": "M. Advani and S. Ganguli",
       "published": "cosyne 2014.",
       "abstract": "pdf/14.Cosyne.HighDimBayes.pdf",
-      "imgsrc": "figures/14.Cosyne.HighDimBayes.tiff"
+      "imgsrc": "figures/14.Cosyne.HighDimBayes.jpg"
     },
    {
       "title": "Efficient fitting of large-scale neural models.",
       "author": "J. Sohl-Dickstein, N. Maheswaranathan, B. Poole, S.Ganguli",
       "published": "cosyne 2014.",
-      "abstract": "pdf/14.Cosyne.SFO.GLM.tiff",
-      "imgsrc": "figures/14.Cosyne.SFO.GLM.tiff"
+      "abstract": "pdf/14.Cosyne.SFO.GLM.pdf”,
+      "imgsrc": "figures/14.Cosyne.SFO.GLM.jpg"
     }, 
    
 
@@ -36,7 +36,7 @@
       "author": "B. Poole, J. Sohl-Dickstein, S.Ganguli",
       "published": "cosyne 2014.",
       "abstract": "pdf/14.Cosyne.NoiseInj.pdf",
-      "imgsrc": "figures/14.Cosyne.NoiseInj.tiff"
+      "imgsrc": "figures/14.Cosyne.NoiseInj.jpg"
     },
    {
       "title": "A general theory of learning and memory with complex synapses.",
