@@ -20,9 +20,9 @@
     },
 
     {
-      "logo": "img/logos/darpa.png",
-      "link": "http://www.darpa.mil/default.aspx",
-      "text": "DARPA"
+      "logo": "img/logos/naval.png",
+      "link": "http://www.onr.navy.mil/",
+      "text": "Office of Naval Research"
     },
 
     {
@@ -47,6 +47,18 @@
       "logo": "img/logos/swartz.png",
       "link": "http://www.theswartzfoundation.org/default.asp",
       "text": "The Swartz Foundation"
+    },
+
+    {
+      "logo": "img/logos/uhc.jpg",
+      "link": "https://www.jsmf.org/apply/",
+      "text": "James S. McDonnell Foundation"
+    },
+
+    {
+      "logo": "img/logos/simons.png",
+      "link": "http://www.simonsfoundation.org/funding/funding-opportunities/",
+      "text": "Simons Foundation"
     }
   ]
 }
