@@ -33,17 +33,16 @@
       "firstname":"Peiran",
       "lastname":"Gao",
       "email":"prgao@stanford.edu",
-      "description":"B.S. Physics and B.S. Neurobiology, U.C. Berkeley<br>I'm a graduate student in the <a href=\"http://bioengineering.stanford.edu\">bioengineering department</a> coadvised by Prof. Surya Ganguli and Prof. Kwabena Boahen. I have worked on a variety of problems since starting graduate school. I'm currently studying how neural dynamics are embedded in their high-dimensional phase space.",
+      "description":"B.S. Physics and B.S. Neurobiology, U.C. Berkeley<br>I'm a graduate student in the <a href=\"http://bioengineering.stanford.edu\">bioengineering department</a> co-advised by Prof. Surya Ganguli and Prof. Kwabena Boahen. I have worked on a variety of problems since starting graduate school. I'm currently studying how neural dynamics are embedded in their high-dimensional phase space.",
       "imgsrc":"img/peiran.jpg"
     },
     {
       "firstname":"Kiah",
       "lastname":"Hardcastle",
       "email":"khardcas@stanford.edu",
-      "description":"B.S. Math and B.S. Neuroscience, College of William and Mary<br>I'm a graduate student in the <a href=\"http://nsp.stanford.edu/\">Neurosciences program</a> here at Stanford, coadvised by Prof. Surya Ganguli and Prof. Lisa Giocomo. I am interested in the way that neural networks encode information about the world. Currently, I am working on understanding the neural mechanisms that generate and support the accurate firing patterns exhibited by grid cells, neurons found in medial entorhinal cortex that are thought to encode spatial location.",
+      "description":"B.S. Math and B.S. Neuroscience, College of William and Mary<br>I'm a graduate student in the <a href=\"http://nsp.stanford.edu/\">Neurosciences program</a> here at Stanford, co-advised by Prof. Surya Ganguli and Prof. Lisa Giocomo. I am interested in the way that neural networks encode information about the world. Currently, I am focusing on understanding the neural mechanisms underlying accurate medial entorhinal grid cell firing patterns, and how they code for spatial location.",
       "imgsrc":"img/kiah.jpg"
     },
-
     {
       "firstname":"Niru",
       "lastname":"Maheswaranathan",
