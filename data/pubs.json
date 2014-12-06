@@ -143,7 +143,7 @@
    {
       "title": "Fast large scale optimization by unifying stochastic gradient and quasi-Newton methods.",
       "author":"J. Sohl-Dickstein, B. Poole, and S. Ganguli",
-      "published": "International conference on machine learning (ICML), 2014.”,
+      "published": "International conference on machine learning (ICML), 2014.",
       "pdflink":"pdf/14.LargeScaleOpt.ICML.pdf",
       "imgsrc": "figures/SFO.jpg"
     },
