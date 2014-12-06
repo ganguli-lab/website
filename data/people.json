@@ -37,6 +37,14 @@
       "imgsrc":"img/peiran.jpg"
     },
     {
+      "firstname":"Kiah",
+      "lastname":"Hardcastle",
+      "email":"khardcas@stanford.edu",
+      "description":"B.S. Math and B.S. Neuroscience, College of William and Mary<br>I'm a graduate student in the <a href=\"http://nsp.stanford.edu/\">Neurosciences program</a> here at Stanford, coadvised by Prof. Surya Ganguli and Prof. Lisa Giocomo. I am interested in the way that neural networks encode information about the world. Currently, I am working on understanding the neural mechanisms that generate and support the accurate firing patterns exhibited by grid cells, neurons found in medial entorhinal cortex that are thought to encode spatial location.",
+      "imgsrc":"img/kiah.jpg"
+    },
+
+    {
       "firstname":"Niru",
       "lastname":"Maheswaranathan",
       "email":"nirum@stanford.edu",
