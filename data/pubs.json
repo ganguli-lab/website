@@ -128,10 +128,17 @@
       "imgsrc": "figures/NoiseAutoEnc.jpg"
     },
    {
-      "title": "Impaired learning with enhanced plasticity: a saturation hypothesis",
+      "title": "Impaired learning with enhanced plasticity: a saturation hypothesis.",
       "author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
       "published": "submitted.",
       "imgsrc": "figures/MultiState.jpg"
+    },
+  {
+      "title": "Identifying and attacking the saddle point problem in high dimensional non-convex optimization.",
+      "author":"Y.N. Dauphin,  R. Pascanu,  C. Gulcehre, K. Cho, S. Ganguli, Y. Bengio",
+      "published": "Neural Information Processing Systems (2014).",
+      "pdflink":"pdf/14.SaddlePoint.NIPS.pdf",
+      "imgsrc": "figures/14.Saddlepoint.jpg"
     },
   {
       "title": "Evidence for a causal inverse model in an avian cortico-basal ganglia circuit.",
