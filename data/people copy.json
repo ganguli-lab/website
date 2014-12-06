@@ -23,18 +23,18 @@
       "imgsrc":"img/Jascha.jpg"
     },
     {
-      "firstname":"Madhu",
-      "lastname":"Advani",
-      "email":"msadvani@stanford.edu",
-      "description":"B.S. Engineering Physics, Cornell University<br> I am a PhD Candidate in the Applied Physics department. Generally, I am interested in applying mathematical methods to understand biological systems. My research has primarily been focused on theoretical neuroscience, high dimensional theoretical statistics and machine learning, and statistical physics. For more information visit my <a href=\"http://stanford.edu/~msadvani/\">website</a>.",
-      "imgsrc":"img/madhu.jpg"
-    },
-    {
       "firstname":"Peiran",
       "lastname":"Gao",
       "email":"prgao@stanford.edu",
       "description":"B.S. Physics and B.S. Neurobiology, U.C. Berkeley<br>I'm a graduate student in the <a href=\"http://bioengineering.stanford.edu\">bioengineering department</a> coadvised by Prof. Surya Ganguli and Prof. Kwabena Boahen. I have worked on a variety of problems since starting graduate school. I'm currently studying how neural dynamics are embedded in their high-dimensional phase space.",
       "imgsrc":"img/peiran.jpg"
+    },
+    {
+      "firstname":"Madhu",
+      "lastname":"Advani",
+      "email":"msadvani@stanford.edu",
+      "description":"B.S. Engineering Physics, Cornell University<br> I am a PhD Candidate in the Applied Physics department. Generally, I am interested in applying mathematical methods to understand biological systems. My research has primarily been focused on theoretical neuroscience, high dimensional theoretical statistics and machine learning, and statistical physics. For more information visit my <a href=\"http://stanford.edu/~msadvani/\">website</a>.",
+      "imgsrc":"img/madhu.jpg"
     },
     {
       "firstname":"Niru",
