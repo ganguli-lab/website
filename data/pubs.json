@@ -120,12 +120,11 @@
 
   "publications":
   [
- 
    {
-      "title": "Analyzing noise in autoencoders and deep networks.",
-      "author":"B. Poole, J. Sohl-Dickstein and S. Ganguli",
+      "title": "Environmental boundaries as an error correction mechanism for grid cells.",
+      "author”:"K. Hardcastle, S. Ganguli, and L. Giocomo",
       "published": "submitted.",
-      "imgsrc": "figures/NoiseAutoEnc.jpg"
+      "imgsrc": "figures/14.GridCell.jpg"
     },
    {
       "title": "Impaired learning with enhanced plasticity: a saturation hypothesis.",
@@ -146,6 +145,12 @@
       "published": "PNAS (2014) 111:6063-6068.",
       "pdflink":"pdf/CausalInv.14.PNAS.pdf",
       "imgsrc": "figures/PredCausal.jpg"
+    },
+   {
+      "title": "Analyzing noise in autoencoders and deep networks.",
+      "author":"B. Poole, J. Sohl-Dickstein and S. Ganguli",
+      "published": "submitted.",
+      "imgsrc": "figures/NoiseAutoEnc.jpg"
     },
    {
       "title": "Fast large scale optimization by unifying stochastic gradient and quasi-Newton methods.",
