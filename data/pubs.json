@@ -149,7 +149,8 @@
    {
       "title": "Analyzing noise in autoencoders and deep networks.",
       "author":"B. Poole, J. Sohl-Dickstein and S. Ganguli",
-      "published": "submitted.",
+      "published": "preprint.",
+      "pdflink":"pdf/14.DeepNoiseAnalysis.pdf",
       "imgsrc": "figures/NoiseAutoEnc.jpg"
     },
    {
