@@ -141,10 +141,10 @@
       "imgsrc": "figures/PredCausal.jpg"
     },
    {
-      "title": "An adaptive low dimensional quasi-Newton sum of functions optimizer.",
+      "title": "Fast large scale optimization by unifying stochastic gradient and quasi-Newton methods.",
       "author":"J. Sohl-Dickstein, B. Poole, and S. Ganguli",
       "published": "submitted.",
-      "pdflink":"pdf/SFO.pdf",
+      "pdflink":"pdf/14.LargeScaleOpt.ICML.pdf",
       "imgsrc": "figures/SFO.jpg"
     },
    {
