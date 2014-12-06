@@ -149,7 +149,7 @@
    {
       "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks.",
       "author":"A. Saxe, J. McClelland and S. Ganguli",
-      "published": "submitted.",
+      "published": “International conference on learning representations (ICLR), 2014.”,
       "pdflink":"pdf/DynamLearn.pdf",
       "imgsrc": "figures/DeepDynamics.jpg"
     },
