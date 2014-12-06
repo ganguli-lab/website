@@ -133,6 +133,12 @@
       "imgsrc": "figures/MultiState.jpg"
     },
   {
+      "title":"Modeling arbitrary probability distributions using non-equilibrium thermodynamics.",
+      "author":"J. Sohl-Dickstein, E. Weiss, N. Maheswaranathan and S. Ganguli",
+      "published": "submitted.",
+      "imgsrc": "figures/14.SwissRoll.jpg"
+    },
+  {
       "title": "Identifying and attacking the saddle point problem in high dimensional non-convex optimization.",
       "author":"Y.N. Dauphin,  R. Pascanu,  C. Gulcehre, K. Cho, S. Ganguli, Y. Bengio",
       "published": "Neural Information Processing Systems (2014).",
