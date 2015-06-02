@@ -59,6 +59,12 @@
       "logo": "img/logos/simons.png",
       "link": "http://www.simonsfoundation.org/funding/funding-opportunities/",
       "text": "Simons Foundation"
+    },
+
+    {
+      "logo": "img/logos/mcknight.png",
+      "link": "https://www.mcknight.org/",
+      "text": "The McKnight Foundation"
     }
   ]
 }
