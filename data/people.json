@@ -23,6 +23,13 @@
       "imgsrc":"img/Jascha.jpg"
     },
     {
+      "firstname":"Friedemann",
+      "lastname":"Zenke",
+      "email":"fzenke@stanford.edu",
+      "description":"Ph.D. Computational Neuroscience, École Polytechnique Fédérale de Lausanne, Switzerland. I study how synaptic plasticity interacts with spiking neural network dynamics to self-assemble computationally meaningful circuits.",
+      "imgsrc":"img/friedemann.jpg"
+    },
+    {
       "firstname":"Madhu",
       "lastname":"Advani",
       "email":"msadvani@stanford.edu",
