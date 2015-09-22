@@ -16,13 +16,6 @@
       "imgsrc":"img/subhy.jpg"
     },
     {
-      "firstname":"Jascha",
-      "lastname":"Sohl-Dickstein",
-      "email":"jascha@stanford.edu",
-      "description":"Ph.D. Biophysics, UC Berkeley<br> I am a Visiting Scholar in Surya's lab at Stanford and an Academic Resident at Khan Academy. I study machine learning, human learning, and neuroscience. My webpage is <a href='http://www.sohldickstein.com/'>http://sohldickstein.com/</a>.",
-      "imgsrc":"img/Jascha.jpg"
-    },
-    {
       "firstname":"Friedemann",
       "lastname":"Zenke",
       "email":"fzenke@stanford.edu",
@@ -64,6 +57,23 @@
       "email":"poole@cs.stanford.edu",
       "description":"B.S. Computer Science, Carnegie Mellon University<br> I'm a graduate student in the <a href=\"http://cs.stanford.edu\">Computer Science Department</a>. My research aims to utilize machine learning techniques to better understand how information is processed in the brain, and to use these insights to build more intelligent models that can be applied to large high-dimensional datasets. Find out more on my <a href=\"http://cs.stanford.edu/~poole\">website</a>.",
       "imgsrc":"img/ben.jpg"
+    },
+    {
+      "firstname":"Alex",
+      "lastname":"Williams",
+      "email":"alex.h.willia@gmail.com",
+      "description":"B.A. Neuroscience, Bowdoin College<br> I'm a grad student in the <a href=\"http://nsp.stanford.edu/\">Neurosciences program</a>. I'm interested in developing new statistical and computational tools to answer questions related to molecular and cellular neurobiology. More specifics on my <a href=\"http://alexhwilliams.info\">website</a>.",
+      "imgsrc":"img/alex.jpg"
+    }
+  ],
+  "alum":
+  [
+    {
+      "firstname":"Jascha",
+      "lastname":"Sohl-Dickstein",
+      "email":"jascha.sohldickstein@gmail.edu",
+      "description":"Senior Research Scientist at Google<br><a href='http://www.sohldickstein.com/'>http://sohldickstein.com/</a>.",
+      "imgsrc":"img/Jascha.jpg"
     }
   ]
 }
