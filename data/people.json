@@ -30,13 +30,6 @@
       "imgsrc":"img/madhu.jpg"
     },
     {
-      "firstname":"Peiran",
-      "lastname":"Gao",
-      "email":"prgao@stanford.edu",
-      "description":"B.S. Physics and B.S. Neurobiology, U.C. Berkeley<br>I'm a graduate student in the <a href=\"http://bioengineering.stanford.edu\">bioengineering department</a> co-advised by Prof. Surya Ganguli and Prof. Kwabena Boahen. I have worked on a variety of problems since starting graduate school. I'm currently studying how neural dynamics are embedded in their high-dimensional phase space.",
-      "imgsrc":"img/peiran.jpg"
-    },
-    {
       "firstname":"Kiah",
       "lastname":"Hardcastle",
       "email":"khardcas@stanford.edu",
@@ -72,8 +65,16 @@
       "firstname":"Jascha",
       "lastname":"Sohl-Dickstein",
       "email":"jascha.sohldickstein@gmail.edu",
-      "description":"Senior Research Scientist at Google<br><a href='http://www.sohldickstein.com/'>http://sohldickstein.com/</a>.",
+      "description":"Senior Research Scientist at Google<br><a href='http://www.sohldickstein.com/'>http://sohldickstein.com/</a>",
       "imgsrc":"img/Jascha.jpg"
+    },
+
+    {
+      "firstname":"Peiran",
+      "lastname":"Gao",
+      "email":"prgao@stanford.edu",
+      "description":"Ph.D. Bioengineering, Stanford University, B.S. Physics and B.S. Neurobiology, U.C. Berkeley<br>Data Scientist at SpaceX<br>I was a graduate student in the <a href=\"http://bioengineering.stanford.edu\">bioengineering department</a> co-advised by Prof. Surya Ganguli and Prof. Kwabena Boahen. I have worked on a variety of problems ing graduate school, including studying how neural dynamics are embedded in their high-dimensional phase space.",
+      "imgsrc":"img/peiran.jpg"
     }
   ]
 }
