@@ -121,11 +121,19 @@
   "publications":
   [
    {
+      "title": "Statistical mechanics of high-dimensional inference",
+      "author": "M. Advani and S. Ganguli",
+      "published": "submitted.",
+			"pdflink": "pdf/HighDimInf.pdf",
+			"supplemental": "pdf/HighDimInf.Supp.pdf",
+      "imgsrc": "figures/16.HighDimInf.jpg"
+   },
+   {
       "title": "Environmental boundaries as an error correction mechanism for grid cells.",
       "author":"K. Hardcastle, S. Ganguli, and L. Giocomo",
       "published": "submitted.",
       "imgsrc": "figures/14.GridCell.jpg"
-    },
+   },
    {
       "title": "Impaired learning with enhanced plasticity: a saturation hypothesis.",
       "author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
