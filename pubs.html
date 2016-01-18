@@ -46,7 +46,14 @@
 
 			<div class="row">
 					<div class="col-lg-10 col-lg-offset-1">
-						<div id="pubs-placeholder">Loading ...</div>
+
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<li role="presentation" class="active"><a href="#publications" aria-controls="publications" role="tab" data-toggle="tab">Publications</a></li>
+								<li role="presentation"><a href="#abstracts" aria-controls="abstracts" role="tab" data-toggle="tab">Abstracts</a></li>
+							</ul>
+
+							<div id="pubs-placeholder">Loading ...</div>
 					</div>
 			</div>
 
@@ -61,52 +68,61 @@
 
 		<!-- Publications template -->
 		<script id="pubs-template" type="text/x-handlebars-template">
+					<!-- Tab panes -->
+					<div class="tab-content">
+						<div role="tabpanel" class="tab-pane active" id="publications">
 
-					<h2>Selected Abstracts</h2>
-					{{#abstracts}}
-						<!-- if there is an image -->
-						<div class="row publication">
-
-								{{#if imgsrc}}
-									<div class="col-md-8 publist">
-								 {{else}}
-									<div class="col-md-12 publist">
-								 {{/if}}
-
-										<p class="pubtitle">{{title}}</p>
-										<p class="pubsubtext">{{author}}, <span class="pubjournal">{{published}}</span></p>
-										<p class="pubinfo">
-												{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
-												{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
-												{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
-												{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
-										</p>
-								</div>
-								{{#if imgsrc}}<div class="col-md-4"><img class="pubFigure" src="{{imgsrc}}"></div>{{/if}}
-						</div>
-					{{/abstracts}}
-
-					<h2>Publications</h2>
-					{{#publications}}
-						<!-- if there is an image -->
-						<div class="row publication">
-								{{#if imgsrc}}
-										<div class="col-md-8 publist">
-								{{else}}
-										<div class="col-md-12 publist">
-								{{/if}}
-												<p class="pubtitle">{{title}}</p>
-												<p class="pubsubtext">{{author}}, <span class="pubjournal">{{published}}</span></p>
-												<p class="pubinfo">
-														{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
-														{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
-														{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
-														{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
-												</p>
+							<h2>Publications</h2>
+							{{#publications}}
+								<!-- if there is an image -->
+								<div class="row publication">
+										{{#if imgsrc}}
+												<div class="col-md-8 publist">
+										{{else}}
+												<div class="col-md-12 publist">
+										{{/if}}
+														<p class="pubtitle">{{title}}</p>
+														<p class="pubsubtext">{{author}}, <span class="pubjournal">{{published}}</span></p>
+														<p class="pubinfo">
+																{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
+																{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
+																{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
+																{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
+														</p>
+												</div>
+												{{#if imgsrc}}<div class="col-md-4"><img class="pubFigure" src="{{imgsrc}}"></div>{{/if}}
 										</div>
-										{{#if imgsrc}}<div class="col-md-4"><img class="pubFigure" src="{{imgsrc}}"></div>{{/if}}
-								</div>
-					{{/publications}}
+							{{/publications}}
+
+						</div>
+						<div role="tabpanel" class="tab-pane" id="abstracts">
+
+									<h2>Selected Abstracts</h2>
+									{{#abstracts}}
+										<!-- if there is an image -->
+										<div class="row publication">
+
+												{{#if imgsrc}}
+													<div class="col-md-8 publist">
+												 {{else}}
+													<div class="col-md-12 publist">
+												 {{/if}}
+
+														<p class="pubtitle">{{title}}</p>
+														<p class="pubsubtext">{{author}}, <span class="pubjournal">{{published}}</span></p>
+														<p class="pubinfo">
+																{{#if abstract}}<a href="{{abstract}}">Abstract</a>&nbsp;{{/if}}
+																{{#if pdflink}}<a href="{{pdflink}}">PDF</a>&nbsp;{{/if}}
+																{{#if supplemental}}<a href="{{supplemental}}">Supplemental</a>&nbsp;{{/if}}
+																{{#if slides}}<a href="{{slides}}">Slides</a>{{/if}}
+														</p>
+												</div>
+												{{#if imgsrc}}<div class="col-md-4"><img class="pubFigure" src="{{imgsrc}}"></div>{{/if}}
+										</div>
+									{{/abstracts}}
+
+						</div>
+					</div>
 
 		</script>
 
