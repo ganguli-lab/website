@@ -123,29 +123,47 @@
    {
       "title": "Statistical mechanics of high-dimensional inference",
       "author": "M. Advani and S. Ganguli",
-      "published": "submitted.",
+      "published": "preprint",
 			"pdflink": "pdf/HighDimInf.pdf",
 			"supplemental": "pdf/HighDimInf.Supp.pdf",
       "imgsrc": "figures/16.HighDimInf.jpg"
    },
-   {
-      "title": "Environmental boundaries as an error correction mechanism for grid cells.",
-      "author":"K. Hardcastle, S. Ganguli, and L. Giocomo",
-      "published": "submitted.",
-      "imgsrc": "figures/14.GridCell.jpg"
-   },
-   {
-      "title": "Impaired learning with enhanced plasticity: a saturation hypothesis.",
-      "author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
-      "published": "submitted.",
-      "imgsrc": "figures/MultiState.jpg"
+	 {
+			"title": "Impaired learning with enhanced plasticity: a saturation hypothesis.",
+			"author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
+			"published": "submitted.",
+			"imgsrc": "figures/MultiState.jpg"
+	 },
+  {
+      "title":"Deep Knowledge Tracing",
+      "author":"C. Piech, J. Bassen, J. Huang, S. Ganguli, M. Sahami, L. Guibas, J. Sohl-Dickstein",
+      "published": "Neural Information Processing Systems (2015).",
+			"pdflink": "pdf/DeepKnowledgeTracing.pdf",
+      "imgsrc": "figures/KhanNetwork.png"
     },
   {
-      "title":"Modeling arbitrary probability distributions using non-equilibrium thermodynamics.",
-      "author":"J. Sohl-Dickstein, E. Weiss, N. Maheswaranathan and S. Ganguli",
-      "published": "submitted.",
-      "imgsrc": "figures/14.SwissRoll.jpg"
+      "title":"Role of the site of synaptic competition and the balance of learning forces for Hebbian encoding of probabilistic Markov sequences",
+      "author":"K. E. Bouchard, S. Ganguli, and M. S. Brainard",
+      "published": "Front. Comput. Neurosci. (2015) 9:92. doi:10.3389/fncom.2015.00092",
+			"pdflink": "pdf/15.HebbBirdsong.pdf",
+      "imgsrc": "figures/15.HebbBirdsong.png"
     },
+		{
+				"title":"Modeling arbitrary probability distributions using non-equilibrium thermodynamics.",
+				"author":"J. Sohl-Dickstein, E. Weiss, N. Maheswaranathan and S. Ganguli",
+				"published": "Proceedings of The 32nd International Conference on Machine Learning, pp. 2256–2265, 2015",
+				"pdflink": "pdf/DeepUnsupDiffusion.pdf",
+				"supplemental": "pdf/DeepUnsupDiffusion.Supp.pdf",
+				"imgsrc": "figures/14.SwissRoll.jpg"
+		},
+		{
+				"title": "Environmental boundaries as an error correction mechanism for grid cells.",
+				"author":"K. Hardcastle, S. Ganguli, and L. Giocomo",
+				"published": "Neuron (2015), Volume 86, Issue 3, doi:10.1016/j.neuron.2015.03.039",
+				"pdflink": "pdf/ErrorCorrection.pdf",
+				"supplemental": "pdf/ErrorCorrection.Supp.pdf",
+				"imgsrc": "figures/14.GridCell.jpg"
+		},
   {
       "title": "Identifying and attacking the saddle point problem in high dimensional non-convex optimization.",
       "author":"Y.N. Dauphin,  R. Pascanu,  C. Gulcehre, K. Cho, S. Ganguli, Y. Bengio",
@@ -163,7 +181,7 @@
    {
       "title": "Analyzing noise in autoencoders and deep networks.",
       "author":"B. Poole, J. Sohl-Dickstein and S. Ganguli",
-      "published": "preprint.",
+      "published": "preprint",
       "pdflink":"pdf/14.DeepNoiseAnalysis.pdf",
       "imgsrc": "figures/NoiseAutoEnc.jpg"
     },
