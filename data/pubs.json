@@ -123,9 +123,9 @@
    {
       "title": "Statistical mechanics of high-dimensional inference",
       "author": "M. Advani and S. Ganguli",
-      "published": "preprint",
-			"pdflink": "pdf/HighDimInf.pdf",
-			"supplemental": "pdf/HighDimInf.Supp.pdf",
+      "published": "preprint (http://arxiv.org/abs/1601.04650)",
+   	"pdflink": "pdf/HighDimInf.pdf",
+    "supplemental": "pdf/HighDimInf.Supp.pdf",
       "imgsrc": "figures/16.HighDimInf.jpg"
    },
 	 {
