@@ -2,96 +2,140 @@
   "abstracts":
   [
    {
+      "title": "Optimal synaptic strategies for different timescales of memory",
+      "author": "S. Lahiri and S. Ganguli",
+      "published": "Cosyne 2016, selected for a talk.",
+      "abstract": "pdf/16.Cosyne.SynapticTimescales.pdf"
+   },
+   {
+      "title": "Understanding principles of encoding navigationally-relevant variables in entorhinal cortex",
+      "author": "K. Hardcastle, N. Maheswaranathan, S. Ganguli, and L. M. Giocomo",
+      "published": "Cosyne 2016",
+      "abstract": "pdf/16.Cosyne.GridCellsGLM.pdf"
+   },
+   {
+      "title": "A universal tradeoff between energy, speed and precision in neural communication",
+      "author": "S. Lahiri, J. Sohl-Dickstein, and S. Ganguli",
+      "published": "Cosyne 2016",
+      "abstract": "pdf/16.Cosyne.PPS.pdf"
+   },
+   {
+      "title": "Inferring hidden structure in multi-layered retinal circuits",
+      "author": "N. Maheswaranathan, S. A. Baccus, and S. Ganguli",
+      "published": "Cosyne 2016",
+      "abstract": "pdf/16.Cosyne.LNLN.pdf",
+      "imgsrc": "figures/16.Cosyne.LNLN.png"
+   },
+   {
+      "title": "Deep convolutional neural network models of the retinal response to natural scenes",
+      "author": "L. McIntosh*, N. Maheswaranathan*, A. Nayebi, S. Ganguli, and S. A. Baccus",
+      "published": "Cosyne 2016",
+      "abstract": "pdf/16.Cosyne.DeepRetina.pdf"
+   },
+   {
+      "title": "Environmental boundaries as an error correction mechanism for grid cells",
+      "author": "K. Hardcastle, S. Ganguli, and L. M. Giocomo",
+      "published": "Cosyne 2015",
+      "abstract": "pdf/15.Cosyne.ErrorCorrection.pdf"
+   },
+   {
+      "title": "Robust non-rigid alignment of a volumetric calcium imaging data",
+      "author": "B. Poole, L. Grosenick, M. Broxton, K. Deisseroth, and S. Ganguli",
+      "published": "Cosyne 2015",
+      "abstract": "pdf/15.Cosyne.CalciumImaging.pdf",
+      "imgsrc": "figures/16.Cosyne.CalciumImaging.png"
+   },
+   {
       "title": "A theory of neural dimensionality and measurement.",
       "author": "P. Gao, E. Trautmann, B. Yu, G. Santhanam, S. Ryu, K. Shenoy and S. Ganguli",
-      "published": "cosyne 2014, selected for a talk.",
+      "published": "Cosyne 2014, selected for a talk.",
       "abstract": "pdf/14.Cosyne.DimMeas.pdf",
       "imgsrc": "figures/14.Cosyne.Dim.jpg"
    },
    {
       "title": "Modeling enhanced and impaired learning with enhanced plasticity.",
       "author": "T.D. Nguyen-Vu, G.Q.Zhao, S. Lahiri, A. Suvrathan, H.M. Lee, S. Ganguli, C.J. Shatz, J.L. Raymond",
-      "published": "cosyne 2014, selected for a talk.",
+      "published": "Cosyne 2014, selected for a talk.",
       "abstract": "pdf/14.Cosyne.MHC.pdf"
    },
    {
       "title": "Tractable, optimal high dimensional Bayesian inference.",
       "author": "M. Advani and S. Ganguli",
-      "published": "cosyne 2014.",
+      "published": "Cosyne 2014.",
       "abstract": "pdf/14.Cosyne.HighDimBayes.pdf",
       "imgsrc": "figures/14.Cosyne.HighDimBayes.jpg"
     },
    {
       "title": "Efficient fitting of large-scale neural models.",
       "author": "J. Sohl-Dickstein, N. Maheswaranathan, B. Poole, S.Ganguli",
-      "published": "cosyne 2014.",
+      "published": "Cosyne 2014.",
       "abstract": "pdf/14.Cosyne.SFO.GLM.pdf",
       "imgsrc": "figures/14.Cosyne.SFO.GLM.jpg"
     }, 
    {
       "title": "Effects of noise injection in artificial neural networks." ,
       "author": "B. Poole, J. Sohl-Dickstein, S.Ganguli",
-      "published": "cosyne 2014.",
+      "published": "Cosyne 2014.",
       "abstract": "pdf/14.Cosyne.NoiseInj.pdf",
       "imgsrc": "figures/14.Cosyne.NoiseInj.jpg"
     },
    {
       "title": "A general theory of learning and memory with complex synapses.",
       "author": "S. Lahiri and S. Ganguli",
-      "published": "cosyne 2013.",
+      "published": "Cosyne 2013.",
       "abstract": "pdf/LearningMemoryShort.pdf",
       "imgsrc": "figures/ComplexSynapse.jpg"
     },
     {
       "title": "Evidence for a causal inverse model in an avian song learning circuit.",
       "author": "R.H.R. Hahnloser, N. Giret, J. Kornfeld, and S. Ganguli",
-      "published": "cosyne 2013, selected for a talk.",
+      "published": "Cosyne 2013, selected for a talk.",
       "abstract": "pdf/EvidenceCausalInv.pdf"
     },
     {
       "title": "Closing the loop; inverse-model learning with a nonlinear avian syrinx and sparse auditory coding.",
       "author": "A. Hanuschkin, S. Ganguli, R.H.R. Hahnloser",
-      "published": "cosyne 2013.",
+      "published": "Cosyne 2013.",
       "abstract": "pdf/ClosingLoop.pdf"
     },
     {
       "title": "Hebbian mechanisms underlying the learning of Markovian sequence probabilities.",
       "author": "K.B. Bouchard, S. Ganguli, M.S. Brainard",
-      "published": "cosyne 2013.",
+      "published": "Cosyne 2013.",
       "abstract": "pdf/HebbianMarkovShort.pdf"
     },
     {
       "title": "A mathematical theory of semantic development.",
       "author": "A. Saxe, J. McClelland, S. Ganguli",
-      "published": "cosyne 2013.",
+      "published": "Cosyne 2013.",
       "abstract": "pdf/SemanticCogShort.pdf",
       "imgsrc": "figures/HierCov.jpg"
     },
     {
       "title": "Dimensionality, dynamics, and correlations in the motor cortical substrate for reaching.",
       "author": "P. Gao, E. Trautmann, B. Yu, G. Santhanam, S. Ryu, K. Shenoy, and S. Ganguli",
-      "published": "cosyne 2013.",
+      "published": "Cosyne 2013.",
       "abstract": "pdf/DimensionalityShort.pdf",
       "imgsrc": "figures/TimeDepPCA.jpg"
     },
     {
       "title":"Bird song learning without reinforcement: the Hebbian self-organization of sensorimotor circuits.",
       "author":"S. Ganguli and R. Hahnloser",
-      "published": "cosyne 2011, selected for a talk.",
+      "published": "Cosyne 2011, selected for a talk.",
       "abstract":"pdf/BirdSong.Abs.pdf",
       "imgsrc": "figures/InvForw.jpg"
     },
     {
       "title": "Compressed sensing in the brain: the role of sparseness in short term and long term memory.",
       "author": "S. Ganguli, H. Sompolinsky",
-      "published": "cosyne 2010.",
+      "published": "Cosyne 2010.",
       "abstract": "pdf/SMCS.CosyneAbs.10.pdf",
       "imgsrc": "figures/CS.Net.jpg"
     },
     {
       "title":"Deciding without remembering.",
       "author":"S. Ganguli, R. Guetig, H. Sompolinsky",
-      "published": "cosyne 2009.",
+      "published": "Cosyne 2009.",
       "abstract":"http://www.frontiersin.org/10.3389/conf.neuro.06.2009.03.168/event_abstract?sname=Computational_and_systemsneuroscience_2009",
       "imgsrc": "figures/SpikeTimePatt.jpg"
     },
@@ -111,7 +155,7 @@
     {
       "title":"Learning and memory in an exactly solvable stochastic spiking network.",
       "author":"S. Ganguli",
-      "published": "cosyne 2006, selected for a talk.",
+      "published": "Cosyne 2006, selected for a talk.",
       "abstract":"pdf/Surya.Cosyne.Abs.pdf",
       "slides":"pdf/Surya.Cosyne.Talk.pdf",
       "imgsrc": "figures/BranchedPath.jpg"
@@ -147,6 +191,13 @@
       "published": "Front. Comput. Neurosci. (2015) 9:92. doi:10.3389/fncom.2015.00092",
 			"pdflink": "pdf/15.HebbBirdsong.pdf",
       "imgsrc": "figures/15.HebbBirdsong.png"
+    },
+    {
+        "title": "On simplicity and complexity in the brave new world of large-scale neuroscience",
+        "author": "P. Gao and S. Ganguli",
+        "published": "Current Opinion in Neurobiology, Volume 32, June 2015, Pages 148-155, http://dx.doi.org/10.1016/j.conb.2015.04.003.",
+        "pdflink": "pdf/15.BraveNewWorld.pdf",
+        "imgsrc": "figures/15.BraveNewWorld.png"
     },
 		{
 				"title":"Modeling arbitrary probability distributions using non-equilibrium thermodynamics.",
