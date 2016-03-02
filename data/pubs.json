@@ -5,7 +5,8 @@
       "title": "Optimal synaptic strategies for different timescales of memory",
       "author": "S. Lahiri and S. Ganguli",
       "published": "Cosyne 2016, selected for a talk.",
-      "abstract": "pdf/16.Cosyne.SynapticTimescales.pdf"
+      "abstract": "pdf/16.Cosyne.SynapticTimescales.pdf",
+      "imgsrc": "figures/16.Cosyne.MemoryCurve.png"
    },
    {
       "title": "Understanding principles of encoding navigationally-relevant variables in entorhinal cortex",
@@ -17,7 +18,8 @@
       "title": "A universal tradeoff between energy, speed and precision in neural communication",
       "author": "S. Lahiri, J. Sohl-Dickstein, and S. Ganguli",
       "published": "Cosyne 2016",
-      "abstract": "pdf/16.Cosyne.PPS.pdf"
+      "abstract": "pdf/16.Cosyne.PPS.pdf",
+      "imgsrc": "figures/16.Cosyne.Microstates.png"
    },
    {
       "title": "Inferring hidden structure in multi-layered retinal circuits",
