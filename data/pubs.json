@@ -167,11 +167,18 @@
   "publications":
   [
    {
+      "title": "A universal tradeoff between power, precision and speed in physical communication",
+      "author": "S. Lahiri, J. Sohl-Dickstein, S. Ganguli",
+   	  "pdflink": "pdf/16.PowerPrecisionSpeed.pdf",
+      "supplemental": "pdf/16.PowerPrecisionSpeed.Supp.pdf",
+      "imgsrc": "figures/16.PowerPrecisionSpeed.svg"
+   },
+   {
       "title": "Statistical mechanics of high-dimensional inference",
       "author": "M. Advani and S. Ganguli",
       "published": "preprint (http://arxiv.org/abs/1601.04650)",
-   	"pdflink": "pdf/HighDimInf.pdf",
-    "supplemental": "pdf/HighDimInf.Supp.pdf",
+   	  "pdflink": "pdf/HighDimInf.pdf",
+      "supplemental": "pdf/HighDimInf.Supp.pdf",
       "imgsrc": "figures/16.HighDimInf.jpg"
    },
 	 {
