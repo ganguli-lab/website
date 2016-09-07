@@ -174,9 +174,9 @@
       "imgsrc": "figures/16.PowerPrecisionSpeed.svg"
    },
    {
-      "title": "Statistical mechanics of high-dimensional inference",
+      "title": "Statistical mechanics of optimal convex inference in high dimensions",
       "author": "M. Advani and S. Ganguli",
-      "published": "preprint (http://arxiv.org/abs/1601.04650)",
+      "published": "Phys. Rev. X 6, 031034",
    	  "pdflink": "pdf/HighDimInf.pdf",
       "supplemental": "pdf/HighDimInf.Supp.pdf",
       "imgsrc": "figures/16.HighDimInf.jpg"
