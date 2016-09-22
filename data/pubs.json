@@ -169,6 +169,7 @@
    {
      "title": "An equivalence between high dimensional Bayes optimal inference and M-estimation",
      "author": "M. Advani and S. Ganguli",
+     "published": "Neural Information Processing Systems (2016).",
      "pdflink": "pdf/16.Bayes.Mestimation.pdf",
      "supplemental": "pdf/16.Bayes.Mestimation.Supp.pdf",
      "imgsrc": "figures/16.Bayes.Mestimation.png"
