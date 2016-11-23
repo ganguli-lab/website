@@ -57,6 +57,14 @@
       "email":"chstock@stanford.edu",
       "description":"A.B. Mathematics, Harvard University<br>I am a student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>. I use theoretical and computational tools to study the structure of intelligent computation in high-dimensional neural systems. Additional research interests include machine learning, probabilistic modeling, and large-scale methods for neural data analysis. See my <a href=\"http://stanford.edu/~chstock/\">website</a> for more.",
        "imgsrc":"img/chris.jpg"
+    },
+    {
+      "firstname":"Lane",
+      "lastname":"McIntosh",
+      "email":"lmcintosh@stanford.edu",
+      "description":"M.A. Mathematics, University of Hawaii. B.A. Computational Neuroscience, University of Chicago<br> I'm a PhD student co-advised by <a href=\"http://baccuslab.stanford.edu/\">Stephen Baccus</a>. My research focuses on understanding the general principles underlying sensory processing; to do this I'm primarily using tools from deep learning and information theory. More information at my <a href=\"http://www.lanemcintosh.com\">website</a>.",
+      "imgsrc":"img/lane.jpg",
+      "additional":"Ruth L. Kirschstein National Research Service Award.<br>NSF Mind, Brain, and Computation Trainee."
     }
   ],
   "alum":
