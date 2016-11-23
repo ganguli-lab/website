@@ -2,7 +2,7 @@
 
 http://ganguli-gang.stanford.edu/
 
-&copy; 2014-2015
+&copy; 2014-2016
 contact: Niru Maheswaranathan (nirum@stanford.edu)
 
 
