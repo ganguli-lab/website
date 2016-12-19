@@ -167,17 +167,29 @@
   "publications":
   [
    {
-     "title": "The temporal paradox of Hebbian learning and homeostatic plasticity",
-     "author": "F. Zenke, W. Gerstner, S. Ganguli",
+     "title": "Inferring hidden structure in multilayered neural circuits",
+     "author": "N. Maheswaranathan, S. A. Baccus, S. Ganguli",
      "published": "Under review",
-     "pdflink": "pdf/16.HebbianLearningHomeostaticPlasticity.pdf",
-     "imgsrc": "figures/16.HebbianLearningHomeostaticPlasticity.png"
+     "imgsrc": "figures/16.LNLN.png"
    },
    {
      "title": "A multiplexed, heterogeneous, and adaptive code for navigation in medial entorhinal cortex",
      "author": "K. Hardcastle, N. Maheswaranathan, S. Ganguli, L. Giocomo",
      "published": "Under review",
      "imgsrc": "figures/16.EntorhinalGLM.jpg"
+   },
+	 {
+			"title": "Impaired learning with enhanced plasticity: a saturation hypothesis.",
+			"author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
+			"published": "submitted.",
+			"imgsrc": "figures/MultiState.jpg"
+	 },
+   {
+     "title": "The temporal paradox of Hebbian learning and homeostatic plasticity",
+     "author": "F. Zenke, W. Gerstner, S. Ganguli",
+     "published": "Under review",
+     "pdflink": "pdf/16.HebbianLearningHomeostaticPlasticity.pdf",
+     "imgsrc": "figures/16.HebbianLearningHomeostaticPlasticity.png"
    },
    {
      "title": "Deep information propagation",
@@ -244,12 +256,6 @@
       "supplemental": "pdf/HighDimInf.Supp.pdf",
       "imgsrc": "figures/16.HighDimInf.jpg"
    },
-	 {
-			"title": "Impaired learning with enhanced plasticity: a saturation hypothesis.",
-			"author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
-			"published": "submitted.",
-			"imgsrc": "figures/MultiState.jpg"
-	 },
   {
       "title":"Deep Knowledge Tracing",
       "author":"C. Piech, J. Bassen, J. Huang, S. Ganguli, M. Sahami, L. Guibas, J. Sohl-Dickstein",
