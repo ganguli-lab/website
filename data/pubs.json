@@ -167,6 +167,61 @@
   "publications":
   [
    {
+     "title": "The temporal paradox of Hebbian learning and homeostatic plasticity",
+     "author": "F. Zenke, W. Gerstner, S. Ganguli",
+     "published": "Under review",
+     "pdflink": "pdf/16.HebbianLearningHomeostaticPlasticity.pdf",
+     "imgsrc": "figures/16.HebbianLearningHomeostaticPlasticity.png"
+   },
+   {
+     "title": "A multiplexed, heterogeneous, and adaptive code for navigation in medial entorhinal cortex",
+     "author": "K. Hardcastle, N. Maheswaranathan, S. Ganguli, L. Giocomo",
+     "published": "Under review",
+     "imgsrc": "figures/16.EntorhinalGLM.jpg"
+   },
+   {
+     "title": "Deep information propagation",
+     "author": "S. Schoenholz*, J. Gilmer*, S. Ganguli, J. Sohl-Dickstein",
+     "published": "Under review",
+     "pdflink": "pdf/16.DeepInformationPropagation.pdf",
+     "imgsrc": "figures/16.DeepInformationPropagation.png"
+   },
+   {
+     "title": "Random projections of random manifolds",
+     "author": "S. Lahiri, P. Gao, S. Ganguli",
+     "published": "Under review",
+     "pdflink": "pdf/16.RandomProjectionsRandomManifolds.pdf",
+     "imgsrc": "figures/16.RandomProjectionsRandomManifolds.png"
+   },
+   {
+     "title": "Exponential expressivity in deep neural networks through transient chaos",
+     "author": "B. Poole, S. Lahiri, M. Raghu, J. Sohl-Dickstein, S. Ganguli",
+     "published": "Neural Information Processing Systems (2016).",
+     "pdflink": "pdf/16.ExponentialExpressivity.pdf",
+     "imgsrc": "figures/16.ExponentialExpressivity.png"
+   },
+   {
+     "title": "On the expressive power of deep neural networks",
+     "author": "M. Raghu, B. Poole, J. Kleinberg, S. Ganguli, J. Sohl-Dickstein",
+     "published": "Under review",
+     "pdflink": "pdf/16.ExpressivePowerOfDeepNets.pdf",
+     "imgsrc": "figures/16.ExpressivePowerOfDeepNets.png"
+   },
+   {
+     "title": "Deep learning models of the retinal responses to natural scenes",
+     "author": "L. McIntosh*, N. Maheswaranathan*, A. Nayebi, S. Ganguli, S. A. Baccus",
+     "published": "Neural Information Processing Systems (2016).",
+     "pdflink": "pdf/16.DeepRetinaNIPS.pdf",
+     "imgsrc": "figures/16.DeepRetinaNIPS.png"
+   },
+   {
+     "title": "Direction selectivity in Drosophila emerges from preferred-direction enhancement and null-direction suppression",
+     "author": "J. Leong*, J. Esch*, B. Poole*, S. Ganguli, T. R. Clandinin",
+     "published": "The Journal of Neuroscience",
+     "pdflink": "pdf/16.FlyDirectionSelectivity.pdf",
+     "imgsrc": "figures/16.FlyDirectionSelectivity.png"
+   },
+   {
      "title": "An equivalence between high dimensional Bayes optimal inference and M-estimation",
      "author": "M. Advani and S. Ganguli",
      "published": "Neural Information Processing Systems (2016).",
