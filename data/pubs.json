@@ -193,7 +193,7 @@
    },
    {
      "title": "Deep information propagation",
-     "author": "S. Schoenholz*, J. Gilmer*, S. Ganguli, J. Sohl-Dickstein",
+     "author": "S. Schoenholz, J. Gilmer, S. Ganguli, J. Sohl-Dickstein",
      "published": "Under review",
      "pdflink": "pdf/16.DeepInformationPropagation.pdf",
      "imgsrc": "figures/16.DeepInformationPropagation.png"
