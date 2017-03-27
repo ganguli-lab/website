@@ -170,7 +170,8 @@
      "title": "Inferring hidden structure in multilayered neural circuits",
      "author": "N. Maheswaranathan, S. A. Baccus, S. Ganguli",
      "published": "Under review",
-     "imgsrc": "figures/16.LNLN.png"
+     "pdflink": "pdf/17.LNLN.pdf",
+     "imgsrc": "figures/17.LNLN.png"
    },
    {
      "title": "A multiplexed, heterogeneous, and adaptive code for navigation in medial entorhinal cortex",
