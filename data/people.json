@@ -65,6 +65,13 @@
       "description":"M.A. Mathematics, University of Hawaii. B.A. Computational Neuroscience, University of Chicago<br> I'm a PhD student co-advised by <a href=\"http://baccuslab.stanford.edu/\">Stephen Baccus</a>. My research focuses on understanding the general principles underlying sensory processing; to do this I'm primarily using tools from deep learning and information theory. More information at my <a href=\"http://www.lanemcintosh.com\">website</a>.",
       "imgsrc":"img/lane.jpg",
       "additional":"Ruth L. Kirschstein National Research Service Award.<br>NSF Mind, Brain, and Computation Trainee."
+    },
+    {
+      "firstname":"Aran",
+      "lastname":"Nayebi",
+      "email":"anayebi@stanford.edu",
+      "description":"M.S. Computer Science, Stanford University. B.S. Mathematics, Stanford University<br>I am a PhD student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>, co-advised by <a href=\"http://stanford.edu/~yamins/\">Dan Yamins</a>. My primary interests lie at the intersection of machine learning and neuroscience, where I use tools from deep learning and statistics to approach problems in systems neuroscience. See my <a href=\"http://stanford.edu/~anayebi/\">website</a> for more.",
+      "imgsrc":"img/aran.jpg"
     }
   ],
   "alum":
