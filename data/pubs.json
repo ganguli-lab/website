@@ -209,16 +209,17 @@
     },
     {
       "title": "Continual learning with intelligent synapses",
-      "author": "F. Zenke, B. Poole",
+      "author": "F. Zenke*, B. Poole*, S. Ganguli",
       "published": "International Conference on Machine Learning (ICML) 2017",
+      "pdflink": "pdf/17.intelligentsynapses.pdf",
       "imgsrc": "figures/17.intelligentsynapses.png"
     },
     {
       "title": "On the expressive power of deep neural networks",
       "author": "M. Raghu, B. Poole, J. Kleinberg, S. Ganguli, J. Sohl-Dickstein",
       "published": "International Conference on Machine Learning (ICML) 2017",
-      "pdflink": "pdf/16.ExpressivePowerOfDeepNets.pdf",
-      "imgsrc": "figures/16.ExpressivePowerOfDeepNets.png"
+      "pdflink": "pdf/17.ExpressivePower.pdf",
+      "imgsrc": "figures/17.ExpressivePower.png"
     },
     {
       "title": "A multiplexed, heterogeneous, and adaptive code for navigation in medial entorhinal cortex",
@@ -242,7 +243,7 @@
       "imgsrc": "figures/16.HebbianLearningHomeostaticPlasticity.png"
     },
     {
-      "title": "Impaired learning with enhanced plasticity: a saturation hypothesis.",
+      "title": "Impaired learning with enhanced plasticity: a saturation hypothesis",
       "author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
       "published": "eLife 2017",
       "pdflink": "pdf/17.enhancedplasticity.pdf",
