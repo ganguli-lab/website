@@ -9,6 +9,13 @@
       "imgsrc":"img/surya_square_small.jpg"
     },
     {
+      "firstname":"Stéphane",
+      "lastname":"Deny",
+      "email":"sdeny@stanford.edu",
+      "description":"Ph.D. Computational Neuroscience, Vision Institute and Paris VI University, France. Even in small animals such as flies, there is an important diversity in brain activation patterns across individuals. My goal is to reveal the set of rules underlying this diversity, and to understand how these rules generate functional biological neural networks. For this I develop methods of analysis using linear algebra, machine learning and physics and apply them to the recordings of whole brain activity of many flies.",
+      "imgsrc":"img/stephane.jpg"
+    },
+    {
       "firstname":"Subhaneil",
       "lastname":"Lahiri",
       "email":"sulahiri[at]stanford.edu",
@@ -38,27 +45,6 @@
       "additional":"NSF Graduate Research Fellow.<br>Bio-X Honorary Fellow."
     },
     {
-      "firstname":"Ben",
-      "lastname":"Poole",
-      "email":"poole@cs.stanford.edu",
-      "description":"B.S. Computer Science, Carnegie Mellon University<br> I'm a graduate student in the <a href=\"http://cs.stanford.edu\">Computer Science Department</a>. My research aims to utilize machine learning techniques to better understand how information is processed in the brain, and to use these insights to build more intelligent models that can be applied to large high-dimensional datasets. Find out more on my <a href=\"http://cs.stanford.edu/~poole\">website</a>.",
-      "imgsrc":"img/ben.jpg"
-    },
-    {
-      "firstname":"Alex",
-      "lastname":"Williams",
-      "email":"alex.h.willia@gmail.com",
-      "description":"B.A. Neuroscience, Bowdoin College<br> I'm a grad student in the <a href=\"http://nsp.stanford.edu/\">Neurosciences program</a>. I'm interested in developing new statistical and computational tools to answer questions related to molecular and cellular neurobiology. More specifics on my <a href=\"http://alexhwilliams.info\">website</a>.",
-      "imgsrc":"img/alex.jpg"
-    },
-    {
-      "firstname":"Chris",
-      "lastname":"Stock",
-      "email":"chstock@stanford.edu",
-      "description":"A.B. Mathematics, Harvard University<br>I am a student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>. I use theoretical and computational tools to study the structure of intelligent computation in high-dimensional neural systems. Additional research interests include machine learning, probabilistic modeling, and large-scale methods for neural data analysis. See my <a href=\"http://stanford.edu/~chstock/\">website</a> for more.",
-       "imgsrc":"img/chris.jpg"
-    },
-    {
       "firstname":"Lane",
       "lastname":"McIntosh",
       "email":"lmcintosh@stanford.edu",
@@ -72,14 +58,27 @@
       "email":"anayebi@stanford.edu",
       "description":"M.S. Computer Science, Stanford University. B.S. Mathematics, Stanford University<br>I am a PhD student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>, co-advised by <a href=\"http://stanford.edu/~yamins/\">Dan Yamins</a>. My primary interests lie at the intersection of machine learning and neuroscience, where I use tools from deep learning and statistics to approach problems in systems neuroscience. See my <a href=\"http://stanford.edu/~anayebi/\">website</a> for more.",
       "imgsrc":"img/aran.jpg"
-       },
+    },
     {
-      "firstname":"Stéphane",
-      "lastname":"Deny",
-      "email":"sdeny@stanford.edu",
-      "description":"Ph.D. Computational Neuroscience, Vision Institute and Paris VI University, France. Even in small animals such as flies, there is an important diversity in brain activation patterns across individuals. My goal is to reveal the set of rules underlying this diversity, and to understand how these rules generate functional biological neural networks. For this I develop methods of analysis using linear algebra, machine learning and physics and apply them to the recordings of whole brain activity of many flies.",
-      "imgsrc":"img/stephane.jpg",
-     }
+      "firstname":"Ben",
+      "lastname":"Poole",
+      "email":"poole@cs.stanford.edu",
+      "description":"B.S. Computer Science, Carnegie Mellon University<br> I'm a graduate student in the <a href=\"http://cs.stanford.edu\">Computer Science Department</a>. My research aims to utilize machine learning techniques to better understand how information is processed in the brain, and to use these insights to build more intelligent models that can be applied to large high-dimensional datasets. Find out more on my <a href=\"http://cs.stanford.edu/~poole\">website</a>.",
+      "imgsrc":"img/ben.jpg"
+    },
+    {
+      "firstname":"Chris",
+      "lastname":"Stock",
+      "email":"chstock@stanford.edu",
+      "description":"A.B. Mathematics, Harvard University<br>I am a student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>. I use theoretical and computational tools to study the structure of intelligent computation in high-dimensional neural systems. Additional research interests include machine learning, probabilistic modeling, and large-scale methods for neural data analysis. See my <a href=\"http://stanford.edu/~chstock/\">website</a> for more.",
+       "imgsrc":"img/chris.jpg"
+    },
+    {
+      "firstname":"Alex",
+      "lastname":"Williams",
+      "email":"alex.h.willia@gmail.com",
+      "description":"B.A. Neuroscience, Bowdoin College<br> I'm a grad student in the <a href=\"http://nsp.stanford.edu/\">Neurosciences program</a>. I'm interested in developing new statistical and computational tools to answer questions related to molecular and cellular neurobiology. More specifics on my <a href=\"http://alexhwilliams.info\">website</a>.",
+      "imgsrc":"img/alex.jpg"
     }
   ],
   "alum":
