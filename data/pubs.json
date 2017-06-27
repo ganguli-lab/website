@@ -1,87 +1,87 @@
 {
   "abstracts":
   [
-   {
+    {
       "title": "Optimal synaptic strategies for different timescales of memory",
       "author": "S. Lahiri and S. Ganguli",
       "published": "Cosyne 2016, selected for a talk.",
       "abstract": "pdf/16.Cosyne.SynapticTimescales.pdf",
       "imgsrc": "figures/16.Cosyne.MemoryCurve.png"
-   },
-   {
+    },
+    {
       "title": "Understanding principles of encoding navigationally-relevant variables in entorhinal cortex",
       "author": "K. Hardcastle, N. Maheswaranathan, S. Ganguli, and L. M. Giocomo",
       "published": "Cosyne 2016",
       "abstract": "pdf/16.Cosyne.GridCellsGLM.pdf"
-   },
-   {
+    },
+    {
       "title": "A universal tradeoff between energy, speed and precision in neural communication",
       "author": "S. Lahiri, J. Sohl-Dickstein, and S. Ganguli",
       "published": "Cosyne 2016",
       "abstract": "pdf/16.Cosyne.PPS.pdf",
       "imgsrc": "figures/16.Cosyne.Microstates.png"
-   },
-   {
+    },
+    {
       "title": "Inferring hidden structure in multi-layered retinal circuits",
       "author": "N. Maheswaranathan, S. A. Baccus, and S. Ganguli",
       "published": "Cosyne 2016",
       "abstract": "pdf/16.Cosyne.LNLN.pdf",
       "imgsrc": "figures/16.Cosyne.LNLN.png"
-   },
-   {
+    },
+    {
       "title": "Deep convolutional neural network models of the retinal response to natural scenes",
       "author": "L. McIntosh*, N. Maheswaranathan*, A. Nayebi, S. Ganguli, and S. A. Baccus",
       "published": "Cosyne 2016",
       "abstract": "pdf/16.Cosyne.DeepRetina.pdf"
-   },
-   {
+    },
+    {
       "title": "Environmental boundaries as an error correction mechanism for grid cells",
       "author": "K. Hardcastle, S. Ganguli, and L. M. Giocomo",
       "published": "Cosyne 2015",
       "abstract": "pdf/15.Cosyne.ErrorCorrection.pdf"
-   },
-   {
+    },
+    {
       "title": "Robust non-rigid alignment of a volumetric calcium imaging data",
       "author": "B. Poole, L. Grosenick, M. Broxton, K. Deisseroth, and S. Ganguli",
       "published": "Cosyne 2015",
       "abstract": "pdf/15.Cosyne.CalciumImaging.pdf",
       "imgsrc": "figures/16.Cosyne.CalciumImaging.png"
-   },
-   {
+    },
+    {
       "title": "A theory of neural dimensionality and measurement.",
       "author": "P. Gao, E. Trautmann, B. Yu, G. Santhanam, S. Ryu, K. Shenoy and S. Ganguli",
       "published": "Cosyne 2014, selected for a talk.",
       "abstract": "pdf/14.Cosyne.DimMeas.pdf",
       "imgsrc": "figures/14.Cosyne.Dim.jpg"
-   },
-   {
+    },
+    {
       "title": "Modeling enhanced and impaired learning with enhanced plasticity.",
       "author": "T.D. Nguyen-Vu, G.Q.Zhao, S. Lahiri, A. Suvrathan, H.M. Lee, S. Ganguli, C.J. Shatz, J.L. Raymond",
       "published": "Cosyne 2014, selected for a talk.",
       "abstract": "pdf/14.Cosyne.MHC.pdf"
-   },
-   {
+    },
+    {
       "title": "Tractable, optimal high dimensional Bayesian inference.",
       "author": "M. Advani and S. Ganguli",
       "published": "Cosyne 2014.",
       "abstract": "pdf/14.Cosyne.HighDimBayes.pdf",
       "imgsrc": "figures/14.Cosyne.HighDimBayes.jpg"
     },
-   {
+    {
       "title": "Efficient fitting of large-scale neural models.",
       "author": "J. Sohl-Dickstein, N. Maheswaranathan, B. Poole, S.Ganguli",
       "published": "Cosyne 2014.",
       "abstract": "pdf/14.Cosyne.SFO.GLM.pdf",
       "imgsrc": "figures/14.Cosyne.SFO.GLM.jpg"
-    }, 
-   {
+    },
+    {
       "title": "Effects of noise injection in artificial neural networks." ,
       "author": "B. Poole, J. Sohl-Dickstein, S.Ganguli",
       "published": "Cosyne 2014.",
       "abstract": "pdf/14.Cosyne.NoiseInj.pdf",
       "imgsrc": "figures/14.Cosyne.NoiseInj.jpg"
     },
-   {
+    {
       "title": "A general theory of learning and memory with complex synapses.",
       "author": "S. Lahiri and S. Ganguli",
       "published": "Cosyne 2013.",
@@ -166,186 +166,214 @@
 
   "publications":
   [
-   {
-     "title": "Inferring hidden structure in multilayered neural circuits",
-     "author": "N. Maheswaranathan, S. A. Baccus, S. Ganguli",
-     "published": "Under review",
-     "pdflink": "pdf/17.LNLN.pdf",
-     "imgsrc": "figures/17.LNLN.png"
-   },
-   {
-     "title": "A multiplexed, heterogeneous, and adaptive code for navigation in medial entorhinal cortex",
-     "author": "K. Hardcastle, N. Maheswaranathan, S. Ganguli, L. Giocomo",
-     "published": "Under review",
-     "imgsrc": "figures/16.EntorhinalGLM.jpg"
-   },
-	 {
-			"title": "Impaired learning with enhanced plasticity: a saturation hypothesis.",
-			"author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
-			"published": "submitted.",
-			"imgsrc": "figures/MultiState.jpg"
-	 },
-   {
-     "title": "The temporal paradox of Hebbian learning and homeostatic plasticity",
-     "author": "F. Zenke, W. Gerstner, S. Ganguli",
-     "published": "Under review",
-     "pdflink": "pdf/16.HebbianLearningHomeostaticPlasticity.pdf",
-     "imgsrc": "figures/16.HebbianLearningHomeostaticPlasticity.png"
-   },
-   {
-     "title": "Deep information propagation",
-     "author": "S. Schoenholz, J. Gilmer, S. Ganguli, J. Sohl-Dickstein",
-     "published": "Under review",
-     "pdflink": "pdf/16.DeepInformationPropagation.pdf",
-     "imgsrc": "figures/16.DeepInformationPropagation.png"
-   },
-   {
-     "title": "Random projections of random manifolds",
-     "author": "S. Lahiri, P. Gao, S. Ganguli",
-     "published": "Under review",
-     "pdflink": "pdf/16.RandomProjectionsRandomManifolds.pdf",
-     "imgsrc": "figures/16.RandomProjectionsRandomManifolds.png"
-   },
-   {
-     "title": "Exponential expressivity in deep neural networks through transient chaos",
-     "author": "B. Poole, S. Lahiri, M. Raghu, J. Sohl-Dickstein, S. Ganguli",
-     "published": "Neural Information Processing Systems (2016).",
-     "pdflink": "pdf/16.ExponentialExpressivity.pdf",
-     "imgsrc": "figures/16.ExponentialExpressivity.png"
-   },
-   {
-     "title": "On the expressive power of deep neural networks",
-     "author": "M. Raghu, B. Poole, J. Kleinberg, S. Ganguli, J. Sohl-Dickstein",
-     "published": "Under review",
-     "pdflink": "pdf/16.ExpressivePowerOfDeepNets.pdf",
-     "imgsrc": "figures/16.ExpressivePowerOfDeepNets.png"
-   },
-   {
-     "title": "Deep learning models of the retinal responses to natural scenes",
-     "author": "L. McIntosh*, N. Maheswaranathan*, A. Nayebi, S. Ganguli, S. A. Baccus",
-     "published": "Neural Information Processing Systems (2016).",
-     "pdflink": "pdf/16.DeepRetinaNIPS.pdf",
-     "imgsrc": "figures/16.DeepRetinaNIPS.png"
-   },
-   {
-     "title": "Direction selectivity in Drosophila emerges from preferred-direction enhancement and null-direction suppression",
-     "author": "J. Leong*, J. Esch*, B. Poole*, S. Ganguli, T. R. Clandinin",
-     "published": "The Journal of Neuroscience",
-     "pdflink": "pdf/16.FlyDirectionSelectivity.pdf",
-     "imgsrc": "figures/16.FlyDirectionSelectivity.png"
-   },
-   {
-     "title": "An equivalence between high dimensional Bayes optimal inference and M-estimation",
-     "author": "M. Advani and S. Ganguli",
-     "published": "Neural Information Processing Systems (2016).",
-     "pdflink": "pdf/16.Bayes.Mestimation.pdf",
-     "supplemental": "pdf/16.Bayes.Mestimation.Supp.pdf",
-     "imgsrc": "figures/16.Bayes.Mestimation.png"
-   },
-   {
+    {
       "title": "A universal tradeoff between power, precision and speed in physical communication",
       "author": "S. Lahiri, J. Sohl-Dickstein, S. Ganguli",
-   	  "pdflink": "pdf/16.PowerPrecisionSpeed.pdf",
+      "published": "Under review",
+      "pdflink": "pdf/16.PowerPrecisionSpeed.pdf",
       "supplemental": "pdf/16.PowerPrecisionSpeed.Supp.pdf",
       "imgsrc": "figures/16.PowerPrecisionSpeed.svg"
-   },
-   {
+    },
+    {
+      "title": "SuperSpike: Supervised learning in multi-layer spiking neural networks",
+      "author": "F. Zenke and S. Ganguli",
+      "published": "Under review",
+      "pdflink": "pdf/17.superspike.pdf",
+      "imgsrc": "figures/17.superspike.png"
+    },
+    {
+      "title": "Cell-types for our sense of location: where we are and where we are going",
+      "author": "K. Hardcastle, S. Ganguli, L. Giocomo",
+      "published": "Under review",
+      "imgsrc": "figures/17.celltypes.png"
+    },
+    {
+      "title": "Inferring hidden structure in multilayered neural circuits",
+      "author": "N. Maheswaranathan, S. A. Baccus, S. Ganguli",
+      "published": "Under review",
+      "pdflink": "pdf/17.LNLN.pdf",
+      "imgsrc": "figures/17.LNLN.png"
+    },
+    {
+      "title": "Random projections of random manifolds",
+      "author": "S. Lahiri, P. Gao, S. Ganguli",
+      "published": "Under review",
+      "pdflink": "pdf/16.RandomProjectionsRandomManifolds.pdf",
+      "imgsrc": "figures/16.RandomProjectionsRandomManifolds.png"
+    },
+    {
+      "title": "Social control of hypothalamus-mediated male aggression",
+      "author": "T. Yang, C.F. Yang, M.D. Chizari, N. Maheswaranathan, K. Burke, Jr., M. Borius, S. Inoue, M.C. Chiang, K.J. Bender, S.Ganguli, and N. Shah",
+      "published": "Neuron, in press",
+      "imgsrc": "figures/17.booleanaggression.png"
+    },
+    {
+      "title": "Continual learning with intelligent synapses",
+      "author": "F. Zenke, B. Poole",
+      "published": "International Conference on Machine Learning (ICML) 2017",
+      "imgsrc": "figures/17.intelligentsynapses.png"
+    },
+    {
+      "title": "On the expressive power of deep neural networks",
+      "author": "M. Raghu, B. Poole, J. Kleinberg, S. Ganguli, J. Sohl-Dickstein",
+      "published": "International Conference on Machine Learning (ICML) 2017",
+      "pdflink": "pdf/16.ExpressivePowerOfDeepNets.pdf",
+      "imgsrc": "figures/16.ExpressivePowerOfDeepNets.png"
+    },
+    {
+      "title": "A multiplexed, heterogeneous, and adaptive code for navigation in medial entorhinal cortex",
+      "author": "K. Hardcastle, N. Maheswaranathan, S. Ganguli, L. Giocomo",
+      "published": "Neuron 2017",
+      "pdflink": "pdf/16.EntorhinalGLM.pdf",
+      "imgsrc": "figures/16.EntorhinalGLM.jpg"
+    },
+    {
+      "title": "Deep information propagation",
+      "author": "S. Schoenholz, J. Gilmer, S. Ganguli, J. Sohl-Dickstein",
+      "published": "International Conference on Learning Representations (ICLR) 2017",
+      "pdflink": "pdf/16.DeepInformationPropagation.pdf",
+      "imgsrc": "figures/16.DeepInformationPropagation.png"
+    },
+    {
+      "title": "The temporal paradox of Hebbian learning and homeostatic plasticity",
+      "author": "F. Zenke, W. Gerstner, S. Ganguli",
+      "published": "Current Opinion in Neurobiology 2017",
+      "pdflink": "pdf/16.HebbianLearningHomeostaticPlasticity.pdf",
+      "imgsrc": "figures/16.HebbianLearningHomeostaticPlasticity.png"
+    },
+    {
+      "title": "Impaired learning with enhanced plasticity: a saturation hypothesis.",
+      "author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
+      "published": "eLife 2017",
+      "pdflink": "pdf/17.enhancedplasticity.pdf",
+      "imgsrc": "figures/17.enhancedplasticity.jpg"
+    },
+    {
+      "title": "Deep learning models of the retinal responses to natural scenes",
+      "author": "L. McIntosh*, N. Maheswaranathan*, A. Nayebi, S. Ganguli, S. A. Baccus",
+      "published": "Neural Information Processing Systems (NIPS) 2016",
+      "pdflink": "pdf/16.DeepRetinaNIPS.pdf",
+      "imgsrc": "figures/16.DeepRetinaNIPS.png"
+    },
+    {
+      "title": "Exponential expressivity in deep neural networks through transient chaos",
+      "author": "B. Poole, S. Lahiri, M. Raghu, J. Sohl-Dickstein, S. Ganguli",
+      "published": "Neural Information Processing Systems (NIPS) 2016",
+      "pdflink": "pdf/16.ExponentialExpressivity.pdf",
+      "imgsrc": "figures/16.ExponentialExpressivity.png"
+    },
+    {
+      "title": "An equivalence between high dimensional Bayes optimal inference and M-estimation",
+      "author": "M. Advani and S. Ganguli",
+      "published": "Neural Information Processing Systems (NIPS) 2016",
+      "pdflink": "pdf/16.Bayes.Mestimation.pdf",
+      "supplemental": "pdf/16.Bayes.Mestimation.Supp.pdf",
+      "imgsrc": "figures/16.Bayes.Mestimation.png"
+    },
+    {
       "title": "Statistical mechanics of optimal convex inference in high dimensions",
       "author": "M. Advani and S. Ganguli",
-      "published": "Phys. Rev. X 6, 031034",
-   	  "pdflink": "pdf/HighDimInf.pdf",
+      "published": "Phys. Rev. X 6, 031034, 2016",
+      "pdflink": "pdf/HighDimInf.pdf",
       "supplemental": "pdf/HighDimInf.Supp.pdf",
       "imgsrc": "figures/16.HighDimInf.jpg"
-   },
-  {
-      "title":"Deep Knowledge Tracing",
+    },
+    {
+      "title": "Direction selectivity in Drosophila emerges from preferred-direction enhancement and null-direction suppression",
+      "author": "J. Leong*, J. Esch*, B. Poole*, S. Ganguli, T. R. Clandinin",
+      "published": "The Journal of Neuroscience (2016)",
+      "pdflink": "pdf/16.FlyDirectionSelectivity.pdf",
+      "imgsrc": "figures/16.FlyDirectionSelectivity.png"
+    },
+    {
+      "title":"Deep knowledge tracing",
       "author":"C. Piech, J. Bassen, J. Huang, S. Ganguli, M. Sahami, L. Guibas, J. Sohl-Dickstein",
-      "published": "Neural Information Processing Systems (2015).",
-			"pdflink": "pdf/DeepKnowledgeTracing.pdf",
+      "published": "Neural Information Processing Systems (NIPS) 2015",
+      "pdflink": "pdf/DeepKnowledgeTracing.pdf",
       "imgsrc": "figures/KhanNetwork.png"
     },
-  {
+    {
       "title":"Role of the site of synaptic competition and the balance of learning forces for Hebbian encoding of probabilistic Markov sequences",
       "author":"K. E. Bouchard, S. Ganguli, and M. S. Brainard",
-      "published": "Front. Comput. Neurosci. (2015) 9:92. doi:10.3389/fncom.2015.00092",
-			"pdflink": "pdf/15.HebbBirdsong.pdf",
+      "published": "Frontiers in Computational Neuroscience 2015",
+      "pdflink": "pdf/15.HebbBirdsong.pdf",
       "imgsrc": "figures/15.HebbBirdsong.png"
     },
     {
-        "title": "On simplicity and complexity in the brave new world of large-scale neuroscience",
-        "author": "P. Gao and S. Ganguli",
-        "published": "Current Opinion in Neurobiology, Volume 32, June 2015, Pages 148-155, http://dx.doi.org/10.1016/j.conb.2015.04.003.",
-        "pdflink": "pdf/15.BraveNewWorld.pdf",
-        "imgsrc": "figures/15.BraveNewWorld.png"
+      "title":"Deep unsupervised learning using non-equilibrium thermodynamics",
+      "author":"J. Sohl-Dickstein, E. Weiss, N. Maheswaranathan and S. Ganguli",
+      "published": "International Conference on Machine Learning (ICML) 2015",
+      "pdflink": "pdf/DeepUnsupDiffusion.pdf",
+      "supplemental": "pdf/DeepUnsupDiffusion.Supp.pdf",
+      "imgsrc": "figures/14.SwissRoll.jpg"
     },
-		{
-				"title":"Modeling arbitrary probability distributions using non-equilibrium thermodynamics.",
-				"author":"J. Sohl-Dickstein, E. Weiss, N. Maheswaranathan and S. Ganguli",
-				"published": "Proceedings of The 32nd International Conference on Machine Learning, pp. 2256–2265, 2015",
-				"pdflink": "pdf/DeepUnsupDiffusion.pdf",
-				"supplemental": "pdf/DeepUnsupDiffusion.Supp.pdf",
-				"imgsrc": "figures/14.SwissRoll.jpg"
-		},
-		{
-				"title": "Environmental boundaries as an error correction mechanism for grid cells.",
-				"author":"K. Hardcastle, S. Ganguli, and L. Giocomo",
-				"published": "Neuron (2015), Volume 86, Issue 3, doi:10.1016/j.neuron.2015.03.039",
-				"pdflink": "pdf/ErrorCorrection.pdf",
-				"supplemental": "pdf/ErrorCorrection.Supp.pdf",
-				"imgsrc": "figures/14.GridCell.jpg"
-		},
-  {
+    {
+      "title": "On simplicity and complexity in the brave new world of large-scale neuroscience",
+      "author": "P. Gao and S. Ganguli",
+      "published": "Current Opinion in Neurobiology, Volume 32, June 2015, Pages 148-155, http://dx.doi.org/10.1016/j.conb.2015.04.003.",
+      "pdflink": "pdf/15.BraveNewWorld.pdf",
+      "imgsrc": "figures/15.BraveNewWorld.png"
+    },
+    {
+      "title": "Environmental boundaries as an error correction mechanism for grid cells.",
+      "author":"K. Hardcastle, S. Ganguli, and L. Giocomo",
+      "published": "Neuron (2015), Volume 86, Issue 3, doi:10.1016/j.neuron.2015.03.039",
+      "pdflink": "pdf/ErrorCorrection.pdf",
+      "supplemental": "pdf/ErrorCorrection.Supp.pdf",
+      "imgsrc": "figures/14.GridCell.jpg"
+    },
+    {
       "title": "Identifying and attacking the saddle point problem in high dimensional non-convex optimization.",
       "author":"Y.N. Dauphin,  R. Pascanu,  C. Gulcehre, K. Cho, S. Ganguli, Y. Bengio",
-      "published": "Neural Information Processing Systems (2014).",
+      "published": "Neural Information Processing Systems (NIPS) 2014",
       "pdflink":"pdf/14.SaddlePoint.NIPS.pdf",
       "imgsrc": "figures/14.Saddlepoint.jpg"
     },
-  {
-      "title": "Evidence for a causal inverse model in an avian cortico-basal ganglia circuit.",
-      "author":"N. Giret, J. Kornfeld, S. Ganguli, and R. Hahnloser",
-      "published": "PNAS (2014) 111:6063-6068.",
-      "pdflink":"pdf/CausalInv.14.PNAS.pdf",
-      "imgsrc": "figures/PredCausal.jpg"
-    },
-   {
-      "title": "Analyzing noise in autoencoders and deep networks.",
-      "author":"B. Poole, J. Sohl-Dickstein and S. Ganguli",
-      "published": "preprint",
-      "pdflink":"pdf/14.DeepNoiseAnalysis.pdf",
-      "imgsrc": "figures/NoiseAutoEnc.jpg"
-    },
-   {
+    {
       "title": "Fast large scale optimization by unifying stochastic gradient and quasi-Newton methods.",
       "author":"J. Sohl-Dickstein, B. Poole, and S. Ganguli",
-      "published": "International conference on machine learning (ICML), 2014.",
+      "published": "International conference on machine learning (ICML) 2014",
       "pdflink":"pdf/14.LargeScaleOpt.ICML.pdf",
       "imgsrc": "figures/SFO.jpg"
     },
-   {
+    {
       "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks.",
       "author":"A. Saxe, J. McClelland and S. Ganguli",
-      "published": "International conference on learning representations (ICLR), 2014.",
+      "published": "International conference on learning representations (ICLR) 2014.",
       "pdflink":"pdf/DynamLearn.pdf",
       "imgsrc": "figures/DeepDynamics.jpg"
     },
-   {
+    {
+      "title": "Evidence for a causal inverse model in an avian cortico-basal ganglia circuit.",
+      "author":"N. Giret, J. Kornfeld, S. Ganguli, and R. Hahnloser",
+      "published": "PNAS 2014 111:6063-6068.",
+      "pdflink":"pdf/CausalInv.14.PNAS.pdf",
+      "imgsrc": "figures/PredCausal.jpg"
+    },
+    {
+      "title": "Analyzing noise in autoencoders and deep networks.",
+      "author":"B. Poole, J. Sohl-Dickstein and S. Ganguli",
+      "published": "Neural Information Processing Systems (NIPS) Workshop on Deep Learning 2013",
+      "pdflink":"pdf/14.DeepNoiseAnalysis.pdf",
+      "imgsrc": "figures/NoiseAutoEnc.jpg"
+    },
+    {
       "title": "A memory frontier for complex synapses.",
       "author":"S. Lahiri and S. Ganguli",
-      "published": "Neural Information Processing Systems (NIPS), 2013.  (* Winner of the NIPS Outstanding Paper Award, given to 3 papers out of 1420 submissions).",
+      "published": "Neural Information Processing Systems (NIPS) 2013 (*Winner of the NIPS Outstanding Paper Award, given to 3 papers out of 1420 submissions).",
       "pdflink":"pdf/Synapse.NIPS14.pdf",
       "supplemental":"pdf/Synapse.NIPS14.Supp.pdf",
       "imgsrc": "figures/MemFrontier.jpg"
     },
-   {
+    {
       "title": "Learning hierarchical category structure in deep neural networks.",
       "author":"A. Saxe, J. McClelland, S. Ganguli",
-      "published": "In M. Knauff, M. Paulen, N. Sebanz, & I. Wachsmuth (Eds.), Proceedings of the 35th annual meeting of the Cognitive Science Society. (pp. 1271-1276). Austin, TX: Cognitive Science Society.",
+      "published": "Proceedings of the Cognitive Science Society (2013)",
       "pdflink":"pdf/Saxe.13.HierCat.pdf",
-      "imgsrc": "figures/HierTree.jpg"      
+      "imgsrc": "figures/HierTree.jpg"
     },
     {
-      "title": "Investigating the role of firing-rate normalization and dimensionality reduction on brain-machine interface robustness.", 
+      "title": "Investigating the role of firing-rate normalization and dimensionality reduction on brain-machine interface robustness.",
       "author":"J. Kao, P. Nuyujukian, S. Stavisky, S. Ryu, S. Ganguli, K.V. Shenoy",
       "published": "Proc. of the 35th Annual International Conference IEEE EMBS. Osaka, Japan: 293-298.",
       "pdflink":"pdf/KaoEtAlIEEEEMBC2013.pdf",
@@ -361,7 +389,7 @@
     {
       "title":"Vocal learning with inverse models.",
       "author":"R. Hahnloser and S. Ganguli",
-      "published": "book chapter in Principles of Neural Coding, in press."
+      "published": "Book chapter in Principles of Neural Coding, CRC press, 2013"
     },
     {
       "title":"Statistical mechanics of complex neural systems and high dimensional data.",
