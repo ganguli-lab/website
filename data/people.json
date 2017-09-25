@@ -23,6 +23,13 @@
       "imgsrc":"img/subhy.jpg"
     },
     {
+      "firstname":"Jonathan",
+      "lastname":"Kadmon",
+      "email":"kadmonj@stanford.edu",
+      "description":"Ph.d Physics, The Hebrew University.<br>The brain is a highly complex structure that evolved to preform highly complex computational functions. With hopes to gain some modest contribution to understanding it, I employ theoretical tools developed to study emergent phenomena in large disordered systems.  The goal is to gain some principle understanding on how the dynamical processes of large neuronal networks result in complex computation. In particular I use different mean-field theories to understand the dynamics of information processing in (biological or artificial) neural networks, and inference in high dimensional problems.  ",
+      "imgsrc":"img/jonathank.jpg"
+    },
+    {
       "firstname":"Friedemann",
       "lastname":"Zenke",
       "email":"fzenke@stanford.edu",
