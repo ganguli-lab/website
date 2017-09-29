@@ -26,7 +26,7 @@
       "firstname":"Jonathan",
       "lastname":"Kadmon",
       "email":"kadmonj@stanford.edu",
-      "description":"Ph.d Physics, The Hebrew University.<br>The brain is a highly complex structure that evolved to preform highly complex computational functions. With hopes to gain some modest contribution to understanding it, I employ theoretical tools developed to study emergent phenomena in large disordered systems.  The goal is to gain some principle understanding on how the dynamical processes of large neuronal networks result in complex computation. In particular I use different mean-field theories to understand the dynamics of information processing in (biological or artificial) neural networks, and inference in high dimensional problems.  ",
+      "description":"Ph.D Physics, The Hebrew University.<br>Many problems in neuroscience and in machine learning involve many variables that interact in ways that we can’t observe or understand. However, as we have learned from other physical systems, some collective behaviors do not depend on the microscopic details.  I employ various mean-filed theories, and models of non-equilibrium statistical mechanics to describe  emergent phenomena using a handful of order-parameters. Often times, studying the interactions and dynamics of the order-parameter yield new understandings and guide the design of experiments and new algorithms. Problems I study include recurrent and deep neural networks and high dimensional inference.",
       "imgsrc":"img/jonathank.jpg"
     },
     {
