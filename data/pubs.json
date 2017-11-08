@@ -167,18 +167,11 @@
   "publications":
   [
     {
-      "title": "Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice",
-      "author": "J. Pennington, S. Schloenholz, S. Ganguli",
-      "published": "Neural Information Processing Systems (NIPS) 2017",
-      "pdflink": "pdf/17.ResurrectSigmoid.pdf",
-      "imgsrc": "figures/17.ResurrectSigmoid.png"
-    },
-    {
-      "title": "Variational walkback: learning a transition operator as a stochastic recurrent net",
-      "author": "A. Goyal, N.R. Ke, S. Ganguli, Y. Bengio",
-      "published": "Neural Information Processing Systems (NIPS) 2017",
-      "pdflink": "pdf/17.variational.walkback.pdf",
-      "imgsrc": "figures/17.variational.walkback.png"
+      "title": "A theory of multineuronal dimensionality, dynamics and measurement",
+      "author": "P. Gao, E. Trautmann, B.M. Yu, G. Santhanam, S. Ryu, K.V. Shenoy, S. Ganguli",
+      "published": "Under review",
+      "pdflink": "pdf/17.theory.measurement.pdf",
+      "imgsrc": "figures/17.theory.measurement.png"
     },
     {
       "title": "Unsupervised discovery of demixed, low-dimensional neural dynamics across multiple timescales through tensor components analysis",
@@ -188,11 +181,18 @@
       "imgsrc": "figures/17.tca.png"
     },
     {
-      "title": "A theory of multineuronal dimensionality, dynamics and measurement",
-      "author": "P. Gao, E. Trautmann, B.M. Yu, G. Santhanam, S. Ryu, K.V. Shenoy, S. Ganguli",
-      "published": "Under review",
-      "pdflink": "pdf/17.theory.measurement.pdf",
-      "imgsrc": "figures/17.theory.measurement.png"
+      "title": "Variational walkback: learning a transition operator as a stochastic recurrent net",
+      "author": "A. Goyal, N.R. Ke, S. Ganguli, Y. Bengio",
+      "published": "Neural Information Processing Systems (NIPS) 2017",
+      "pdflink": "pdf/17.variational.walkback.pdf",
+      "imgsrc": "figures/17.variational.walkback.png"
+    },
+    {
+      "title": "Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice",
+      "author": "J. Pennington, S. Schloenholz, S. Ganguli",
+      "published": "Neural Information Processing Systems (NIPS) 2017",
+      "pdflink": "pdf/17.ResurrectSigmoid.pdf",
+      "imgsrc": "figures/17.ResurrectSigmoid.png"
     },
     {
       "title": "A universal tradeoff between power, precision and speed in physical communication",
