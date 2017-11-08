@@ -167,6 +167,34 @@
   "publications":
   [
     {
+      "title": "Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice",
+      "author": "J. Pennington, S. Schloenholz, S. Ganguli",
+      "published": "Neural Information Processing Systems (NIPS) 2017",
+      "pdflink": "pdf/17.ResurrectSigmoid.pdf",
+      "imgsrc": "figures/17.ResurrectSigmoid.png"
+    },
+    {
+      "title": "Variational walkback: learning a transition operator as a stochastic recurrent net",
+      "author": "A. Goyal, N.R. Ke, S. Ganguli, Y. Bengio",
+      "published": "Neural Information Processing Systems (NIPS) 2017",
+      "pdflink": "pdf/17.variational.walkback.pdf",
+      "imgsrc": "figures/17.variational.walkback.png"
+    },
+    {
+      "title": "Unsupervised discovery of demixed, low-dimensional neural dynamics across multiple timescales through tensor components analysis",
+      "author": "A.H. Williams, T.H. Kim, F. Wang, S. Vyas, S.I. Ryu, K.V. Shenoy, M. Schnitzer, T.G. Kolda, S. Ganguli",
+      "published": "Under review",
+      "pdflink": "pdf/17.tca.pdf",
+      "imgsrc": "figures/17.tca.png"
+    },
+    {
+      "title": "A theory of multineuronal dimensionality, dynamics and measurement",
+      "author": "P. Gao, E. Trautmann, B.M. Yu, G. Santhanam, S. Ryu, K.V. Shenoy, S. Ganguli",
+      "published": "Under review",
+      "pdflink": "pdf/17.theory.measurement.pdf",
+      "imgsrc": "figures/17.theory.measurement.png"
+    },
+    {
       "title": "A universal tradeoff between power, precision and speed in physical communication",
       "author": "S. Lahiri, J. Sohl-Dickstein, S. Ganguli",
       "published": "Under review",
@@ -182,9 +210,10 @@
       "imgsrc": "figures/17.superspike.png"
     },
     {
-      "title": "Cell-types for our sense of location: where we are and where we are going",
+      "title": "Cell types for our sense of location: where we are and where we are going",
       "author": "K. Hardcastle, S. Ganguli, L. Giocomo",
-      "published": "Under review",
+      "published": "Nature Neuroscience (2017), Volume 20, Issue 11, doi:10.1038/nn.4654",
+      "pdflink": "pdf/17.celltypes.pdf",
       "imgsrc": "figures/17.celltypes.png"
     },
     {
@@ -199,7 +228,7 @@
       "author": "S. Lahiri, P. Gao, S. Ganguli",
       "published": "Under review",
       "pdflink": "pdf/16.RandomProjectionsRandomManifolds.pdf",
-      "imgsrc": "figures/16.RandomProjectionsRandomManifolds.svg"
+      "imgsrc": "figures/16.RandomProjectionsRandomManifolds.png"
     },
     {
       "title": "Social control of hypothalamus-mediated male aggression",
@@ -248,7 +277,7 @@
       "author":"T.D. Vu, G.Q. Zhao, S. Lahiri, A. Suvrathan, H. Lee, S. Ganguli, C.J. Shatz, and J.L. Raymond",
       "published": "eLife 2017",
       "pdflink": "pdf/17.enhancedplasticity.pdf",
-      "imgsrc": "figures/17.enhancedplasticity.svg"
+      "imgsrc": "figures/17.enhancedplasticity.png"
     },
     {
       "title": "Deep learning models of the retinal responses to natural scenes",
