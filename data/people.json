@@ -30,13 +30,6 @@
       "imgsrc":"img/jonathank.jpg"
     },
     {
-      "firstname":"Friedemann",
-      "lastname":"Zenke",
-      "email":"fzenke@stanford.edu",
-      "description":"Ph.D. Computational Neuroscience, École Polytechnique Fédérale de Lausanne, Switzerland. I study how synaptic plasticity interacts with spiking neural network dynamics to self-assemble computationally meaningful circuits. My webpage is <a href='http://fzenke.net/'>http://fzenke.net</a>.",
-      "imgsrc":"img/friedemann.jpg"
-    },
-    {
       "firstname":"Kiah",
       "lastname":"Hardcastle",
       "email":"khardcas@stanford.edu",
@@ -96,6 +89,13 @@
       "description":"B.S. Biomedical &amp; Electrical Engineering, Duke University<br> I am a graduate student in the <a href=\"http://nsp.stanford.edu/\">Neurosciences program</a>. I am interested in neural coding and sensory neuroscience. Currently, I am working on understanding how the retina, the first stage of visual processing, encodes natural images. I work closely with the <a href=\"http://baccuslab.stanford.edu/\">Baccus lab</a> here at Stanford. You can read more at my <a href=\"http://niru.org/\">website</a>.",
       "imgsrc":"img/niru.jpg",
       "additional":"NSF Graduate Research Fellow.<br>Bio-X Honorary Fellow."
+    },
+    {
+      "firstname":"Friedemann",
+      "lastname":"Zenke",
+      "email":"fzenke@stanford.edu",
+      "description":"Ph.D. Computational Neuroscience, École Polytechnique Fédérale de Lausanne, Switzerland. I study how synaptic plasticity interacts with spiking neural network dynamics to self-assemble computationally meaningful circuits. My webpage is <a href='http://fzenke.net/'>http://fzenke.net</a>.",
+      "imgsrc":"img/friedemann.jpg"
     },
     {
       "firstname":"Madhu",
