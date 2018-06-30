@@ -205,7 +205,7 @@
     },
     {
       "title": "Cortico-cerebellar dynamics in the learning and execution of a motor task",
-      "author": "M.J. Wagner, T.H Kim, J. Kadmon, N.D. Nguyen, S. Ganguli, M.J. Schnitzer, L. Luo",
+      "author": "M.J. Wagner, T.H. Kim, J. Kadmon, N.D. Nguyen, S. Ganguli, M.J. Schnitzer, L. Luo",
       "published": "Under review"
     },
     {
@@ -240,7 +240,9 @@
     {
       "title": "Emergent elasticity in the neural code for space",
       "author": "S. Ocko, K. Hardcastle, S. Ganguli, L.M. Giocomo",
-      "published": "Under review"
+      "published": "Under review",
+      "pdflink": "pdf/18.emergent.elasticity.pdf",
+      "imgsrc": "figures/18.emergent.elasticity.png"
     },
     {
       "title": "Inferring hidden structure in multilayered neural circuits",
@@ -252,8 +254,7 @@
     {
       "title": "Principles governing the integration of landmark and self-motion cues in entorhinal cortical codes for navigation",
       "author": "M.G. Campbell, S. Ocko, C.S. Mallory, S. Ganguli, L.M. Giocomo",
-      "published": "In press at Nature Neuroscience",
-      "imgsrc": "figures/18.principles.landmark.png"
+      "published": "In press at Nature Neuroscience"
     },
     {
       "title": "Unsupervised discovery of demixed, low-dimensional neural dynamics across multiple timescales through tensor components analysis",
