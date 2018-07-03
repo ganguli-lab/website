@@ -186,7 +186,9 @@
     {
       "title": "Task-Driven Convolutional Recurrent Models of the Visual System",
       "author": "A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, J.J. DiCarlo, D. Sussillo, D.L.K. Yamins",
-      "published": "Under review"
+      "published": "Under review",
+      "pdflink": "pdf/18.ConvRNN.pdf",
+      "imgsrc": "figures/18.ConvRNN.png"
     },
     {
       "title": "The emergence of multiple retinal cell types through efficient coding of natural movies",
