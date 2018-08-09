@@ -256,13 +256,18 @@
     {
       "title": "Principles governing the integration of landmark and self-motion cues in entorhinal cortical codes for navigation",
       "author": "M.G. Campbell, S. Ocko, C.S. Mallory, S. Ganguli, L.M. Giocomo",
-      "published": "In press at Nature Neuroscience"
+      "published": "Nature Neuroscience 2018",
+      "pdflink": "pdf/18.landmark.pdf",
+      "supplemental": "pdf/18.landmark.supp.pdf",
+      "theory": "pdf/18.landmark.theory.pdf",
+      "imgsrc": "figures/18.landmark.png"
     },
     {
       "title": "Unsupervised discovery of demixed, low-dimensional neural dynamics across multiple timescales through tensor components analysis",
       "author": "A.H. Williams, T.H. Kim, F. Wang, S. Vyas, S.I. Ryu, K.V. Shenoy, M. Schnitzer, T.G. Kolda, S. Ganguli",
       "published": "Neuron 2018",
       "pdflink": "pdf/17.tca.pdf",
+      "supplemental": "pdf/17.tca.supp.pdf",
       "imgsrc": "figures/17.tca.png"
     },
     {
