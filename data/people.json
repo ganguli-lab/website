@@ -44,14 +44,6 @@
       "imgsrc":"img/sarah.jpg"
     },
     {
-      "firstname":"Lane",
-      "lastname":"McIntosh",
-      "email":"lmcintosh@stanford.edu",
-      "description":"M.A. Mathematics, University of Hawaii. B.A. Computational Neuroscience, University of Chicago<br> I'm a PhD student co-advised by <a href=\"http://baccuslab.stanford.edu/\">Stephen Baccus</a>. My research focuses on understanding the general principles underlying sensory processing; to do this I'm primarily using tools from deep learning and information theory. More information at my <a href=\"http://www.lanemcintosh.com\">website</a>.",
-      "imgsrc":"img/lane.jpg",
-      "additional":"Ruth L. Kirschstein National Research Service Award.<br>NSF Mind, Brain, and Computation Trainee."
-    },
-    {
       "firstname":"Aran",
       "lastname":"Nayebi",
       "email":"anayebi@stanford.edu",
@@ -82,6 +74,14 @@
   ],
   "alum":
   [
+    {
+      "firstname":"Lane",
+      "lastname":"McIntosh",
+      "email":"lmcintosh@stanford.edu",
+      "description":"Ph.D. Neurosciences, Stanford University, M.A. Mathematics, University of Hawaii. B.A. Computational Neuroscience, University of Chicago<br> I'm a PhD student co-advised by <a href=\"http://baccuslab.stanford.edu/\">Stephen Baccus</a>. My research focuses on understanding the general principles underlying sensory processing; to do this I'm primarily using tools from deep learning and information theory. More information at my <a href=\"http://www.lanemcintosh.com\">website</a>.",
+      "imgsrc":"img/lane.jpg",
+      "additional":"Ruth L. Kirschstein National Research Service Award.<br>NSF Mind, Brain, and Computation Trainee."
+    },
     {
       "firstname":"Niru",
       "lastname":"Maheswaranathan",
