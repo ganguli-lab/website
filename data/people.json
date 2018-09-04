@@ -51,13 +51,6 @@
       "imgsrc":"img/aran.jpg"
     },
     {
-      "firstname":"Ben",
-      "lastname":"Poole",
-      "email":"poole@cs.stanford.edu",
-      "description":"B.S. Computer Science, Carnegie Mellon University<br> I'm a graduate student in the <a href=\"http://cs.stanford.edu\">Computer Science Department</a>. My research aims to utilize machine learning techniques to better understand how information is processed in the brain, and to use these insights to build more intelligent models that can be applied to large high-dimensional datasets. Find out more on my <a href=\"http://cs.stanford.edu/~poole\">website</a>.",
-      "imgsrc":"img/ben.jpg"
-    },
-    {
       "firstname":"Chris",
       "lastname":"Stock",
       "email":"chstock@stanford.edu",
@@ -74,6 +67,13 @@
   ],
   "alum":
   [
+    {
+      "firstname":"Ben",
+      "lastname":"Poole",
+      "email":"poole@cs.stanford.edu",
+      "description":"Ph.D. Computer Science, Stanford University, B.S. Computer Science, Carnegie Mellon University<br> I'm a graduate student in the <a href=\"http://cs.stanford.edu\">Computer Science Department</a>. My research aims to utilize machine learning techniques to better understand how information is processed in the brain, and to use these insights to build more intelligent models that can be applied to large high-dimensional datasets. Find out more on my <a href=\"http://cs.stanford.edu/~poole\">website</a>.",
+      "imgsrc":"img/ben.jpg"
+    },
     {
       "firstname":"Lane",
       "lastname":"McIntosh",
