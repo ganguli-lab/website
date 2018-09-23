@@ -30,6 +30,13 @@
       "imgsrc":"img/jonathank.jpg"
     },
     {
+      "firstname":"Hidenori",
+      "lastname":"Tanaka",
+      "email":"tanaka8@stanford.edu",
+      "description":"Ph.D. Applied Physics, Harvard University. B.S. Physics, Kyoto University, Japan.<br>For more information, please visit my <a href=\"https://sites.google.com/view/htanaka/home\">website</a>.",
+      "imgsrc":"img/hidenori.jpg"
+    },
+    {
       "firstname":"Kiah",
       "lastname":"Hardcastle",
       "email":"khardcas@stanford.edu",
