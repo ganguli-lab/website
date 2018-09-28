@@ -172,9 +172,10 @@
       "published": "In prep"
     },
     {
-      "title": "A mathematical theory of semantic development",
+      "title": "A mathematical theory of semantic development in deep neural networks",
       "author": "A. Saxe, J.L. McClelland, S. Ganguli",
-      "published": "In prep"
+      "published": "Under review",
+      "pdflink": "pdf/18.SMGDev.pdf"
     },
     {
       "title": "Deep learning models reveal internal structure and diverse computations in the retina under natural scenes",
@@ -203,7 +204,9 @@
     {
       "title": "An analytic theory of generalization dynamics and transfer learning in deep linear networks",
       "author": "A.K. Lampinen, J.L. McClelland, S. Ganguli",
-      "published": "Under review"
+      "published": "Under review",
+      "pdflink": "pdf/18.GeneralizationTheory.pdf",
+      "imgsrc": "figures/18.GeneralizationTheory.png"
     },
     {
       "title": "Cortico-cerebellar dynamics in the learning and execution of a motor task",
