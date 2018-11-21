@@ -193,8 +193,10 @@
     },
     {
       "title": "The emergence of multiple retinal cell types through efficient coding of natural movies",
-      "author": "S. Deny, J. Lindsey, S. Ganguli, S. Ocko",
-      "published": "Under review"
+      "author": "S. Ocko*, J. Lindsey*, S. Ganguli, S. Deny",
+      "published": "Neural Information Processing Systems (NIPS) 2018",
+      "pdflink": "pdf/18.efficient.retinal.types.pdf", 
+      "imgsrc": "figures/18.efficient.retinal.types.large.png"
     },
     {
       "title": "Statistical mechanics of low-rank tensor decomposition",
