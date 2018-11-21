@@ -187,7 +187,7 @@
     {
       "title": "Task-Driven Convolutional Recurrent Models of the Visual System",
       "author": "A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, J.J. DiCarlo, D. Sussillo, D.L.K. Yamins",
-      "published": "Under review",
+      "published": "Neural Information Processing Systems (NIPS) 2018",
       "pdflink": "pdf/18.ConvRNN.pdf",
       "imgsrc": "figures/18.ConvRNN.png"
     },
@@ -201,7 +201,7 @@
     {
       "title": "Statistical mechanics of low-rank tensor decomposition",
       "author": "J. Kadmon, S. Ganguli",
-      "published": "Under review"
+      "published": "Neural Information Processing Systems (NIPS) 2018"
     },
     {
       "title": "An analytic theory of generalization dynamics and transfer learning in deep linear networks",
