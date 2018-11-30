@@ -26,7 +26,7 @@
       "firstname":"Jonathan",
       "lastname":"Kadmon",
       "email":"kadmonj@stanford.edu",
-      "description":"Ph.D Physics, The Hebrew University.<br>Many problems in neuroscience and in machine learning involve many variables that interact in ways that we can’t observe or understand. However, as we have learned from other physical systems, some collective behaviors do not depend on the microscopic details.  I employ various mean-filed theories, and models of non-equilibrium statistical mechanics to describe  emergent phenomena using a handful of order-parameters. Often times, studying the interactions and dynamics of the order-parameter yield new understandings and guide the design of experiments and new algorithms. Problems I study include recurrent and deep neural networks and high dimensional inference.",
+      "description":"I am a postoc in the <a href=\"http://www.stanford.edu/dept/app-physics/cgi-bin/\">Applied Physics department</a> and <a href=\"https://sitp.stanford.edu/\">Stanford Institute for Theoretical Physics</a>. Please visit my <a href='https://www.kadmon.site'> My website</a> for more details.",
       "imgsrc":"img/jonathank.jpg"
     },
     {
