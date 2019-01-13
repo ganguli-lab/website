@@ -185,32 +185,6 @@
       "imgsrc": "figures/18.DeepRetina.png"
     },
     {
-      "title": "Task-Driven Convolutional Recurrent Models of the Visual System",
-      "author": "A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, J.J. DiCarlo, D. Sussillo, D.L.K. Yamins",
-      "published": "Neural Information Processing Systems (NIPS) 2018",
-      "pdflink": "pdf/18.ConvRNN.pdf",
-      "imgsrc": "figures/18.ConvRNN.png"
-    },
-    {
-      "title": "The emergence of multiple retinal cell types through efficient coding of natural movies",
-      "author": "S. Ocko*, J. Lindsey*, S. Ganguli, S. Deny",
-      "published": "Neural Information Processing Systems (NIPS) 2018",
-      "pdflink": "pdf/18.efficient.retinal.types.pdf", 
-      "imgsrc": "figures/18.efficient.retinal.types.large.png"
-    },
-    {
-      "title": "Statistical mechanics of low-rank tensor decomposition",
-      "author": "J. Kadmon, S. Ganguli",
-      "published": "Neural Information Processing Systems (NIPS) 2018"
-    },
-    {
-      "title": "An analytic theory of generalization dynamics and transfer learning in deep linear networks",
-      "author": "A.K. Lampinen, J.L. McClelland, S. Ganguli",
-      "published": "Under review",
-      "pdflink": "pdf/18.GeneralizationTheory.pdf",
-      "imgsrc": "figures/18.GeneralizationTheory.png"
-    },
-    {
       "title": "Cortico-cerebellar dynamics in the learning and execution of a motor task",
       "author": "M.J. Wagner, T.H. Kim, J. Kadmon, N.D. Nguyen, S. Ganguli, M.J. Schnitzer, L. Luo",
       "published": "Under review"
@@ -245,16 +219,52 @@
       "imgsrc": "figures/16.RandomProjectionsRandomManifolds.png"
     },
     {
+      "title": "An analytic theory of generalization dynamics and transfer learning in deep linear networks",
+      "author": "A.K. Lampinen, J.L. McClelland, S. Ganguli",
+      "published": "International Conference on Learning Representations (ICLR) 2019",
+      "pdflink": "pdf/18.GeneralizationTheory.pdf",
+      "imgsrc": "figures/18.GeneralizationTheory.png"
+    },
+    {
+      "title": "A unified theory of early visual representations from retina to cortex through anatomically constrained deep CNNs",
+      "author": "J. Lindsey*, S. Ocko*, S. Ganguli, S. Deny",
+      "published": "International Conference on Learning Representations (ICLR) 2019",
+      "pdflink": "pdf/19.retinal.resource.pdf",
+       "imgsrc": "figures/19.retinal.resource.png"
+    },
+    {
+      "title": "Task-Driven Convolutional Recurrent Models of the Visual System",
+      "author": "A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, J.J. DiCarlo, D. Sussillo, D.L.K. Yamins",
+      "published": "Neural Information Processing Systems (NeurIPS) 2018",
+      "pdflink": "pdf/18.ConvRNN.pdf",
+      "imgsrc": "figures/18.ConvRNN.png"
+    },
+    {
+      "title": "The emergence of multiple retinal cell types through efficient coding of natural movies",
+      "author": "S. Ocko*, J. Lindsey*, S. Ganguli, S. Deny",
+      "published": "Neural Information Processing Systems (NeurIPS) 2018",
+      "pdflink": "pdf/18.efficient.retinal.types.pdf", 
+      "imgsrc": "figures/18.efficient.retinal.types.large.png"
+    },
+    {
+      "title": "Statistical mechanics of low-rank tensor decomposition",
+      "author": "J. Kadmon, S. Ganguli",
+      "published": "Neural Information Processing Systems (NeurIPS) 2018",
+      "pdflink": "pdf/18.TensorStatMech.pdf",
+      "imgsrc": "figures/18.TensorStatMech.png"
+    },
+    {
       "title": "Emergent elasticity in the neural code for space",
       "author": "S. Ocko, K. Hardcastle, S. Ganguli, L.M. Giocomo",
-      "published": "Under review",
+      "published": "PNAS 2018 50:E11798-E11806",
       "pdflink": "pdf/18.emergent.elasticity.pdf",
+      "supplemental": "pdf/18.emergent.elasticity.supp.pdf",
       "imgsrc": "figures/18.emergent.elasticity.png"
     },
     {
       "title": "Inferring hidden structure in multilayered neural circuits",
       "author": "N. Maheswaranathan, S. A. Baccus, S. Ganguli",
-      "published": "In press at PLOS Computational Biology",
+      "published": "PLoS Comput Biol 14(8): e1006291",
       "pdflink": "pdf/17.LNLN.pdf",
       "imgsrc": "figures/17.LNLN.png"
     },
