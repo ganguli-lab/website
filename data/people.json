@@ -65,6 +65,13 @@
        "imgsrc":"img/chris.jpg"
     },
     {
+      "firstname":"Jonathan",
+      "lastname":"Timcheck",
+      "email":"timcheck@stanford.edu",
+      "description":"MASt Applied Mathematics, University of Cambridge. B.S. Engineering Physics, Ohio State University. Ph.D. student in Physics; co-advised by Surya Ganguli and Kwabena Boahen. Spiking neural network theory. More specifics on my <a href=\"https://web.stanford.edu/group/brainsinsilicon/jonathantimcheck.html\">website</a>.",
+      "imgsrc":"img/jonathantimcheck.jpg"
+    },
+    {
       "firstname":"Alex",
       "lastname":"Williams",
       "email":"alex.h.willia@gmail.com",
