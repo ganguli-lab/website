@@ -58,6 +58,13 @@
       "imgsrc":"img/aran.jpg"
     },
     {
+      "firstname":"Samuel",
+      "lastname":"Ocko",
+      "email":"socko@stanford.edu",
+      "description":"Ph.D. Physics, MIT. B.S. Physics, Computer Science, Brown University <br>For more information, please visit my <a href=\"samocko.com\">website</a>.",
+      "imgsrc":"img/Sam.jpg"
+    },
+    {
       "firstname":"Chris",
       "lastname":"Stock",
       "email":"chstock@stanford.edu",
