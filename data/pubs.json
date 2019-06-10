@@ -200,6 +200,21 @@
       "imgsrc": "figures/19.TimeWarp.jpg"
     },
     {
+      "title": "A universal tradeoff between power, precision and speed in physical communication",
+      "author": "S. Lahiri, J. Sohl-Dickstein, S. Ganguli",
+      "published": "Under review",
+      "pdflink": "pdf/16.PowerPrecisionSpeed.pdf",
+      "supplemental": "pdf/16.PowerPrecisionSpeed.Supp.pdf",
+      "imgsrc": "figures/16.PowerPrecisionSpeed.svg"
+    },
+    {
+      "title": "Accurate estimation of neural population dynamics without spike sorting",
+      "author": "E.M. Trautmann, S.D. Stavisky, S. Lahiri, K.C. Ames, M.T. Kaufman, S.I. Ryu, S. Ganguli, K.V. Shenoy",
+      "published": "Neuron 2019",
+      "pdflink": "pdf/19.EstimatePopulation.pdf",
+      "imgsrc": "figures/19.EstimatePopulation.png"
+    },
+    {
       "title": "A mathematical theory of semantic development in deep neural networks",
       "author": "A. Saxe, J.L. McClelland, S. Ganguli",
       "published": "PNAS (2019), Volume 116, Issue 23, doi:10.1073/pnas.1820226116",
@@ -213,21 +228,6 @@
       "published": "Cell (2019), Volume 117, Issue 3, doi:10.1016/j.cell.2019.02.019",
       "pdflink": "pdf/19.CortexCerebellumLearning.pdf",
       "imgsrc": "figures/19.CortexCerebellumLearning.png"
-    },
-    {
-      "title": "Accurate estimation of neural population dynamics without spike sorting",
-      "author": "E.M. Trautmann, S.D. Stavisky, S. Lahiri, K.C. Ames, M.T. Kaufman, S.I. Ryu, S. Ganguli, K.V. Shenoy",
-      "published": "Neuron (2019), In Press",
-      "pdflink": "pdf/19.EstimatePopulation.pdf",
-      "imgsrc": "figures/19.EstimatePopulation.png"
-    },
-    {
-      "title": "A universal tradeoff between power, precision and speed in physical communication",
-      "author": "S. Lahiri, J. Sohl-Dickstein, S. Ganguli",
-      "published": "Under review",
-      "pdflink": "pdf/16.PowerPrecisionSpeed.pdf",
-      "supplemental": "pdf/16.PowerPrecisionSpeed.Supp.pdf",
-      "imgsrc": "figures/16.PowerPrecisionSpeed.svg"
     },
     {
       "title": "An analytic theory of generalization dynamics and transfer learning in deep linear networks",
