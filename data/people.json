@@ -51,6 +51,13 @@
       "imgsrc":"img/brandon_ganguliweb.jpg"
     },
     {
+      "firstname":"Stanislav",
+      "lastname":"Fort",
+      "email":"sfort1@stanford.edu",
+      "description":"BA (Hons) and MSci from University of Cambridge <br>",
+      "imgsrc":"img/stan.jpg"
+    },
+    {
       "firstname":"Kiah",
       "lastname":"Hardcastle",
       "email":"khardcas@stanford.edu",
