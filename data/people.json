@@ -9,13 +9,6 @@
       "imgsrc":"img/surya_square_small.jpg"
     },
     {
-      "firstname":"Stéphane",
-      "lastname":"Deny",
-      "email":"sdeny@stanford.edu",
-      "description":"Ph.D. Computational Neuroscience, Vision Institute and Paris VI University, France. My <a href=\"http://stephanedeny.site\">personal website</a>.",
-      "imgsrc":"img/stephane.jpg"
-    },
-    {
       "firstname":"Subhaneil",
       "lastname":"Lahiri",
       "email":"sulahiri[at]stanford.edu",
@@ -81,6 +74,13 @@
   ],
   "alum":
   [
+    {
+      "firstname":"Stéphane",
+      "lastname":"Deny",
+      "email":"sdeny@stanford.edu",
+      "description":"Ph.D. Computational Neuroscience, Vision Institute and Paris VI University, France. My <a href=\"http://stephanedeny.site\">personal website</a>.",
+      "imgsrc":"img/stephane.jpg"
+    },
     {
       "firstname":"Samuel",
       "lastname":"Ocko",
