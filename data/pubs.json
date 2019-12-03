@@ -224,7 +224,8 @@
       "title": "Cortical layer-specific critical dynamics triggering perception",
       "author": "J.H. Marshel*, Y.S. Kim*, T.A. Machado*, S. Quirin*, B. Benson, J. Kadmon, C. Raja, A. Chibukhchyan, C. Ramakrishnan, M. Inoue, J.C. Shane, D.J. McKnight, S. Yoshizawa, H.E. Kato, S. Ganguli, K. Deisseroth",
       "published": "Science 2019",
-      "pdflink": "pdf/19.CorticalStim.pdf"
+      "pdflink": "pdf/19.CorticalStim.pdf",
+      "supplemental": "pdf/19.CorticalStim.supp.pdf"
     },
     {
       "title": "A deep learning framework for neuroscience",
