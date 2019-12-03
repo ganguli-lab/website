@@ -193,19 +193,70 @@
       "imgsrc": "figures/16.RandomProjectionsRandomManifolds.png"
     },
     {
-      "title": "Discovering precise temporal patterns in large-scale neural recordings through robust and interpretable time warping",
-      "author": "A.H. Williams, B. Poole, N. Maheswaranathan, A.K. Dhawale, T. Fisher, C.D. Wilson, D.H. Brann, E. Trautmann, S.I. Ryu, R. Shusterman, D. Rinberg, B.P. Olveczky, K.V. Shenoy, S. Ganguli",
-      "published": "Under review",
-      "pdflink": "pdf/19.TimeWarp.pdf",
-      "imgsrc": "figures/19.TimeWarp.jpg"
-    },
-    {
       "title": "A universal tradeoff between power, precision and speed in physical communication",
       "author": "S. Lahiri, J. Sohl-Dickstein, S. Ganguli",
       "published": "Under review",
       "pdflink": "pdf/16.PowerPrecisionSpeed.pdf",
       "supplemental": "pdf/16.PowerPrecisionSpeed.Supp.pdf",
       "imgsrc": "figures/16.PowerPrecisionSpeed.svg"
+    },
+    {
+      "title": "Fast convolutive nonnegative matrix factorization through coordinate and block coordinate updates",
+      "author": "A. Degleris, B. Antin, S. Ganguli, A.H. Williams",
+      "published": "Under review",
+      "pdflink": "pdf/19.CNMF.pdf"
+    },
+    {
+      "title": "Emergent properties of the local geometry of neural loss landscapes",
+      "author": "S. Fort, S. Ganguli",
+      "published": "Under review",
+      "pdflink": "pdf/19.NeuralLossLandscapes.pdf"
+    },
+    {
+      "title": "Discovering precise temporal patterns in large-scale neural recordings through robust and interpretable time warping",
+      "author": "A.H. Williams, B. Poole, N. Maheswaranathan, A.K. Dhawale, T. Fisher, C.D. Wilson, D.H. Brann, E. Trautmann, S.I. Ryu, R. Shusterman, D. Rinberg, B.P. Olveczky, K.V. Shenoy, S. Ganguli",
+      "published": "Neuron 2019",
+      "pdflink": "pdf/19.TimeWarp.pdf",
+      "supplemental": "pdf/19.TimeWarp.supp.pdf",
+      "imgsrc": "figures/19.TimeWarp.jpg"
+    },
+    {
+      "title": "Cortical layer-specific critical dynamics triggering perception",
+      "author": "J.H. Marshel*, Y.S. Kim*, T.A. Machado*, S. Quirin*, B. Benson, J. Kadmon, C. Raja, A. Chibukhchyan, C. Ramakrishnan, M. Inoue, J.C. Shane, D.J. McKnight, S. Yoshizawa, H.E. Kato, S. Ganguli, K. Deisseroth",
+      "published": "Science 2019",
+      "pdflink": "pdf/19.CorticalStim.pdf",
+    },
+    {
+      "title": "A deep learning framework for neuroscience",
+      "author": "B.A. Richards, T.P. Lillicrap, P. Beaudoin, Y. Bengio, R. Bogacz, A. Christensen, C. Clopath, R.P. Costa, A. de Berker, S. Ganguli, C.J. Gillon, D. Hafner, A. Kepecs, N. Kriegeskorte, P. Latham, G.W. Lindsay, K.D. Miller, R. Naud, C.C. Pack, P. Poirazi, P. Roelfsema, J. Sacramento, A. Saxe, B. Scellier, A.C. Schapiro, W. Senn, G. Wayne, D.L.K. Yamins, F. Zenke, J. Zylberberg, D. Therien, K.P. Kording",
+      "published": "Nature Neuroscience 2019",
+      "pdflink": "pdf/19.DLNeurosci.pdf",
+    },
+    {
+      "title": "Universality and individuality in neural dynamics across large populations of recurrent networks",
+      "author": "N. Maheswaranathan*, A.H. Williams*, M. Golub, S. Ganguli, D. Sussillo",
+      "published": "Neural Information Processing Systems (NeurIPS) 2019",
+      "pdflink": "pdf/19.Universality.pdf",
+      "supplemental": "pdf/19.Universality.supp.pdf"
+    },
+    {
+      "title": "Reverse engineering recurrent networks for sentiment classification reveals line attractor dynamics",
+      "author": "N. Maheswaranathan*, A.H. Williams*, M. Golub, S. Ganguli, D. Sussillo",
+      "published": "Neural Information Processing Systems (NeurIPS) 2019",
+      "pdflink": "pdf/19.ReverseEng.pdf",
+      "supplemental": "pdf/19.ReverseEng.supp.pdf"
+    },
+    {
+      "title": "A unified theory for the origin of grid cells through the lens of pattern formation",
+      "author": "B. Sorscher*, G. Mel*, S. Ganguli, S. Ocko",
+      "published": "Neural Information Processing Systems (NeurIPS) 2019",
+      "pdflink": "pdf/19.DecodePattern.pdf"
+    },
+    {
+      "title": "From deep learning to mechanistic understanding in neuroscience: the structure of retinal prediction",
+      "author": "H. Tanaka, A. Nayebi, N. Maheswaranathan, L. McIntosh, S. A. Baccus, S. Ganguli",
+      "published": "Neural Information Processing Systems (NeurIPS) 2019",
+      "pdflink": "pdf/19.DeepRetinaUnderstanding.pdf"
     },
     {
       "title": "Accurate estimation of neural population dynamics without spike sorting",
@@ -254,7 +305,7 @@
       "title": "The emergence of multiple retinal cell types through efficient coding of natural movies",
       "author": "S. Ocko*, J. Lindsey*, S. Ganguli, S. Deny",
       "published": "Neural Information Processing Systems (NeurIPS) 2018",
-      "pdflink": "pdf/18.efficient.retinal.types.pdf", 
+      "pdflink": "pdf/18.efficient.retinal.types.pdf",
       "imgsrc": "figures/18.efficient.retinal.types.large.png"
     },
     {
