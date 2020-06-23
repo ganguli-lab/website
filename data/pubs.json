@@ -172,6 +172,56 @@
       "published": "In prep"
     },
     {
+      "title": "GluD2- and Cbln1-mediated Competitive Synaptogenesis Shapes the Dendritic Arbors of Cerebellar Purkinje Cells",
+      "author": "Y.H. Takeo, S.A. Shuster, L. Jiang, M. Hu, D.J. Luginbuhl, T. Rlicke, X. Contreras, S. Hippenmeyer, M.J. Wagner, S. Ganguli, L. Luo",
+      "published": "Under review",
+      "pdflink": "pdf/20.Purkinje.pdf"
+    },
+    {
+      "title": "Coherent Ising machines: quantum optics and neural network perspectives",
+      "author": "Y. Yamamoto, T. Leleu, S. Ganguli, H. Mabuchi",
+      "published": "Under review",
+      "pdflink": "pdf/20.CoherentIsingMachines.pdf"
+    },
+    {
+      "title": "Pruning neural networks without any data by iteratively conserving synaptic flow",
+      "author": "H. Tanaka*, D. Kunin*, D.L.K. Yamins, S. Ganguli",
+      "published": "Under review",
+      "pdflink": "pdf/20.Pruning.pdf"
+    },
+    {
+      "title": "Thalamic activity patterns unfolding over multiple time scales predict seizure onset in absence epilepsy",
+      "author": "J.M. Sorokin, A.H. Williams, S. Ganguli, J.R. Huguenard",
+      "published": "Under review",
+      "pdflink": "pdf/20.ThalamicActivity.pdf"
+    },
+    {
+      "title": "Causal coupling between neural activity, metabolism, and behavior across the Drosophila brain",
+      "author": "K. Mann*, S. Deny*, S. Ganguli, T.R. Clandinin",
+      "published": "Under review",
+      "pdflink": "pdf/20.CausalCoupling.pdf"
+    },
+    {
+      "title": "A universal energy accuracy tradeoff in nonequilibrium cellular sensing",
+      "author": "S.E. Harvey, S. Lahiri, S. Ganguli",
+      "published": "Under review",
+      "pdflink": "pdf/20.Sensing.pdf"
+    },
+    {
+      "title": "Emergent properties of the local geometry of neural loss landscapes",
+      "author": "S. Fort, S. Ganguli",
+      "published": "Under review",
+      "pdflink": "pdf/19.NeuralLossLandscapes.pdf",
+      "imgsrc": "figures/19.NeuralLossLandscapes.png"
+    },
+    {
+      "title": "Fast convolutive nonnegative matrix factorization through coordinate and block coordinate updates",
+      "author": "A. Degleris, B. Antin, S. Ganguli, A.H. Williams",
+      "published": "Under review",
+      "pdflink": "pdf/19.CNMF.pdf",
+      "imgsrc": "figures/19.CNMF.png"
+    },
+    {
       "title": "Deep learning models reveal internal structure and diverse computations in the retina under natural scenes",
       "author": "L. McIntosh, N. Maheswaranathan, D.B. Kastner, J. Melander, L. Brezovec, A. Nayebi, J. Wang, S. Ganguli, S. Baccus",
       "published": "Under review",
@@ -199,56 +249,6 @@
       "pdflink": "pdf/16.PowerPrecisionSpeed.pdf",
       "supplemental": "pdf/16.PowerPrecisionSpeed.Supp.pdf",
       "imgsrc": "figures/16.PowerPrecisionSpeed.svg"
-    },
-    {
-      "title": "Fast convolutive nonnegative matrix factorization through coordinate and block coordinate updates",
-      "author": "A. Degleris, B. Antin, S. Ganguli, A.H. Williams",
-      "published": "Under review",
-      "pdflink": "pdf/19.CNMF.pdf",
-      "imgsrc": "figures/19.CNMF.png"
-    },
-    {
-      "title": "Emergent properties of the local geometry of neural loss landscapes",
-      "author": "S. Fort, S. Ganguli",
-      "published": "Under review",
-      "pdflink": "pdf/19.NeuralLossLandscapes.pdf",
-      "imgsrc": "figures/19.NeuralLossLandscapes.png"
-    },
-    {
-      "title": "A universal energy accuracy tradeoff in nonequilibrium cellular sensing",
-      "author": "S.E. Harvey, S. Lahiri, S. Ganguli",
-      "published": "Under review",
-      "pdflink": "pdf/20.Sensing.pdf"
-    },
-    {
-      "title": "Causal coupling between neural activity, metabolism, and behavior across the Drosophila brain",
-      "author": "K. Mann*, S. Deny*, S. Ganguli, T.R. Clandinin",
-      "published": "Under review",
-      "pdflink": "pdf/20.CausalCoupling.pdf"
-    },
-    {
-      "title": "Thalamic activity patterns unfolding over multiple time scales predict seizure onset in absence epilepsy",
-      "author": "J.M. Sorokin, A.H. Williams, S. Ganguli, J.R. Huguenard",
-      "published": "Under review",
-      "pdflink": "pdf/20.ThalamicActivity.pdf"
-    },
-    {
-      "title": "Pruning neural networks without any data by iteratively conserving synaptic flow",
-      "author": "H. Tanaka*, D. Kunin*, D.L.K. Yamins, S. Ganguli",
-      "published": "Under review",
-      "pdflink": "pdf/20.Pruning.pdf"
-    },
-    {
-      "title": "Coherent Ising machines: quantum optics and neural network perspectives",
-      "author": "Y. Yamamoto, T. Leleu, S. Ganguli, H. Mabuchi",
-      "published": "Under review",
-      "pdflink": "pdf/20.CoherentIsingMachines.pdf"
-    },
-    {
-      "title": "GluD2- and Cbln1-mediated Competitive Synaptogenesis Shapes the Dendritic Arbors of Cerebellar Purkinje Cells",
-      "author": "Y.H. Takeo, S.A. Shuster, L. Jiang, M. Hu, D.J. Luginbuhl, T. Rlicke, X. Contreras, S. Hippenmeyer, M.J. Wagner, S. Ganguli, L. Luo",
-      "published": "Under review",
-      "pdflink": "pdf/20.Purkinje.pdf"
     },
     {
       "title": "Two Routes to Scalable Credit Assignment without Weight Symmetry",
