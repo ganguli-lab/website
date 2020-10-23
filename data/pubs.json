@@ -251,6 +251,12 @@
       "imgsrc": "figures/16.PowerPrecisionSpeed.svg"
     },
     {
+      "title": "Identifying learning rules from neural network observables",
+      "author": "A. Nayebi, S. Srivastava, S. Ganguli, D.L.K. Yamins",
+      "published": "Neural Information Processing Systems (NeurIPS) 2020",
+      "pdflink": "pdf/20.LRIdentify.pdf"
+    },
+    {
       "title": "Two Routes to Scalable Credit Assignment without Weight Symmetry",
       "author": "D. Kunin*, A. Nayebi*, J. Sagastuy-Brena*, S. Ganguli, J. Bloom, D.L.K. Yamins",
       "published": "International Conference on Machine Learning (ICML) 2020",
