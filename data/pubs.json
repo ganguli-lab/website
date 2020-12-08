@@ -223,7 +223,7 @@
     },
     {
       "title": "Deep learning models reveal internal structure and diverse computations in the retina under natural scenes",
-      "author": "L. McIntosh, N. Maheswaranathan, D.B. Kastner, J. Melander, L. Brezovec, A. Nayebi, J. Wang, S. Ganguli, S. Baccus",
+      "author": "L. McIntosh*, N. Maheswaranathan*, D.B. Kastner, J. Melander, L. Brezovec, A. Nayebi, J. Wang, S. Ganguli, S. Baccus",
       "published": "Under review",
       "pdflink": "pdf/18.DeepRetina.pdf",
       "imgsrc": "figures/18.DeepRetina.png"
@@ -252,7 +252,7 @@
     },
     {
       "title": "Identifying learning rules from neural network observables",
-      "author": "A. Nayebi, S. Srivastava, S. Ganguli, D.L.K. Yamins",
+      "author": "A. Nayebi*, S. Srivastava*, S. Ganguli, D.L.K. Yamins",
       "published": "Neural Information Processing Systems (NeurIPS) 2020",
       "pdflink": "pdf/20.LRIdentify.pdf"
     },
@@ -367,7 +367,7 @@
     },
     {
       "title": "Task-Driven Convolutional Recurrent Models of the Visual System",
-      "author": "A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, J.J. DiCarlo, D. Sussillo, D.L.K. Yamins",
+      "author": "A. Nayebi*, D. Bear*, J. Kubilius*, K. Kar, S. Ganguli, J.J. DiCarlo, D. Sussillo, D.L.K. Yamins",
       "published": "Neural Information Processing Systems (NeurIPS) 2018",
       "pdflink": "pdf/18.ConvRNN.pdf",
       "imgsrc": "figures/18.ConvRNN.png"
