@@ -58,13 +58,6 @@
       "imgsrc":"img/aran.jpg"
     },
     {
-      "firstname":"Chris",
-      "lastname":"Stock",
-      "email":"chstock@stanford.edu",
-      "description":"A.B. Mathematics, Harvard University<br>I am a student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>. I use theoretical and computational tools to study the structure of intelligent computation in high-dimensional neural systems. Additional research interests include machine learning, probabilistic modeling, and large-scale methods for neural data analysis. See my <a href=\"http://stanford.edu/~chstock/\">website</a> for more.",
-       "imgsrc":"img/chris.jpg"
-    },
-    {
       "firstname":"Jonathan",
       "lastname":"Timcheck",
       "email":"timcheck@stanford.edu",
@@ -74,6 +67,13 @@
   ],
   "alum":
   [
+    {
+      "firstname":"Chris",
+      "lastname":"Stock",
+      "email":"chstock@stanford.edu",
+      "description":"A.B. Mathematics, Harvard University<br>I am a student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>. I use theoretical and computational tools to study the structure of intelligent computation in high-dimensional neural systems. Additional research interests include machine learning, probabilistic modeling, and large-scale methods for neural data analysis. See my <a href=\"http://stanford.edu/~chstock/\">website</a> for more.",
+       "imgsrc":"img/chris.jpg"
+    },
     {
       "firstname":"Stéphane",
       "lastname":"Deny",
