@@ -23,11 +23,25 @@
       "imgsrc":"img/jonathank.jpg"
     },
     {
+      "firstname":"Sadegh",
+      "lastname":"Ebrahimi",
+      "email":"sadegh@stanford.edu",
+      "description":"Ph.D. in Electrical Engineering.<br>I am a postdoc student investigating sensory perception by bringing together state-of-the-art high-resolution neural recordings and advanced computational and deep learning techniques, working jointly at Ganguli and Schnitzer Lab.",
+      "imgsrc":"img/sadegh.jpg"
+    },
+    {
       "firstname":"Hidenori",
       "lastname":"Tanaka",
       "email":"tanaka8@stanford.edu",
       "description":"Ph.D. Applied Physics, Harvard University. B.S. Physics, Kyoto University, Japan.<br>For more information, please visit my <a href=\"https://sites.google.com/view/htanaka/home\">website</a>.",
       "imgsrc":"img/hidenori.jpg"
+    },
+    {
+      "firstname":"Gabriela",
+      "lastname":"Basel",
+      "email":"gbasel@stanford.edu",
+      "description":"B.S. Molecular Engineering, University of Chicago.<br>I am a PhD student in Stanford's <a href=\"https://cheme.stanford.edu/\">Chemical Engineering Department</a>. I currently study grid cell firing patterns in bats using recurrent neural networks.",
+      "imgsrc":"img/gabriela.jpg"
     },
     {
       "firstname":"Brandon",
@@ -51,6 +65,13 @@
       "imgsrc":"img/sarah.jpg"
     },
     {
+      "firstname":"Linnie",
+      "lastname":"Jiang",
+      "email":"linnie.jiang@stanford.edu",
+      "description":"B.A. Neuroscience and Behavior, B.A. Computer Science, Columbia University.<br>I am a PhD student in the Neurosciences program at Stanford, co-advised by Surya Ganguli and Lisa Giocomo. I am interested in generalization and value coding in the hippocampus.",
+      "imgsrc":"img/linnie.jpg"
+    },
+    {
       "firstname":"Aran",
       "lastname":"Nayebi",
       "email":"anayebi@stanford.edu",
@@ -61,7 +82,7 @@
       "firstname":"Jonathan",
       "lastname":"Timcheck",
       "email":"timcheck@stanford.edu",
-      "description":"MASt Applied Mathematics, University of Cambridge. B.S. Engineering Physics, Ohio State University. Ph.D. student in Physics; co-advised by Surya Ganguli and Kwabena Boahen. Spiking neural network theory. More specifics on my <a href=\"https://web.stanford.edu/group/brainsinsilicon/jonathantimcheck.html\">website</a>.",
+      "description":"MASt Applied Mathematics, University of Cambridge. B.S. Engineering Physics, Ohio State University.<br>Ph.D. student in Physics; co-advised by Surya Ganguli and Kwabena Boahen. Spiking neural network theory. More specifics on my <a href=\"https://web.stanford.edu/group/brainsinsilicon/jonathantimcheck.html\">website</a>.",
       "imgsrc":"img/jonathantimcheck.jpg"
     }
   ],
