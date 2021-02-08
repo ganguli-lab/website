@@ -84,6 +84,13 @@
       "email":"timcheck@stanford.edu",
       "description":"MASt Applied Mathematics, University of Cambridge. B.S. Engineering Physics, Ohio State University.<br>Ph.D. student in Physics; co-advised by Surya Ganguli and Kwabena Boahen. Spiking neural network theory. More specifics on my <a href=\"https://web.stanford.edu/group/brainsinsilicon/jonathantimcheck.html\">website</a>.",
       "imgsrc":"img/jonathantimcheck.jpg"
+    },
+    {
+      "firstname":"Atsushi",
+      "lastname":"Yamamura",
+      "email":"atsushi3@stanford.edu",
+      "description":"M.S. Electrical Engineering & B.S. Physics, University of Tokyo.<br>I am a PhD student in the Applied Physics Department. My interests lie in computational tasks in high dimensional spaces and statistical physics.",
+      "imgsrc":"img/atsushi.png"
     }
   ],
   "alum":
