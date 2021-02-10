@@ -72,6 +72,13 @@
       "imgsrc":"img/linnie.jpg"
     },
     {
+      "firstname":"Daniel",
+      "lastname":"Kunin",
+      "email":"kunin@stanford.edu",
+      "description":"B.S. Applied Math, Brown University.<br>I am a PhD Candidate at the Institute for Computational and Mathematical Engineering focused on computational neuroscience and deep learning theory under the direction of Surya Ganguli and Daniel Yamins. My research focuses on the dynamics of artificial neural network models during training and how to leverage this understanding to generate hypotheses of how biological neural networks might learn.",
+      "imgsrc":"img/daniel.png"
+    },
+    {
       "firstname":"Aran",
       "lastname":"Nayebi",
       "email":"anayebi@stanford.edu",
