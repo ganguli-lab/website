@@ -72,6 +72,13 @@
       "imgsrc":"img/linnie.jpg"
     },
     {
+      "firstname":"Max",
+      "lastname":"Kanwal",
+      "email":"kanwal@stanford.edu",
+      "description":"B.S. (Honors) Electrical Engineering and Computer Science + B.A. Mathematics, UC Berkeley.<br>I am an EE PhD student and a <a href=\"https://neuroscience.stanford.edu/mbct/training-programs/neuro-tech-training-program\">NeuroTech</a> <a href=\"https://neuroscience.stanford.edu/people/max-kanwal\">trainee</a> co-advised by Kwabena Boahen and Surya Ganguli.  Click to learn more about my past <a href=\"https://scholar.google.com/citations?user=o1qFlsgAAAAJ&hl=en\">work</a> and <a href=\"https://www.linkedin.com/in/mkanwal/\">experiences</a>.",
+      "imgsrc":"img/max.png"
+    },
+    {
       "firstname":"Daniel",
       "lastname":"Kunin",
       "email":"kunin@stanford.edu",
@@ -79,10 +86,17 @@
       "imgsrc":"img/daniel.png"
     },
     {
+      "firstname":"Brett",
+      "lastname":"Larsen",
+      "email":"bwlarsen@stanford.edu",
+      "description":"M.S. Statistics, Stanford University. MPhil Scientific Computing, University of Cambridge. B.S. Physics and B.S.E. Electrical Engineering, Arizona State University.<br>I am a PhD candidate in the <a href=\" https://physics.stanford.edu/\">Physics Department</a>, co-advised by Shaul Druckmann. My primary interests involve developing theoretical tools for understanding neural networks, in particular optimization in high-dimensional loss landscapes. See my <a href=\"http://bwlarsen.com/\">website</a> for more.",
+      "imgsrc":"img/brett.jpg"
+    },
+    {
       "firstname":"Aran",
       "lastname":"Nayebi",
       "email":"anayebi@stanford.edu",
-      "description":"M.S. Computer Science, Stanford University. B.S. Mathematics, Stanford University<br>I am a PhD student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>, co-advised by <a href=\"http://stanford.edu/~yamins/\">Dan Yamins</a>. My primary interests lie at the intersection of machine learning and neuroscience, where I use tools from deep learning and statistics to approach problems in systems neuroscience. See my <a href=\"http://stanford.edu/~anayebi/\">website</a> for more.",
+      "description":"M.S. Computer Science, Stanford University. B.S. Mathematics + Symbolic Systems, Stanford University<br>I am a PhD student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>, co-advised by <a href=\"http://stanford.edu/~yamins/\">Dan Yamins</a>. My primary interests lie at the intersection of machine learning and neuroscience, where I use tools from deep learning and statistics to approach problems in systems neuroscience. See my <a href=\"http://stanford.edu/~anayebi/\">website</a> for more.",
       "imgsrc":"img/aran.jpg"
     },
     {
