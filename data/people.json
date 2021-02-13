@@ -12,7 +12,7 @@
       "firstname":"Subhaneil",
       "lastname":"Lahiri",
       "email":"sulahiri[at]stanford.edu",
-      "description":"Ph.D. Physics, Harvard University. MPhys. Oxford University<br> I am a postdoc in the <a href=\"http://www.stanford.edu/dept/app-physics/cgi-bin/\">Applied Physics department</a>. I am interested in most aspects of theoretical neurobiology, and am currently studying models of complex synapses. <a href='https://subhylahiri.github.io'> My website</a>.",
+      "description":"Ph.D. Physics, Harvard University. MPhys. Oxford University.<br> I am a postdoc in the <a href=\"http://www.stanford.edu/dept/app-physics/cgi-bin/\">Applied Physics department</a>. I am interested in most aspects of theoretical neurobiology, and am currently studying models of complex synapses. <a href='https://subhylahiri.github.io'> My website</a>.",
       "imgsrc":"img/subhy.jpg"
     },
     {
@@ -33,7 +33,7 @@
       "firstname":"Sadegh",
       "lastname":"Ebrahimi",
       "email":"sadegh@stanford.edu",
-      "description":"Ph.D. in Electrical Engineering.<br>I am a postdoc student investigating sensory perception by bringing together state-of-the-art high-resolution neural recordings and advanced computational and deep learning techniques, working jointly at Ganguli and Schnitzer Lab.",
+      "description":"Ph.D. in Electrical Engineering, Stanford University.<br>I am a postdoc student investigating sensory perception by bringing together state-of-the-art high-resolution neural recordings and advanced computational and deep learning techniques, working jointly at Ganguli and Schnitzer Lab.",
       "imgsrc":"img/sadegh.jpg"
     },
     {
@@ -47,21 +47,21 @@
       "firstname":"Brandon",
       "lastname":"Benson",
       "email":"bensonb@stanford.edu",
-      "description":"B.S. Physics and Mathematics with Computer Science, MIT <br> I am a Ph.D. student in the <a href=\"https://web.stanford.edu/dept/app-physics/\">Applied Physics Department</a>. I have an inventor spirit, and I love leveraging technology towards social impact. In my research I enjoy studying computation that emerges from networks.  Here is my <a href=\"https://www.linkedin.com/in/bensonb/\">LinkedIn</a>.",
+      "description":"B.S. Physics and Mathematics with Computer Science, MIT.<br> I am a Ph.D. student in the <a href=\"https://web.stanford.edu/dept/app-physics/\">Applied Physics Department</a>. I have an inventor spirit, and I love leveraging technology towards social impact. In my research I enjoy studying computation that emerges from networks.  Here is my <a href=\"https://www.linkedin.com/in/bensonb/\">LinkedIn</a>.",
       "imgsrc":"img/brandon_ganguliweb.jpg"
     },
     {
       "firstname":"Stanislav",
       "lastname":"Fort",
       "email":"sfort1@stanford.edu",
-      "description":"BA (Hons) and MSci from University of Cambridge <br>",
+      "description":"BA (Hons) and MSci from University of Cambridge.<br>",
       "imgsrc":"img/stan.jpg"
     },
     {
       "firstname":"Sarah",
       "lastname":"Harvey",
       "email":"harveys@stanford.edu",
-      "description":"B.S. Physics and Astronomy, University of Washington, Seattle<br> I am a graduate student in the <a href=\"https://web.stanford.edu/dept/app-physics/cgi-bin/\">Applied Physics Department</a>.  I am interested in nonequilibrium statistical physics and understanding the relationship between thermodynamics and information processing, particularly in biological computation.",
+      "description":"B.S. Physics and Astronomy, University of Washington, Seattle.<br> I am a graduate student in the <a href=\"https://web.stanford.edu/dept/app-physics/cgi-bin/\">Applied Physics Department</a>.  I am interested in nonequilibrium statistical physics and understanding the relationship between thermodynamics and information processing, particularly in biological computation.",
       "imgsrc":"img/sarah.jpg"
     },
     {
@@ -96,7 +96,7 @@
       "firstname":"Aran",
       "lastname":"Nayebi",
       "email":"anayebi@stanford.edu",
-      "description":"M.S. Computer Science, Stanford University. B.S. Mathematics + Symbolic Systems, Stanford University<br>I am a PhD student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>, co-advised by <a href=\"http://stanford.edu/~yamins/\">Dan Yamins</a>. My primary interests lie at the intersection of machine learning and neuroscience, where I use tools from deep learning and statistics to approach problems in systems neuroscience. See my <a href=\"http://stanford.edu/~anayebi/\">website</a> for more.",
+      "description":"M.S. Computer Science, Stanford University. B.S. Mathematics + Symbolic Systems, Stanford University.<br>I am a PhD student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>, co-advised by <a href=\"http://stanford.edu/~yamins/\">Dan Yamins</a>. My primary interests lie at the intersection of machine learning and neuroscience, where I use tools from deep learning and statistics to approach problems in systems neuroscience. See my <a href=\"http://stanford.edu/~anayebi/\">website</a> for more.",
       "imgsrc":"img/aran.jpg"
     },
     {
