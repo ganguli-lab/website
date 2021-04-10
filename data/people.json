@@ -100,6 +100,13 @@
       "imgsrc":"img/aran.jpg"
     },
     {
+      "firstname":"Tamra",
+      "lastname":"Nebabu",
+      "email":"tamran@stanford.edu",
+      "description":"B.S. in Physics and Electrical and Computer Engineering, Duke University.<br>I am a PhD student in the Applied Physics Department. I am interested in the intersection of theoretical machine learning and quantum many-body physics. I am currently studying neural network representations of wavefunctions, and many-body physics toy models for optimization.",
+      "imgsrc":"img/tamra.jpg"
+    },
+    {
       "firstname":"Jonathan",
       "lastname":"Timcheck",
       "email":"timcheck@stanford.edu",
