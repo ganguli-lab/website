@@ -96,7 +96,7 @@
       "firstname":"Aran",
       "lastname":"Nayebi",
       "email":"anayebi@stanford.edu",
-      "description":"M.S. Computer Science, Stanford University. B.S. Mathematics + Symbolic Systems, Stanford University.<br>I am a PhD student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>, co-advised by <a href=\"http://stanford.edu/~yamins/\">Dan Yamins</a>. My primary interests lie at the intersection of machine learning and neuroscience, where I use tools from deep learning and statistics to approach problems in systems neuroscience. See my <a href=\"http://stanford.edu/~anayebi/\">website</a> for more.",
+      "description":"M.S. Computer Science, Stanford University. B.S. Mathematics + Symbolic Systems, Stanford University.<br>I am a PhD student in Stanford's <a href=\"http://nsp.stanford.edu/\">Neurosciences Graduate Progam</a>, co-advised by <a href=\"http://stanford.edu/~yamins/\">Dan Yamins</a>. My primary interests lie at the intersection of systems neuroscience and artificial intelligence, where I use tools from deep learning and large-scale data analysis to “reverse engineer” neural circuits. See my <a href=\"https://anayebi.github.io/\">website</a> for more.",
       "imgsrc":"img/aran.jpg"
     },
     {
